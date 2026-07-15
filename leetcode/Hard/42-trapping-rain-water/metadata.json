@@ -1,0 +1,17 @@
+{
+  "id": "42",
+  "title": "Trapping Rain Water",
+  "url": "https://leetcode.com/problems/trapping-rain-water/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "Stack",
+    "Dynamic Programming"
+  ],
+  "solved_date": "2026-07-15",
+  "languages": [
+    "cpp"
+  ]
+}

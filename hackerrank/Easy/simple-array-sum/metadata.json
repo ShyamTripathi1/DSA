@@ -1,0 +1,15 @@
+{
+  "id": "",
+  "title": "Simple Array Sum",
+  "url": "https://www.hackerrank.com/challenges/simple-array-sum/problem",
+  "platform": "HackerRank",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Warmup"
+  ],
+  "solved_date": "2026-07-09",
+  "languages": [
+    "javascript"
+  ]
+}

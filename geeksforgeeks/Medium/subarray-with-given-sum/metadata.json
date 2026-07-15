@@ -1,0 +1,15 @@
+{
+  "id": "",
+  "title": "Subarray with given sum",
+  "url": "https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1",
+  "platform": "GeeksforGeeks",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Sliding Window"
+  ],
+  "solved_date": "2026-07-14",
+  "languages": [
+    "java"
+  ]
+}

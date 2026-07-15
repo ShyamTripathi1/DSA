@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shyam Tripathi - DSA Dashboard</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <!-- Chart.js CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="background-decor">
+        <div class="circle circle-1"></div>
+        <div class="circle circle-2"></div>
+        <div class="circle circle-3"></div>
+    </div>
+
+    <div class="container">
+        <!-- HEADER -->
+        <header class="glass-card header">
+            <div class="header-info">
+                <h1>🏆 Shyam Tripathi</h1>
+                <p class="subtitle">Data Structures & Algorithms Journey</p>
+                <div class="last-sync">Last updated: <span id="last-sync-time">Loading...</span></div>
+            </div>
+            <div class="social-links">
+                <a href="https://github.com/ShyamTripathi1" target="_blank" class="social-btn github">
+                    <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M12 2A10 10 0 0 0 2 12c0 4.42 2.87 8.17 6.84 9.5.5.08.66-.23.66-.5v-1.69c-2.77.6-3.36-1.34-3.36-1.34-.46-1.16-1.11-1.47-1.11-1.47-.9-.62.07-.6.07-.6 1 .07 1.53 1.03 1.53 1.03.9 1.52 2.34 1.07 2.91.83.09-.65.35-1.09.63-1.34-2.22-.25-4.55-1.11-4.55-4.92 0-1.11.38-2 1.03-2.71-.1-.25-.45-1.29.1-2.64 0 0 .84-.27 2.75 1.02.79-.22 1.65-.33 2.5-.33.85 0 1.71.11 2.5.33 1.91-1.29 2.75-1.02 2.75-1.02.55 1.35.2 2.39.1 2.64.65.71 1.03 1.6 1.03 2.71 0 3.82-2.34 4.66-4.57 4.91.36.31.69.92.69 1.85V21c0 .27.16.59.67.5C19.14 20.16 22 16.42 22 12A10 10 0 0 0 12 2z"/></svg>
+                    GitHub
+                </a>
+                <a href="https://leetcode.com/u/ShyamTripathi12/" target="_blank" class="social-btn leetcode">
+                    <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M13.483 0a1.374 1.374 0 0 0-.961.414l-9.777 9.778a1.375 1.375 0 0 0 0 1.945l1.945 1.945a1.375 1.375 0 0 0 1.945 0l9.777-9.777a1.375 1.375 0 0 0 0-1.945L14.444.414A1.374 1.374 0 0 0 13.483 0zm5.097 4.973a1.375 1.375 0 0 0-.961.414L7.842 15.164a1.375 1.375 0 0 0 0 1.945l1.945 1.945a1.375 1.375 0 0 0 1.945 0l9.777-9.777a1.375 1.375 0 0 0 0-1.945l-1.945-1.945a1.375 1.375 0 0 0-.961-.414zM2.73 13.113a1.375 1.375 0 0 0-.961.414L.414 14.882a1.375 1.375 0 0 0 0 1.945l4.316 4.316a1.375 1.375 0 0 0 1.945 0l1.355-1.355a1.375 1.375 0 0 0 0-1.945L3.69 13.527a1.375 1.375 0 0 0-.961-.414z"/></svg>
+                    LeetCode
+                </a>
+                <a href="https://www.geeksforgeeks.org/profile/tripathin2cv" target="_blank" class="social-btn gfg">
+                    <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1.8 14.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5zm3.6-4c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
+                    GFG
+                </a>
+                <a href="https://www.hackerrank.com/profile/2313058_CSDS1C" target="_blank" class="social-btn hackerrank">
+                    <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zm5.72 13.78h-2.5l-1.57-2.73h-3.28v2.73H7.86V8.22h5.05c2.39 0 3.79 1.12 3.79 3.12 0 1.49-.83 2.47-2.09 2.87l1.98 3.57h.03zm-5.72-5.79H10.1v1.94h1.89c1.07 0 1.63-.44 1.63-.97s-.56-.97-1.63-.97z"/></svg>
+                    HackerRank
+                </a>
+            </div>
+        </header>
+
+        <!-- STATS PANEL -->
+        <div class="stats-grid">
+            <div class="glass-card stat-card total">
+                <div class="stat-icon">🔥</div>
+                <div class="stat-details">
+                    <span class="stat-num" id="stat-total">0</span>
+                    <span class="stat-label">Total Solved</span>
+                </div>
+            </div>
+            <div class="glass-card stat-card leetcode-card">
+                <div class="stat-icon">💻</div>
+                <div class="stat-details">
+                    <span class="stat-num" id="stat-leetcode">0</span>
+                    <span class="stat-label">LeetCode</span>
+                </div>
+            </div>
+            <div class="glass-card stat-card gfg-card">
+                <div class="stat-icon">🟢</div>
+                <div class="stat-details">
+                    <span class="stat-num" id="stat-gfg">0</span>
+                    <span class="stat-label">GeeksforGeeks</span>
+                </div>
+            </div>
+            <div class="glass-card stat-card hackerrank-card">
+                <div class="stat-icon">⭐</div>
+                <div class="stat-details">
+                    <span class="stat-num" id="stat-hackerrank">0</span>
+                    <span class="stat-label">HackerRank</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- CHARTS SECTION -->
+        <div class="charts-grid">
+            <div class="glass-card chart-container">
+                <h3>Platform Share</h3>
+                <div class="chart-wrapper">
+                    <canvas id="platformChart"></canvas>
+                </div>
+            </div>
+            <div class="glass-card chart-container">
+                <h3>Difficulty Distribution</h3>
+                <div class="chart-wrapper">
+                    <canvas id="difficultyChart"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <!-- PROBLEMS DIRECTORY -->
+        <div class="glass-card problems-section">
+            <div class="problems-header">
+                <h2>📚 Solved Problems</h2>
+                <div class="filters">
+                    <div class="filter-group search">
+                        <input type="text" id="search-input" placeholder="Search by name or tags...">
+                    </div>
+                    <div class="filter-group">
+                        <select id="platform-filter">
+                            <option value="">All Platforms</option>
+                            <option value="LeetCode">LeetCode</option>
+                            <option value="GeeksforGeeks">GeeksforGeeks</option>
+                            <option value="HackerRank">HackerRank</option>
+                            <option value="Topics">Topics/Other</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <select id="difficulty-filter">
+                            <option value="">All Difficulties</option>
+                            <option value="Easy">Easy</option>
+                            <option value="Medium">Medium</option>
+                            <option value="Hard">Hard</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+
+            <div class="table-container">
+                <table class="problems-table">
+                    <thead>
+                        <tr>
+                            <th style="width: 80px;">ID</th>
+                            <th>Problem Title</th>
+                            <th style="width: 140px;">Platform</th>
+                            <th style="width: 120px;">Difficulty</th>
+                            <th>Tags</th>
+                            <th style="width: 120px;">Languages</th>
+                            <th style="width: 120px;">Solved Date</th>
+                            <th style="width: 100px;">Solution</th>
+                        </tr>
+                    </thead>
+                    <tbody id="problems-tbody">
+                        <tr>
+                            <td colspan="8" class="loading-placeholder">Loading problems database...</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="pagination-footer">
+                <span class="showing-text" id="showing-text">Showing 0 of 0 problems</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Custom JavaScript -->
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

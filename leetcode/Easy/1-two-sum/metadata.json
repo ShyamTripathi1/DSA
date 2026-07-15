@@ -1,0 +1,16 @@
+{
+  "id": "1",
+  "title": "Two Sum",
+  "url": "https://leetcode.com/problems/two-sum/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table"
+  ],
+  "solved_date": "2026-07-10",
+  "languages": [
+    "cpp",
+    "python"
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "stats": {
+    "total": 6,
+    "leetcode": {
+      "total": 3,
+      "Easy": 1,
+      "Medium": 1,
+      "Hard": 1
+    },
+    "geeksforgeeks": {
+      "total": 2,
+      "Easy": 1,
+      "Medium": 1,
+      "Hard": 0
+    },
+    "hackerrank": {
+      "total": 1,
+      "Easy": 1,
+      "Medium": 0,
+      "Hard": 0
+    },
+    "topics": {
+      "total": 0,
+      "Easy": 0,
+      "Medium": 0,
+      "Hard": 0
+    },
+    "languages": {
+      "cpp": 2,
+      "java": 1,
+      "python": 3,
+      "javascript": 1
+    }
+  },
+  "problems": [
+    {
+      "id": "42",
+      "title": "Trapping Rain Water",
+      "url": "https://leetcode.com/problems/trapping-rain-water/",
+      "platform": "LeetCode",
+      "difficulty": "Hard",
+      "tags": [
+        "Array",
+        "Two Pointers",
+        "Stack",
+        "Dynamic Programming"
+      ],
+      "solved_date": "2026-07-15",
+      "languages": [
+        "cpp"
+      ],
+      "path": "leetcode/Hard/42-trapping-rain-water"
+    },
+    {
+      "id": "",
+      "title": "Subarray with given sum",
+      "url": "https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1",
+      "platform": "GeeksforGeeks",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Sliding Window"
+      ],
+      "solved_date": "2026-07-14",
+      "languages": [
+        "java"
+      ],
+      "path": "geeksforgeeks/Medium/subarray-with-given-sum"
+    },
+    {
+      "id": "15",
+      "title": "3Sum",
+      "url": "https://leetcode.com/problems/3sum/",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "solved_date": "2026-07-12",
+      "languages": [
+        "python"
+      ],
+      "path": "leetcode/Medium/15-3sum"
+    },
+    {
+      "id": "",
+      "title": "Missing number in array",
+      "url": "https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1",
+      "platform": "GeeksforGeeks",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Math"
+      ],
+      "solved_date": "2026-07-11",
+      "languages": [
+        "python"
+      ],
+      "path": "geeksforgeeks/Easy/missing-number-in-array"
+    },
+    {
+      "id": "1",
+      "title": "Two Sum",
+      "url": "https://leetcode.com/problems/two-sum/",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Hash Table"
+      ],
+      "solved_date": "2026-07-10",
+      "languages": [
+        "cpp",
+        "python"
+      ],
+      "path": "leetcode/Easy/1-two-sum"
+    },
+    {
+      "id": "",
+      "title": "Simple Array Sum",
+      "url": "https://www.hackerrank.com/challenges/simple-array-sum/problem",
+      "platform": "HackerRank",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Warmup"
+      ],
+      "solved_date": "2026-07-09",
+      "languages": [
+        "javascript"
+      ],
+      "path": "hackerrank/Easy/simple-array-sum"
+    }
+  ],
+  "last_updated": "2026-07-15 22:41:58"
+}
