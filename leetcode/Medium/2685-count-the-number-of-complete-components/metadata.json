@@ -1,0 +1,17 @@
+{
+  "id": "2685",
+  "title": "Count the Number of Complete Components",
+  "url": "https://leetcode.com/problems/count-the-number-of-complete-components/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory"
+  ],
+  "solved_date": "2026-07-11",
+  "languages": [
+    "cpp"
+  ]
+}

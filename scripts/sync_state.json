@@ -1,5 +1,154 @@
 {
-  "last_sync": "2026-07-16T17:47:26.879376+00:00",
-  "problems": {},
-  "profile": {}
+  "last_sync": "2026-07-16T18:02:40.529010+00:00",
+  "problems": {
+    "sum-of-gcd-of-formed-pairs": {
+      "last_submission_id": "2069644085",
+      "last_timestamp": 1784193045,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "gcd-of-odd-and-even-sums": {
+      "last_submission_id": "2069599534",
+      "last_timestamp": 1784190744,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-the-number-of-subsequences-with-equal-gcd": {
+      "last_submission_id": "2067793525",
+      "last_timestamp": 1784054777,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "longest-increasing-subsequence": {
+      "last_submission_id": "2066996021",
+      "last_timestamp": 1784010713,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "sequential-digits": {
+      "last_submission_id": "2066546529",
+      "last_timestamp": 1783967338,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "rank-transform-of-an-array": {
+      "last_submission_id": "2064892268",
+      "last_timestamp": 1783853545,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "scramble-string": {
+      "last_submission_id": "2064849586",
+      "last_timestamp": 1783850452,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximal-rectangle": {
+      "last_submission_id": "2064848971",
+      "last_timestamp": 1783850411,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "text-justification": {
+      "last_submission_id": "2064848402",
+      "last_timestamp": 1783850368,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "count-the-number-of-complete-components": {
+      "last_submission_id": "2064228452",
+      "last_timestamp": 1783796677,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "path-existence-queries-in-a-graph-ii": {
+      "last_submission_id": "2063262206",
+      "last_timestamp": 1783711931,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "path-existence-queries-in-a-graph-i": {
+      "last_submission_id": "2062162487",
+      "last_timestamp": 1783624469,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "concatenate-non-zero-digits-and-multiply-by-sum-ii": {
+      "last_submission_id": "2060907793",
+      "last_timestamp": 1783534729,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "concatenate-non-zero-digits-and-multiply-by-sum-i": {
+      "last_submission_id": "2059621459",
+      "last_timestamp": 1783445468,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "squares-of-a-sorted-array": {
+      "last_submission_id": "2058531439",
+      "last_timestamp": 1783369836,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "remove-covered-intervals": {
+      "last_submission_id": "2058472053",
+      "last_timestamp": 1783364158,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "remove-duplicates-from-sorted-array": {
+      "last_submission_id": "2057835788",
+      "last_timestamp": 1783329640,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "two-sum-ii-input-array-is-sorted": {
+      "last_submission_id": "2057798106",
+      "last_timestamp": 1783327535,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "number-of-paths-with-max-score": {
+      "last_submission_id": "2057156829",
+      "last_timestamp": 1783271044,
+      "languages": [
+        "cpp"
+      ]
+    }
+  },
+  "profile": {
+    "username": "ShyamTripathi12",
+    "ranking": 62301,
+    "solved_stats": {
+      "All": 806,
+      "Easy": 354,
+      "Medium": 368,
+      "Hard": 84
+    },
+    "contest": {
+      "rating": 1449.4,
+      "global_ranking": 545581,
+      "top_percentage": 62.71,
+      "attended": 9
+    }
+  }
 }

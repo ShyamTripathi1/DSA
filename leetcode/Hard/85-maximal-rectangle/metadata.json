@@ -1,0 +1,18 @@
+{
+  "id": "85",
+  "title": "Maximal Rectangle",
+  "url": "https://leetcode.com/problems/maximal-rectangle/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Stack",
+    "Matrix",
+    "Monotonic Stack"
+  ],
+  "solved_date": "2026-07-12",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "1331",
+  "title": "Rank Transform of an Array",
+  "url": "https://leetcode.com/problems/rank-transform-of-an-array/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ],
+  "solved_date": "2026-07-12",
+  "languages": [
+    "cpp"
+  ]
+}

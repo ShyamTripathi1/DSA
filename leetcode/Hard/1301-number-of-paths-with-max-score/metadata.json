@@ -1,0 +1,16 @@
+{
+  "id": "1301",
+  "title": "Number of Paths with Max Score",
+  "url": "https://leetcode.com/problems/number-of-paths-with-max-score/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix"
+  ],
+  "solved_date": "2026-07-05",
+  "languages": [
+    "cpp"
+  ]
+}

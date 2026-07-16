@@ -1,0 +1,15 @@
+{
+  "id": "26",
+  "title": "Remove Duplicates from Sorted Array",
+  "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Two Pointers"
+  ],
+  "solved_date": "2026-07-06",
+  "languages": [
+    "cpp"
+  ]
+}

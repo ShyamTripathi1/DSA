@@ -1,0 +1,16 @@
+{
+  "id": "3756",
+  "title": "Concatenate Non-Zero Digits and Multiply by Sum II",
+  "url": "https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Math",
+    "String",
+    "Prefix Sum"
+  ],
+  "solved_date": "2026-07-08",
+  "languages": [
+    "cpp"
+  ]
+}

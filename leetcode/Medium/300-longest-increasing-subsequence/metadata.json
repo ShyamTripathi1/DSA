@@ -1,0 +1,16 @@
+{
+  "id": "300",
+  "title": "Longest Increasing Subsequence",
+  "url": "https://leetcode.com/problems/longest-increasing-subsequence/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming"
+  ],
+  "solved_date": "2026-07-14",
+  "languages": [
+    "cpp"
+  ]
+}

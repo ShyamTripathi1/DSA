@@ -1,0 +1,15 @@
+{
+  "id": "87",
+  "title": "Scramble String",
+  "url": "https://leetcode.com/problems/scramble-string/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "String",
+    "Dynamic Programming"
+  ],
+  "solved_date": "2026-07-12",
+  "languages": [
+    "cpp"
+  ]
+}

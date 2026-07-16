@@ -1,0 +1,16 @@
+{
+  "id": "977",
+  "title": "Squares of a Sorted Array",
+  "url": "https://leetcode.com/problems/squares-of-a-sorted-array/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "solved_date": "2026-07-06",
+  "languages": [
+    "cpp"
+  ]
+}
