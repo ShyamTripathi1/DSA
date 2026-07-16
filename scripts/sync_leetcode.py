@@ -166,6 +166,22 @@ query recentAcSubmissions($username: String!, $limit: Int!) {
 }
 """
 
+QUERY_SUBMISSION_LIST = """
+query submissionList($offset: Int!, $limit: Int!) {
+  submissionList(offset: $offset, limit: $limit) {
+    hasNext
+    submissions {
+      id
+      title
+      titleSlug
+      timestamp
+      lang
+      statusDisplay
+    }
+  }
+}
+"""
+
 QUERY_QUESTION_DATA = """
 query questionData($titleSlug: String!) {
   question(titleSlug: $titleSlug) {
@@ -226,14 +242,43 @@ def fetch_contest_ranking() -> dict:
 
 def fetch_all_ac_submissions() -> list:
     """Fetch all accepted submissions. Returns list sorted newest-first."""
-    print(f"Fetching accepted submissions for {LEETCODE_USERNAME}...")
-    data = graphql_request(
-        QUERY_RECENT_AC_SUBMISSIONS,
-        {"username": LEETCODE_USERNAME, "limit": 5000},
-    )
-    submissions = data.get("recentAcSubmissionList", [])
-    print(f"  Found {len(submissions)} accepted submissions")
-    return submissions or []
+    if not LEETCODE_SESSION:
+        print(f"Fetching recent public submissions for {LEETCODE_USERNAME}...")
+        data = graphql_request(
+            QUERY_RECENT_AC_SUBMISSIONS,
+            {"username": LEETCODE_USERNAME, "limit": 20},
+        )
+        submissions = data.get("recentAcSubmissionList", [])
+        print(f"  Found {len(submissions)} accepted submissions")
+        return submissions or []
+
+    print(f"Fetching full submission history for {LEETCODE_USERNAME} (this may take a moment)...")
+    offset = 0
+    limit = 20
+    ac_submissions = []
+    
+    while True:
+        data = graphql_request(
+            QUERY_SUBMISSION_LIST,
+            {"offset": offset, "limit": limit}
+        )
+        sub_list = data.get("submissionList", {})
+        if not sub_list:
+            break
+            
+        subs = sub_list.get("submissions", [])
+        for sub in subs:
+            if sub.get("statusDisplay") == "Accepted":
+                ac_submissions.append(sub)
+                
+        if not sub_list.get("hasNext"):
+            break
+            
+        offset += limit
+        time.sleep(REQUEST_DELAY)
+        
+    print(f"  Found {len(ac_submissions)} total accepted submissions")
+    return ac_submissions
 
 
 def fetch_question_data(title_slug: str) -> dict:
