@@ -1,0 +1,16 @@
+{
+  "id": "3488",
+  "title": "Closest Equal Element Queries",
+  "url": "https://leetcode.com/problems/closest-equal-element-queries/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Binary Search"
+  ],
+  "solved_date": "2026-04-16",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "413",
+  "title": "Arithmetic Slices",
+  "url": "https://leetcode.com/problems/arithmetic-slices/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Sliding Window"
+  ],
+  "solved_date": "2026-02-12",
+  "languages": [
+    "cpp"
+  ]
+}

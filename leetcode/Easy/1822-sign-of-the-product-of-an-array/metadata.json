@@ -1,0 +1,15 @@
+{
+  "id": "1822",
+  "title": "Sign of the Product of an Array",
+  "url": "https://leetcode.com/problems/sign-of-the-product-of-an-array/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Math"
+  ],
+  "solved_date": "2025-09-08",
+  "languages": [
+    "cpp"
+  ]
+}

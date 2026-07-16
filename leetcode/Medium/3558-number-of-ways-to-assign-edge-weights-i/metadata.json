@@ -1,0 +1,16 @@
+{
+  "id": "3558",
+  "title": "Number of Ways to Assign Edge Weights I",
+  "url": "https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Math",
+    "Tree",
+    "Depth-First Search"
+  ],
+  "solved_date": "2026-06-11",
+  "languages": [
+    "cpp"
+  ]
+}

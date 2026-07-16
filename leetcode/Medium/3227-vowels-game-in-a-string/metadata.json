@@ -1,0 +1,17 @@
+{
+  "id": "3227",
+  "title": "Vowels Game in a String",
+  "url": "https://leetcode.com/problems/vowels-game-in-a-string/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Math",
+    "String",
+    "Brainteaser",
+    "Game Theory"
+  ],
+  "solved_date": "2025-09-12",
+  "languages": [
+    "cpp"
+  ]
+}

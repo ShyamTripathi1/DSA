@@ -1,0 +1,15 @@
+{
+  "id": "3640",
+  "title": "Trionic Array II",
+  "url": "https://leetcode.com/problems/trionic-array-ii/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "solved_date": "2026-02-11",
+  "languages": [
+    "cpp"
+  ]
+}

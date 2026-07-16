@@ -1,0 +1,16 @@
+{
+  "id": "1840",
+  "title": "Maximum Building Height",
+  "url": "https://leetcode.com/problems/maximum-building-height/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Math",
+    "Sorting"
+  ],
+  "solved_date": "2026-06-20",
+  "languages": [
+    "cpp"
+  ]
+}

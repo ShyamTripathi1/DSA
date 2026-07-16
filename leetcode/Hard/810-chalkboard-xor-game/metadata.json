@@ -1,0 +1,18 @@
+{
+  "id": "810",
+  "title": "Chalkboard XOR Game",
+  "url": "https://leetcode.com/problems/chalkboard-xor-game/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Math",
+    "Bit Manipulation",
+    "Brainteaser",
+    "Game Theory"
+  ],
+  "solved_date": "2025-11-28",
+  "languages": [
+    "cpp"
+  ]
+}

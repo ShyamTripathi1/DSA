@@ -1,0 +1,17 @@
+{
+  "id": "100",
+  "title": "Same Tree",
+  "url": "https://leetcode.com/problems/same-tree/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "solved_date": "2025-10-19",
+  "languages": [
+    "cpp"
+  ]
+}

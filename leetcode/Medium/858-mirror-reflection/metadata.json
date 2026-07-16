@@ -1,0 +1,16 @@
+{
+  "id": "858",
+  "title": "Mirror Reflection",
+  "url": "https://leetcode.com/problems/mirror-reflection/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Math",
+    "Geometry",
+    "Number Theory"
+  ],
+  "solved_date": "2025-09-11",
+  "languages": [
+    "cpp"
+  ]
+}

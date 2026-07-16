@@ -1,0 +1,15 @@
+{
+  "id": "2515",
+  "title": "Shortest Distance to Target String in a Circular Array",
+  "url": "https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "String"
+  ],
+  "solved_date": "2026-04-15",
+  "languages": [
+    "cpp"
+  ]
+}

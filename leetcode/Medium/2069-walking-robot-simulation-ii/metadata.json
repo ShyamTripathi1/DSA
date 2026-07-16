@@ -1,0 +1,15 @@
+{
+  "id": "2069",
+  "title": "Walking Robot Simulation II",
+  "url": "https://leetcode.com/problems/walking-robot-simulation-ii/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Design",
+    "Simulation"
+  ],
+  "solved_date": "2026-04-07",
+  "languages": [
+    "cpp"
+  ]
+}

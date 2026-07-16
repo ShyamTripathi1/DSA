@@ -1,0 +1,15 @@
+{
+  "id": "135",
+  "title": "Candy",
+  "url": "https://leetcode.com/problems/candy/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Greedy"
+  ],
+  "solved_date": "2025-11-20",
+  "languages": [
+    "cpp"
+  ]
+}

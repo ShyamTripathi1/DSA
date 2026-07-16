@@ -1,0 +1,17 @@
+{
+  "id": "2196",
+  "title": "Create Binary Tree From Descriptions",
+  "url": "https://leetcode.com/problems/create-binary-tree-from-descriptions/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Tree",
+    "Binary Tree"
+  ],
+  "solved_date": "2026-06-07",
+  "languages": [
+    "cpp"
+  ]
+}

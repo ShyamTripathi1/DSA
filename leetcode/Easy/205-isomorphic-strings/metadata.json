@@ -1,0 +1,15 @@
+{
+  "id": "205",
+  "title": "Isomorphic Strings",
+  "url": "https://leetcode.com/problems/isomorphic-strings/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Hash Table",
+    "String"
+  ],
+  "solved_date": "2025-08-07",
+  "languages": [
+    "cpp"
+  ]
+}

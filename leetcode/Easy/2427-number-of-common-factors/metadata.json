@@ -1,0 +1,16 @@
+{
+  "id": "2427",
+  "title": "Number of Common Factors",
+  "url": "https://leetcode.com/problems/number-of-common-factors/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Math",
+    "Enumeration",
+    "Number Theory"
+  ],
+  "solved_date": "2025-09-11",
+  "languages": [
+    "cpp"
+  ]
+}

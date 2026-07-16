@@ -1,0 +1,16 @@
+{
+  "id": "1091",
+  "title": "Shortest Path in Binary Matrix",
+  "url": "https://leetcode.com/problems/shortest-path-in-binary-matrix/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Breadth-First Search",
+    "Matrix"
+  ],
+  "solved_date": "2025-12-08",
+  "languages": [
+    "cpp"
+  ]
+}

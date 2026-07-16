@@ -1,0 +1,16 @@
+{
+  "id": "3838",
+  "title": "Weighted Word Mapping",
+  "url": "https://leetcode.com/problems/weighted-word-mapping/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "String",
+    "Simulation"
+  ],
+  "solved_date": "2026-06-13",
+  "languages": [
+    "cpp"
+  ]
+}

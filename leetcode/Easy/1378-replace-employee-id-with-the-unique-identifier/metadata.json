@@ -1,0 +1,14 @@
+{
+  "id": "1378",
+  "title": "Replace Employee ID With The Unique Identifier",
+  "url": "https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Database"
+  ],
+  "solved_date": "2026-06-17",
+  "languages": [
+    "mysql"
+  ]
+}

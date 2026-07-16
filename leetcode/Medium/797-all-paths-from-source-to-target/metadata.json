@@ -1,0 +1,17 @@
+{
+  "id": "797",
+  "title": "All Paths From Source to Target",
+  "url": "https://leetcode.com/problems/all-paths-from-source-to-target/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Backtracking",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory"
+  ],
+  "solved_date": "2026-03-30",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "1306",
+  "title": "Jump Game III",
+  "url": "https://leetcode.com/problems/jump-game-iii/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search"
+  ],
+  "solved_date": "2026-05-17",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1679",
+  "title": "Max Number of K-Sum Pairs",
+  "url": "https://leetcode.com/problems/max-number-of-k-sum-pairs/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "solved_date": "2025-09-16",
+  "languages": [
+    "cpp"
+  ]
+}

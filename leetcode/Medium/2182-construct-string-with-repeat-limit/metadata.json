@@ -1,0 +1,18 @@
+{
+  "id": "2182",
+  "title": "Construct String With Repeat Limit",
+  "url": "https://leetcode.com/problems/construct-string-with-repeat-limit/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Hash Table",
+    "String",
+    "Greedy",
+    "Heap (Priority Queue)",
+    "Counting"
+  ],
+  "solved_date": "2025-10-29",
+  "languages": [
+    "cpp"
+  ]
+}

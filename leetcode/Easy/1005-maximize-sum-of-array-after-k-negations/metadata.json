@@ -1,0 +1,16 @@
+{
+  "id": "1005",
+  "title": "Maximize Sum Of Array After K Negations",
+  "url": "https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
+  "solved_date": "2025-10-15",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "874",
+  "title": "Walking Robot Simulation",
+  "url": "https://leetcode.com/problems/walking-robot-simulation/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Simulation"
+  ],
+  "solved_date": "2026-04-06",
+  "languages": [
+    "cpp"
+  ]
+}

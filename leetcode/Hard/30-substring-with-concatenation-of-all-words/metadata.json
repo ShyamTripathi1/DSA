@@ -1,0 +1,16 @@
+{
+  "id": "30",
+  "title": "Substring with Concatenation of All Words",
+  "url": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Hash Table",
+    "String",
+    "Sliding Window"
+  ],
+  "solved_date": "2026-02-12",
+  "languages": [
+    "cpp"
+  ]
+}

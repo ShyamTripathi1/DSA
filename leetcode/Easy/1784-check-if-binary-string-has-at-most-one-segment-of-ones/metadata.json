@@ -1,0 +1,14 @@
+{
+  "id": "1784",
+  "title": "Check if Binary String Has at Most One Segment of Ones",
+  "url": "https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "String"
+  ],
+  "solved_date": "2026-03-06",
+  "languages": [
+    "cpp"
+  ]
+}

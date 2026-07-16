@@ -1,0 +1,15 @@
+{
+  "id": "1845",
+  "title": "Seat Reservation Manager",
+  "url": "https://leetcode.com/problems/seat-reservation-manager/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Design",
+    "Heap (Priority Queue)"
+  ],
+  "solved_date": "2026-02-06",
+  "languages": [
+    "cpp"
+  ]
+}

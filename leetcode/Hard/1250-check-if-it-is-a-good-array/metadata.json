@@ -1,0 +1,16 @@
+{
+  "id": "1250",
+  "title": "Check If It Is a Good Array",
+  "url": "https://leetcode.com/problems/check-if-it-is-a-good-array/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Math",
+    "Number Theory"
+  ],
+  "solved_date": "2025-09-19",
+  "languages": [
+    "cpp"
+  ]
+}

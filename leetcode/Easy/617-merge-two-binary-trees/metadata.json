@@ -1,0 +1,17 @@
+{
+  "id": "617",
+  "title": "Merge Two Binary Trees",
+  "url": "https://leetcode.com/problems/merge-two-binary-trees/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "solved_date": "2025-09-09",
+  "languages": [
+    "cpp"
+  ]
+}

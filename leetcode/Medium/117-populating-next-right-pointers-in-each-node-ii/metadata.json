@@ -1,0 +1,18 @@
+{
+  "id": "117",
+  "title": "Populating Next Right Pointers in Each Node II",
+  "url": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Linked List",
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "solved_date": "2026-01-30",
+  "languages": [
+    "cpp"
+  ]
+}

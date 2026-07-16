@@ -1,0 +1,15 @@
+{
+  "id": "704",
+  "title": "Binary Search",
+  "url": "https://leetcode.com/problems/binary-search/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Binary Search"
+  ],
+  "solved_date": "2024-11-11",
+  "languages": [
+    "cpp"
+  ]
+}

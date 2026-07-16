@@ -1,0 +1,15 @@
+{
+  "id": "2236",
+  "title": "Root Equals Sum of Children",
+  "url": "https://leetcode.com/problems/root-equals-sum-of-children/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Tree",
+    "Binary Tree"
+  ],
+  "solved_date": "2025-07-21",
+  "languages": [
+    "cpp"
+  ]
+}

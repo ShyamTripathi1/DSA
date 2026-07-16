@@ -1,0 +1,15 @@
+{
+  "id": "925",
+  "title": "Long Pressed Name",
+  "url": "https://leetcode.com/problems/long-pressed-name/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Two Pointers",
+    "String"
+  ],
+  "solved_date": "2025-11-13",
+  "languages": [
+    "cpp"
+  ]
+}

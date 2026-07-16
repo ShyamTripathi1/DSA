@@ -1,0 +1,17 @@
+{
+  "id": "496",
+  "title": "Next Greater Element I",
+  "url": "https://leetcode.com/problems/next-greater-element-i/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Stack",
+    "Monotonic Stack"
+  ],
+  "solved_date": "2025-06-02",
+  "languages": [
+    "cpp"
+  ]
+}

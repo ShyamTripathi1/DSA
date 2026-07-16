@@ -1,0 +1,17 @@
+{
+  "id": "3225",
+  "title": "Maximum Score From Grid Operations",
+  "url": "https://leetcode.com/problems/maximum-score-from-grid-operations/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix",
+    "Prefix Sum"
+  ],
+  "solved_date": "2026-04-29",
+  "languages": [
+    "cpp"
+  ]
+}

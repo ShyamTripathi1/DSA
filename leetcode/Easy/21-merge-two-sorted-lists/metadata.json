@@ -1,0 +1,15 @@
+{
+  "id": "21",
+  "title": "Merge Two Sorted Lists",
+  "url": "https://leetcode.com/problems/merge-two-sorted-lists/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Linked List",
+    "Recursion"
+  ],
+  "solved_date": "2025-08-09",
+  "languages": [
+    "cpp"
+  ]
+}

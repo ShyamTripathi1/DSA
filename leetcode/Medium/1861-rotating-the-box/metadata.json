@@ -1,0 +1,16 @@
+{
+  "id": "1861",
+  "title": "Rotating the Box",
+  "url": "https://leetcode.com/problems/rotating-the-box/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "Matrix"
+  ],
+  "solved_date": "2026-05-06",
+  "languages": [
+    "cpp"
+  ]
+}

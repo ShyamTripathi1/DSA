@@ -1,0 +1,16 @@
+{
+  "id": "1910",
+  "title": "Remove All Occurrences of a Substring",
+  "url": "https://leetcode.com/problems/remove-all-occurrences-of-a-substring/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "String",
+    "Stack",
+    "Simulation"
+  ],
+  "solved_date": "2025-04-17",
+  "languages": [
+    "cpp"
+  ]
+}

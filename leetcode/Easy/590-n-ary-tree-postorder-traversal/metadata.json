@@ -1,0 +1,16 @@
+{
+  "id": "590",
+  "title": "N-ary Tree Postorder Traversal",
+  "url": "https://leetcode.com/problems/n-ary-tree-postorder-traversal/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Stack",
+    "Tree",
+    "Depth-First Search"
+  ],
+  "solved_date": "2026-02-11",
+  "languages": [
+    "cpp"
+  ]
+}

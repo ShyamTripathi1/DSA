@@ -1,0 +1,18 @@
+{
+  "id": "105",
+  "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+  "url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Tree",
+    "Binary Tree"
+  ],
+  "solved_date": "2025-08-09",
+  "languages": [
+    "cpp"
+  ]
+}

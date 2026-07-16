@@ -1,0 +1,15 @@
+{
+  "id": "50",
+  "title": "Pow(x, n)",
+  "url": "https://leetcode.com/problems/powx-n/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Math",
+    "Recursion"
+  ],
+  "solved_date": "2025-04-02",
+  "languages": [
+    "cpp"
+  ]
+}

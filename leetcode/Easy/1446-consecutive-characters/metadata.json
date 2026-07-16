@@ -1,0 +1,14 @@
+{
+  "id": "1446",
+  "title": "Consecutive Characters",
+  "url": "https://leetcode.com/problems/consecutive-characters/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "String"
+  ],
+  "solved_date": "2025-07-23",
+  "languages": [
+    "cpp"
+  ]
+}

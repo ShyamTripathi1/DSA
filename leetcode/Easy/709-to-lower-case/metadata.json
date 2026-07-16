@@ -1,0 +1,14 @@
+{
+  "id": "709",
+  "title": "To Lower Case",
+  "url": "https://leetcode.com/problems/to-lower-case/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "String"
+  ],
+  "solved_date": "2025-09-17",
+  "languages": [
+    "cpp"
+  ]
+}

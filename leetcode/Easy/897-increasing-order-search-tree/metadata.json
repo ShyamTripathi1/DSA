@@ -1,0 +1,18 @@
+{
+  "id": "897",
+  "title": "Increasing Order Search Tree",
+  "url": "https://leetcode.com/problems/increasing-order-search-tree/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Stack",
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "solved_date": "2025-09-05",
+  "languages": [
+    "cpp"
+  ]
+}

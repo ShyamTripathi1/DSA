@@ -1,0 +1,17 @@
+{
+  "id": "199",
+  "title": "Binary Tree Right Side View",
+  "url": "https://leetcode.com/problems/binary-tree-right-side-view/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "solved_date": "2025-08-06",
+  "languages": [
+    "cpp"
+  ]
+}

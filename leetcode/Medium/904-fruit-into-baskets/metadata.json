@@ -1,0 +1,16 @@
+{
+  "id": "904",
+  "title": "Fruit Into Baskets",
+  "url": "https://leetcode.com/problems/fruit-into-baskets/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Sliding Window"
+  ],
+  "solved_date": "2025-11-06",
+  "languages": [
+    "cpp"
+  ]
+}

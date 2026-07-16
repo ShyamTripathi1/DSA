@@ -1,0 +1,14 @@
+{
+  "id": "3798",
+  "title": "Largest Even Number",
+  "url": "https://leetcode.com/problems/largest-even-number/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "String"
+  ],
+  "solved_date": "2026-01-04",
+  "languages": [
+    "cpp"
+  ]
+}

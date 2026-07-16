@@ -1,0 +1,17 @@
+{
+  "id": "1814",
+  "title": "Count Nice Pairs in an Array",
+  "url": "https://leetcode.com/problems/count-nice-pairs-in-an-array/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Counting"
+  ],
+  "solved_date": "2025-10-09",
+  "languages": [
+    "cpp"
+  ]
+}

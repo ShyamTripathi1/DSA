@@ -1,0 +1,19 @@
+{
+  "id": "3739",
+  "title": "Count Subarrays With Majority Element II",
+  "url": "https://leetcode.com/problems/count-subarrays-with-majority-element-ii/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Segment Tree",
+    "Merge Sort",
+    "Prefix Sum"
+  ],
+  "solved_date": "2026-06-26",
+  "languages": [
+    "cpp"
+  ]
+}

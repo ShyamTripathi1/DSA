@@ -1,0 +1,15 @@
+{
+  "id": "3660",
+  "title": "Jump Game IX",
+  "url": "https://leetcode.com/problems/jump-game-ix/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "solved_date": "2026-05-07",
+  "languages": [
+    "cpp"
+  ]
+}

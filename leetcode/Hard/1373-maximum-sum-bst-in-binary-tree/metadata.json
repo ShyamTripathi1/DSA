@@ -1,0 +1,18 @@
+{
+  "id": "1373",
+  "title": "Maximum Sum BST in Binary Tree",
+  "url": "https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Dynamic Programming",
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "solved_date": "2026-01-30",
+  "languages": [
+    "cpp"
+  ]
+}

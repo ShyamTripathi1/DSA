@@ -1,0 +1,18 @@
+{
+  "id": "528",
+  "title": "Random Pick with Weight",
+  "url": "https://leetcode.com/problems/random-pick-with-weight/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Math",
+    "Binary Search",
+    "Prefix Sum",
+    "Randomized"
+  ],
+  "solved_date": "2025-11-28",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "794",
+  "title": "Valid Tic-Tac-Toe State",
+  "url": "https://leetcode.com/problems/valid-tic-tac-toe-state/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Matrix"
+  ],
+  "solved_date": "2025-11-28",
+  "languages": [
+    "cpp"
+  ]
+}

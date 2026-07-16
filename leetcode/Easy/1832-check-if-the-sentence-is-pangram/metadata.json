@@ -1,0 +1,15 @@
+{
+  "id": "1832",
+  "title": "Check if the Sentence Is Pangram",
+  "url": "https://leetcode.com/problems/check-if-the-sentence-is-pangram/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Hash Table",
+    "String"
+  ],
+  "solved_date": "2025-06-06",
+  "languages": [
+    "cpp"
+  ]
+}

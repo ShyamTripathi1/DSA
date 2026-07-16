@@ -1,0 +1,15 @@
+{
+  "id": "2733",
+  "title": "Neither Minimum nor Maximum",
+  "url": "https://leetcode.com/problems/neither-minimum-nor-maximum/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Sorting"
+  ],
+  "solved_date": "2025-08-24",
+  "languages": [
+    "cpp"
+  ]
+}

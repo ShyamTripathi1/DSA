@@ -1,0 +1,17 @@
+{
+  "id": "2442",
+  "title": "Count Number of Distinct Integers After Reverse Operations",
+  "url": "https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Counting"
+  ],
+  "solved_date": "2025-10-07",
+  "languages": [
+    "cpp"
+  ]
+}

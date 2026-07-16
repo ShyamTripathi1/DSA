@@ -1,0 +1,15 @@
+{
+  "id": "334",
+  "title": "Increasing Triplet Subsequence",
+  "url": "https://leetcode.com/problems/increasing-triplet-subsequence/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Greedy"
+  ],
+  "solved_date": "2025-07-26",
+  "languages": [
+    "cpp"
+  ]
+}

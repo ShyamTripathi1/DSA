@@ -1,0 +1,17 @@
+{
+  "id": "23",
+  "title": "Merge k Sorted Lists",
+  "url": "https://leetcode.com/problems/merge-k-sorted-lists/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Linked List",
+    "Divide and Conquer",
+    "Heap (Priority Queue)",
+    "Merge Sort"
+  ],
+  "solved_date": "2025-08-31",
+  "languages": [
+    "cpp"
+  ]
+}

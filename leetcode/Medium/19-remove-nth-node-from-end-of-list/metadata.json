@@ -1,0 +1,15 @@
+{
+  "id": "19",
+  "title": "Remove Nth Node From End of List",
+  "url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Linked List",
+    "Two Pointers"
+  ],
+  "solved_date": "2025-05-09",
+  "languages": [
+    "cpp"
+  ]
+}

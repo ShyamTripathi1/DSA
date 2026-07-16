@@ -1,0 +1,17 @@
+{
+  "id": "404",
+  "title": "Sum of Left Leaves",
+  "url": "https://leetcode.com/problems/sum-of-left-leaves/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "solved_date": "2025-07-21",
+  "languages": [
+    "cpp"
+  ]
+}

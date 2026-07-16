@@ -1,0 +1,16 @@
+{
+  "id": "2190",
+  "title": "Most Frequent Number Following Key In an Array",
+  "url": "https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Counting"
+  ],
+  "solved_date": "2025-11-14",
+  "languages": [
+    "cpp"
+  ]
+}

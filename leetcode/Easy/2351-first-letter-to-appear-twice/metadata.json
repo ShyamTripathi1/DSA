@@ -1,0 +1,17 @@
+{
+  "id": "2351",
+  "title": "First Letter to Appear Twice",
+  "url": "https://leetcode.com/problems/first-letter-to-appear-twice/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Hash Table",
+    "String",
+    "Bit Manipulation",
+    "Counting"
+  ],
+  "solved_date": "2025-08-23",
+  "languages": [
+    "cpp"
+  ]
+}

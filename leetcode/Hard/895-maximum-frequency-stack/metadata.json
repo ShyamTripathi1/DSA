@@ -1,0 +1,17 @@
+{
+  "id": "895",
+  "title": "Maximum Frequency Stack",
+  "url": "https://leetcode.com/problems/maximum-frequency-stack/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Hash Table",
+    "Stack",
+    "Design",
+    "Ordered Set"
+  ],
+  "solved_date": "2026-04-13",
+  "languages": [
+    "cpp"
+  ]
+}

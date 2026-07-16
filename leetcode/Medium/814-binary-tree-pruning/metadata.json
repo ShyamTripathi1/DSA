@@ -1,0 +1,16 @@
+{
+  "id": "814",
+  "title": "Binary Tree Pruning",
+  "url": "https://leetcode.com/problems/binary-tree-pruning/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "solved_date": "2025-09-19",
+  "languages": [
+    "cpp"
+  ]
+}

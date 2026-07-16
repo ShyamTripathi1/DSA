@@ -1,0 +1,16 @@
+{
+  "id": "231",
+  "title": "Power of Two",
+  "url": "https://leetcode.com/problems/power-of-two/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Math",
+    "Bit Manipulation",
+    "Recursion"
+  ],
+  "solved_date": "2025-04-04",
+  "languages": [
+    "cpp"
+  ]
+}

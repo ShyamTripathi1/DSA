@@ -1,0 +1,16 @@
+{
+  "id": "3688",
+  "title": "Bitwise OR of Even Numbers in an Array",
+  "url": "https://leetcode.com/problems/bitwise-or-of-even-numbers-in-an-array/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Bit Manipulation",
+    "Simulation"
+  ],
+  "solved_date": "2025-10-05",
+  "languages": [
+    "cpp"
+  ]
+}

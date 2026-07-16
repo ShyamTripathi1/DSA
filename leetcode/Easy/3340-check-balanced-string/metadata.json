@@ -1,0 +1,14 @@
+{
+  "id": "3340",
+  "title": "Check Balanced String",
+  "url": "https://leetcode.com/problems/check-balanced-string/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "String"
+  ],
+  "solved_date": "2025-08-23",
+  "languages": [
+    "cpp"
+  ]
+}

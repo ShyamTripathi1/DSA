@@ -1,0 +1,21 @@
+{
+  "id": "912",
+  "title": "Sort an Array",
+  "url": "https://leetcode.com/problems/sort-an-array/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Divide and Conquer",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Merge Sort",
+    "Bucket Sort",
+    "Radix Sort",
+    "Counting Sort"
+  ],
+  "solved_date": "2025-08-15",
+  "languages": [
+    "cpp"
+  ]
+}

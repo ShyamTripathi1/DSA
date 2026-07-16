@@ -1,0 +1,16 @@
+{
+  "id": "102",
+  "title": "Binary Tree Level Order Traversal",
+  "url": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Tree",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "solved_date": "2025-10-10",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "1539",
+  "title": "Kth Missing Positive Number",
+  "url": "https://leetcode.com/problems/kth-missing-positive-number/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Binary Search"
+  ],
+  "solved_date": "2025-07-04",
+  "languages": [
+    "cpp"
+  ]
+}

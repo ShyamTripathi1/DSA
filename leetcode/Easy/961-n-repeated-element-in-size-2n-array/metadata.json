@@ -1,0 +1,15 @@
+{
+  "id": "961",
+  "title": "N-Repeated Element in Size 2N Array",
+  "url": "https://leetcode.com/problems/n-repeated-element-in-size-2n-array/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table"
+  ],
+  "solved_date": "2026-01-02",
+  "languages": [
+    "cpp"
+  ]
+}

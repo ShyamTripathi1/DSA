@@ -1,0 +1,15 @@
+{
+  "id": "1991",
+  "title": "Find the Middle Index in Array",
+  "url": "https://leetcode.com/problems/find-the-middle-index-in-array/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "solved_date": "2025-09-05",
+  "languages": [
+    "cpp"
+  ]
+}

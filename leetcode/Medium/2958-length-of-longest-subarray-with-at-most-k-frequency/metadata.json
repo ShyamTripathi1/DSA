@@ -1,0 +1,16 @@
+{
+  "id": "2958",
+  "title": "Length of Longest Subarray With at Most K Frequency",
+  "url": "https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Sliding Window"
+  ],
+  "solved_date": "2025-09-06",
+  "languages": [
+    "cpp"
+  ]
+}

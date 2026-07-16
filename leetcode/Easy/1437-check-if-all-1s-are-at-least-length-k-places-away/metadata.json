@@ -1,0 +1,14 @@
+{
+  "id": "1437",
+  "title": "Check If All 1's Are at Least Length K Places Away",
+  "url": "https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array"
+  ],
+  "solved_date": "2025-11-17",
+  "languages": [
+    "cpp"
+  ]
+}

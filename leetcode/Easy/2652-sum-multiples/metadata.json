@@ -1,0 +1,14 @@
+{
+  "id": "2652",
+  "title": "Sum Multiples",
+  "url": "https://leetcode.com/problems/sum-multiples/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Math"
+  ],
+  "solved_date": "2025-10-12",
+  "languages": [
+    "cpp"
+  ]
+}

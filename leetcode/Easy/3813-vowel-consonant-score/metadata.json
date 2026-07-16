@@ -1,0 +1,15 @@
+{
+  "id": "3813",
+  "title": "Vowel-Consonant Score",
+  "url": "https://leetcode.com/problems/vowel-consonant-score/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "String",
+    "Simulation"
+  ],
+  "solved_date": "2026-01-18",
+  "languages": [
+    "cpp"
+  ]
+}

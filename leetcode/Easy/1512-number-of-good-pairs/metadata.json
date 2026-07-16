@@ -1,0 +1,17 @@
+{
+  "id": "1512",
+  "title": "Number of Good Pairs",
+  "url": "https://leetcode.com/problems/number-of-good-pairs/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Counting"
+  ],
+  "solved_date": "2025-08-22",
+  "languages": [
+    "cpp"
+  ]
+}

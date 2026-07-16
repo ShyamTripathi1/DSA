@@ -1,0 +1,16 @@
+{
+  "id": "740",
+  "title": "Delete and Earn",
+  "url": "https://leetcode.com/problems/delete-and-earn/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Dynamic Programming"
+  ],
+  "solved_date": "2025-11-28",
+  "languages": [
+    "cpp"
+  ]
+}

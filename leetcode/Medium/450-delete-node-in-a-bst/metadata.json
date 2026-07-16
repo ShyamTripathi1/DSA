@@ -1,0 +1,16 @@
+{
+  "id": "450",
+  "title": "Delete Node in a BST",
+  "url": "https://leetcode.com/problems/delete-node-in-a-bst/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Tree",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "solved_date": "2025-08-12",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "295",
+  "title": "Find Median from Data Stream",
+  "url": "https://leetcode.com/problems/find-median-from-data-stream/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Two Pointers",
+    "Design",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Data Stream"
+  ],
+  "solved_date": "2026-02-02",
+  "languages": [
+    "cpp"
+  ]
+}

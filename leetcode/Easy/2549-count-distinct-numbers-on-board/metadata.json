@@ -1,0 +1,17 @@
+{
+  "id": "2549",
+  "title": "Count Distinct Numbers on Board",
+  "url": "https://leetcode.com/problems/count-distinct-numbers-on-board/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Simulation"
+  ],
+  "solved_date": "2025-09-12",
+  "languages": [
+    "cpp"
+  ]
+}

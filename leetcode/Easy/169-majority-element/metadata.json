@@ -1,0 +1,18 @@
+{
+  "id": "169",
+  "title": "Majority Element",
+  "url": "https://leetcode.com/problems/majority-element/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Sorting",
+    "Counting"
+  ],
+  "solved_date": "2026-03-31",
+  "languages": [
+    "cpp"
+  ]
+}

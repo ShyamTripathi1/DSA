@@ -1,0 +1,15 @@
+{
+  "id": "27",
+  "title": "Remove Element",
+  "url": "https://leetcode.com/problems/remove-element/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Two Pointers"
+  ],
+  "solved_date": "2026-03-31",
+  "languages": [
+    "cpp"
+  ]
+}

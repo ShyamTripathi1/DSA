@@ -1,0 +1,15 @@
+{
+  "id": "374",
+  "title": "Guess Number Higher or Lower",
+  "url": "https://leetcode.com/problems/guess-number-higher-or-lower/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Binary Search",
+    "Interactive"
+  ],
+  "solved_date": "2025-07-04",
+  "languages": [
+    "cpp"
+  ]
+}

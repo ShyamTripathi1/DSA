@@ -1,0 +1,17 @@
+{
+  "id": "229",
+  "title": "Majority Element II",
+  "url": "https://leetcode.com/problems/majority-element-ii/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Sorting",
+    "Counting"
+  ],
+  "solved_date": "2026-03-31",
+  "languages": [
+    "cpp"
+  ]
+}

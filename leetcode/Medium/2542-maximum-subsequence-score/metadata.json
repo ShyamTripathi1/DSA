@@ -1,0 +1,17 @@
+{
+  "id": "2542",
+  "title": "Maximum Subsequence Score",
+  "url": "https://leetcode.com/problems/maximum-subsequence-score/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Greedy",
+    "Sorting",
+    "Heap (Priority Queue)"
+  ],
+  "solved_date": "2026-06-10",
+  "languages": [
+    "cpp"
+  ]
+}

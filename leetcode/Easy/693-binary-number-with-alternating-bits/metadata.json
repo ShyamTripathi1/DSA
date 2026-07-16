@@ -1,0 +1,14 @@
+{
+  "id": "693",
+  "title": "Binary Number with Alternating Bits",
+  "url": "https://leetcode.com/problems/binary-number-with-alternating-bits/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Bit Manipulation"
+  ],
+  "solved_date": "2026-02-18",
+  "languages": [
+    "cpp"
+  ]
+}

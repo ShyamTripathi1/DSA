@@ -1,0 +1,17 @@
+{
+  "id": "567",
+  "title": "Permutation in String",
+  "url": "https://leetcode.com/problems/permutation-in-string/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Hash Table",
+    "Two Pointers",
+    "String",
+    "Sliding Window"
+  ],
+  "solved_date": "2025-04-18",
+  "languages": [
+    "cpp"
+  ]
+}

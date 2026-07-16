@@ -1,0 +1,16 @@
+{
+  "id": "2108",
+  "title": "Find First Palindromic String in the Array",
+  "url": "https://leetcode.com/problems/find-first-palindromic-string-in-the-array/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "String"
+  ],
+  "solved_date": "2025-10-28",
+  "languages": [
+    "cpp"
+  ]
+}

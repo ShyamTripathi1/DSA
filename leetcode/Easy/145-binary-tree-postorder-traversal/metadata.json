@@ -1,0 +1,17 @@
+{
+  "id": "145",
+  "title": "Binary Tree Postorder Traversal",
+  "url": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Stack",
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "solved_date": "2025-07-18",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "326",
+  "title": "Power of Three",
+  "url": "https://leetcode.com/problems/power-of-three/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Math",
+    "Recursion"
+  ],
+  "solved_date": "2025-05-11",
+  "languages": [
+    "cpp"
+  ]
+}

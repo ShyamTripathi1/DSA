@@ -1,0 +1,15 @@
+{
+  "id": "3884",
+  "title": "First Matching Character From Both Ends",
+  "url": "https://leetcode.com/problems/first-matching-character-from-both-ends/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Two Pointers",
+    "String"
+  ],
+  "solved_date": "2026-05-09",
+  "languages": [
+    "cpp"
+  ]
+}

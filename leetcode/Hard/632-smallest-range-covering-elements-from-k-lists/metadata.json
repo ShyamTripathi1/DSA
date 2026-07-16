@@ -1,0 +1,19 @@
+{
+  "id": "632",
+  "title": "Smallest Range Covering Elements from K Lists",
+  "url": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Greedy",
+    "Sliding Window",
+    "Sorting",
+    "Heap (Priority Queue)"
+  ],
+  "solved_date": "2025-09-03",
+  "languages": [
+    "cpp"
+  ]
+}

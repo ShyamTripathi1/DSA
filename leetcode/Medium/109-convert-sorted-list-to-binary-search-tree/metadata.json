@@ -1,0 +1,18 @@
+{
+  "id": "109",
+  "title": "Convert Sorted List to Binary Search Tree",
+  "url": "https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Linked List",
+    "Divide and Conquer",
+    "Tree",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "solved_date": "2025-09-23",
+  "languages": [
+    "cpp"
+  ]
+}

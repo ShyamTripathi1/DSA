@@ -1,0 +1,15 @@
+{
+  "id": "796",
+  "title": "Rotate String",
+  "url": "https://leetcode.com/problems/rotate-string/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "String",
+    "String Matching"
+  ],
+  "solved_date": "2026-05-03",
+  "languages": [
+    "cpp"
+  ]
+}

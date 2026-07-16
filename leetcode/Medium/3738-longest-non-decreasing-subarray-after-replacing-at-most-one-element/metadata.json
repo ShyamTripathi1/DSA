@@ -1,0 +1,15 @@
+{
+  "id": "3738",
+  "title": "Longest Non-Decreasing Subarray After Replacing at Most One Element",
+  "url": "https://leetcode.com/problems/longest-non-decreasing-subarray-after-replacing-at-most-one-element/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "solved_date": "2025-11-08",
+  "languages": [
+    "cpp"
+  ]
+}

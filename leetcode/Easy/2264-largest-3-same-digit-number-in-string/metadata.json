@@ -1,0 +1,14 @@
+{
+  "id": "2264",
+  "title": "Largest 3-Same-Digit Number in String",
+  "url": "https://leetcode.com/problems/largest-3-same-digit-number-in-string/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "String"
+  ],
+  "solved_date": "2025-08-14",
+  "languages": [
+    "cpp"
+  ]
+}

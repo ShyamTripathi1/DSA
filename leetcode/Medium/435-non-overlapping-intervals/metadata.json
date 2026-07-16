@@ -1,0 +1,17 @@
+{
+  "id": "435",
+  "title": "Non-overlapping Intervals",
+  "url": "https://leetcode.com/problems/non-overlapping-intervals/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Greedy",
+    "Sorting"
+  ],
+  "solved_date": "2025-09-21",
+  "languages": [
+    "cpp"
+  ]
+}

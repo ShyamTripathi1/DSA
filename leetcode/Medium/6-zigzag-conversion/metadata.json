@@ -1,0 +1,14 @@
+{
+  "id": "6",
+  "title": "Zigzag Conversion",
+  "url": "https://leetcode.com/problems/zigzag-conversion/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "String"
+  ],
+  "solved_date": "2024-11-11",
+  "languages": [
+    "cpp"
+  ]
+}

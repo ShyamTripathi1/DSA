@@ -1,0 +1,15 @@
+{
+  "id": "908",
+  "title": "Smallest Range I",
+  "url": "https://leetcode.com/problems/smallest-range-i/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Math"
+  ],
+  "solved_date": "2026-02-13",
+  "languages": [
+    "cpp"
+  ]
+}

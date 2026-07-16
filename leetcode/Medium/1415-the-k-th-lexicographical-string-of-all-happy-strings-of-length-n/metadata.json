@@ -1,0 +1,15 @@
+{
+  "id": "1415",
+  "title": "The k-th Lexicographical String of All Happy Strings of Length n",
+  "url": "https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "String",
+    "Backtracking"
+  ],
+  "solved_date": "2026-03-14",
+  "languages": [
+    "cpp"
+  ]
+}

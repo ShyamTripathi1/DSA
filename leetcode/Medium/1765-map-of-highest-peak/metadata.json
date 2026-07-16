@@ -1,0 +1,16 @@
+{
+  "id": "1765",
+  "title": "Map of Highest Peak",
+  "url": "https://leetcode.com/problems/map-of-highest-peak/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Breadth-First Search",
+    "Matrix"
+  ],
+  "solved_date": "2026-02-16",
+  "languages": [
+    "cpp"
+  ]
+}

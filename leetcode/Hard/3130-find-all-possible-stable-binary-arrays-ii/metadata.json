@@ -1,0 +1,15 @@
+{
+  "id": "3130",
+  "title": "Find All Possible Stable Binary Arrays II",
+  "url": "https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Dynamic Programming",
+    "Prefix Sum"
+  ],
+  "solved_date": "2026-03-10",
+  "languages": [
+    "cpp"
+  ]
+}

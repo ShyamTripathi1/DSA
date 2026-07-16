@@ -1,0 +1,17 @@
+{
+  "id": "230",
+  "title": "Kth Smallest Element in a BST",
+  "url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "solved_date": "2025-09-12",
+  "languages": [
+    "cpp"
+  ]
+}

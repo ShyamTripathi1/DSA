@@ -1,0 +1,15 @@
+{
+  "id": "1492",
+  "title": "The kth Factor of n",
+  "url": "https://leetcode.com/problems/the-kth-factor-of-n/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Math",
+    "Number Theory"
+  ],
+  "solved_date": "2025-09-12",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "628",
+  "title": "Maximum Product of Three Numbers",
+  "url": "https://leetcode.com/problems/maximum-product-of-three-numbers/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Math",
+    "Sorting"
+  ],
+  "solved_date": "2025-07-05",
+  "languages": [
+    "cpp"
+  ]
+}

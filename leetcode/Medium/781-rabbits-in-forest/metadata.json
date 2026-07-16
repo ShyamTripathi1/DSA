@@ -1,0 +1,17 @@
+{
+  "id": "781",
+  "title": "Rabbits in Forest",
+  "url": "https://leetcode.com/problems/rabbits-in-forest/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Greedy"
+  ],
+  "solved_date": "2025-10-29",
+  "languages": [
+    "cpp"
+  ]
+}

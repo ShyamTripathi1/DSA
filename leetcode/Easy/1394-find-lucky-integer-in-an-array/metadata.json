@@ -1,0 +1,16 @@
+{
+  "id": "1394",
+  "title": "Find Lucky Integer in an Array",
+  "url": "https://leetcode.com/problems/find-lucky-integer-in-an-array/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Counting"
+  ],
+  "solved_date": "2025-09-11",
+  "languages": [
+    "cpp"
+  ]
+}

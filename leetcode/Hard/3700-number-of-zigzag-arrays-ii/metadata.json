@@ -1,0 +1,15 @@
+{
+  "id": "3700",
+  "title": "Number of ZigZag Arrays II",
+  "url": "https://leetcode.com/problems/number-of-zigzag-arrays-ii/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Math",
+    "Dynamic Programming"
+  ],
+  "solved_date": "2026-06-24",
+  "languages": [
+    "cpp"
+  ]
+}

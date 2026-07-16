@@ -1,0 +1,18 @@
+{
+  "id": "2094",
+  "title": "Finding 3-Digit Even Numbers",
+  "url": "https://leetcode.com/problems/finding-3-digit-even-numbers/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Recursion",
+    "Sorting",
+    "Enumeration"
+  ],
+  "solved_date": "2025-10-08",
+  "languages": [
+    "cpp"
+  ]
+}

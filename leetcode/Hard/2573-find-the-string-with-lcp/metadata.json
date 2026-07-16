@@ -1,0 +1,19 @@
+{
+  "id": "2573",
+  "title": "Find the String with LCP",
+  "url": "https://leetcode.com/problems/find-the-string-with-lcp/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "String",
+    "Dynamic Programming",
+    "Greedy",
+    "Union-Find",
+    "Matrix"
+  ],
+  "solved_date": "2026-03-28",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "2452",
+  "title": "Words Within Two Edits of Dictionary",
+  "url": "https://leetcode.com/problems/words-within-two-edits-of-dictionary/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "String",
+    "Trie"
+  ],
+  "solved_date": "2026-04-22",
+  "languages": [
+    "cpp"
+  ]
+}

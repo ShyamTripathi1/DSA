@@ -1,0 +1,16 @@
+{
+  "id": "3751",
+  "title": "Total Waviness of Numbers in Range I",
+  "url": "https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Math",
+    "Dynamic Programming",
+    "Enumeration"
+  ],
+  "solved_date": "2026-06-04",
+  "languages": [
+    "cpp"
+  ]
+}

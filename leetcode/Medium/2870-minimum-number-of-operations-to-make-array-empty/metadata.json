@@ -1,0 +1,17 @@
+{
+  "id": "2870",
+  "title": "Minimum Number of Operations to Make Array Empty",
+  "url": "https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Greedy",
+    "Counting"
+  ],
+  "solved_date": "2025-11-12",
+  "languages": [
+    "cpp"
+  ]
+}

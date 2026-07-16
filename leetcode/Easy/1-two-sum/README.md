@@ -1,20 +1,19 @@
-# Two Sum
+# 1. Two Sum
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-green?style=flat-square)
-[![Platform: LeetCode](https://img.shields.io/badge/Platform-LeetCode-blue?style=flat-square)](https://leetcode.com/problems/two-sum/)
+[![Platform: LeetCode](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/problems/two-sum/)
 
 ## 📝 Problem Description
 
-Given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to `target`.
+[View on LeetCode](https://leetcode.com/problems/two-sum/)
+
+## 🏷️ Tags
+
+`Array`, `Hash Table`
 
 ## 💡 Solution Approach
 
-Implemented using optimal data structures and tracking state.
-
-### Complexity Analysis
-
-- **Time Complexity:** $O(N)$
-- **Space Complexity:** $O(N)$
+*Automatically synced from LeetCode accepted submissions.*
 
 ---
 
@@ -22,12 +21,12 @@ Implemented using optimal data structures and tracking state.
 
 ### CPP
 
-``` cpp
+```cpp
 // Refer to solution.cpp for the full implementation
 ```
 
-### PYTHON
+### C
 
-``` python
-// Refer to solution.py for the full implementation
+```c
+// Refer to solution.c for the full implementation
 ```

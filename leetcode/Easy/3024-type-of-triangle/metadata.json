@@ -1,0 +1,16 @@
+{
+  "id": "3024",
+  "title": "Type of Triangle",
+  "url": "https://leetcode.com/problems/type-of-triangle/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Math",
+    "Sorting"
+  ],
+  "solved_date": "2025-09-13",
+  "languages": [
+    "cpp"
+  ]
+}

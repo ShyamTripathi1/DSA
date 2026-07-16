@@ -1,0 +1,15 @@
+{
+  "id": "2348",
+  "title": "Number of Zero-Filled Subarrays",
+  "url": "https://leetcode.com/problems/number-of-zero-filled-subarrays/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Math"
+  ],
+  "solved_date": "2025-08-19",
+  "languages": [
+    "cpp"
+  ]
+}

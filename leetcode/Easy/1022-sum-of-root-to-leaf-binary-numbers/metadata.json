@@ -1,0 +1,16 @@
+{
+  "id": "1022",
+  "title": "Sum of Root To Leaf Binary Numbers",
+  "url": "https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "solved_date": "2026-02-24",
+  "languages": [
+    "cpp"
+  ]
+}

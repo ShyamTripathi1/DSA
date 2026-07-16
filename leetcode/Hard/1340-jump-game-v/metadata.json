@@ -1,0 +1,16 @@
+{
+  "id": "1340",
+  "title": "Jump Game V",
+  "url": "https://leetcode.com/problems/jump-game-v/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Sorting"
+  ],
+  "solved_date": "2026-05-24",
+  "languages": [
+    "cpp"
+  ]
+}

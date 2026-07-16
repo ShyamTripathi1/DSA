@@ -1,0 +1,16 @@
+{
+  "id": "1995",
+  "title": "Count Special Quadruplets",
+  "url": "https://leetcode.com/problems/count-special-quadruplets/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Enumeration"
+  ],
+  "solved_date": "2025-08-22",
+  "languages": [
+    "cpp"
+  ]
+}

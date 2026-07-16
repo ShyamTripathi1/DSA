@@ -1,0 +1,18 @@
+{
+  "id": "2576",
+  "title": "Find the Maximum Number of Marked Indices",
+  "url": "https://leetcode.com/problems/find-the-maximum-number-of-marked-indices/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "Binary Search",
+    "Greedy",
+    "Sorting"
+  ],
+  "solved_date": "2025-09-05",
+  "languages": [
+    "cpp"
+  ]
+}

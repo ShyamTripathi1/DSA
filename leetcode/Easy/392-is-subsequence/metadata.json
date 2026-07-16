@@ -1,0 +1,16 @@
+{
+  "id": "392",
+  "title": "Is Subsequence",
+  "url": "https://leetcode.com/problems/is-subsequence/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Two Pointers",
+    "String",
+    "Dynamic Programming"
+  ],
+  "solved_date": "2025-06-07",
+  "languages": [
+    "cpp"
+  ]
+}

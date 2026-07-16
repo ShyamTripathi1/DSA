@@ -1,0 +1,18 @@
+{
+  "id": "148",
+  "title": "Sort List",
+  "url": "https://leetcode.com/problems/sort-list/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Linked List",
+    "Two Pointers",
+    "Divide and Conquer",
+    "Sorting",
+    "Merge Sort"
+  ],
+  "solved_date": "2025-09-23",
+  "languages": [
+    "cpp"
+  ]
+}

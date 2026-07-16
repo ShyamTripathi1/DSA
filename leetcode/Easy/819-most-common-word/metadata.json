@@ -1,0 +1,17 @@
+{
+  "id": "819",
+  "title": "Most Common Word",
+  "url": "https://leetcode.com/problems/most-common-word/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Counting"
+  ],
+  "solved_date": "2026-02-09",
+  "languages": [
+    "cpp"
+  ]
+}

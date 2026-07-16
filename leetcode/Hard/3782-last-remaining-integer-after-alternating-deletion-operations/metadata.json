@@ -1,0 +1,15 @@
+{
+  "id": "3782",
+  "title": "Last Remaining Integer After Alternating Deletion Operations",
+  "url": "https://leetcode.com/problems/last-remaining-integer-after-alternating-deletion-operations/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Math",
+    "Recursion"
+  ],
+  "solved_date": "2025-12-20",
+  "languages": [
+    "cpp"
+  ]
+}

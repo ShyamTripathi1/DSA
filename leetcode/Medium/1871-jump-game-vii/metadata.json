@@ -1,0 +1,17 @@
+{
+  "id": "1871",
+  "title": "Jump Game VII",
+  "url": "https://leetcode.com/problems/jump-game-vii/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "String",
+    "Dynamic Programming",
+    "Sliding Window",
+    "Prefix Sum"
+  ],
+  "solved_date": "2026-05-25",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "99",
+  "title": "Recover Binary Search Tree",
+  "url": "https://leetcode.com/problems/recover-binary-search-tree/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "solved_date": "2025-10-25",
+  "languages": [
+    "cpp"
+  ]
+}

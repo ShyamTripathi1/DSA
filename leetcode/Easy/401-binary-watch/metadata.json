@@ -1,0 +1,15 @@
+{
+  "id": "401",
+  "title": "Binary Watch",
+  "url": "https://leetcode.com/problems/binary-watch/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Backtracking",
+    "Bit Manipulation"
+  ],
+  "solved_date": "2026-02-17",
+  "languages": [
+    "cpp"
+  ]
+}

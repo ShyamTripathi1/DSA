@@ -1,0 +1,17 @@
+{
+  "id": "3781",
+  "title": "Maximum Score After Binary Swaps",
+  "url": "https://leetcode.com/problems/maximum-score-after-binary-swaps/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "String",
+    "Greedy",
+    "Heap (Priority Queue)"
+  ],
+  "solved_date": "2025-12-20",
+  "languages": [
+    "cpp"
+  ]
+}

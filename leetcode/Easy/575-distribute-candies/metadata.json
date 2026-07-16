@@ -1,0 +1,15 @@
+{
+  "id": "575",
+  "title": "Distribute Candies",
+  "url": "https://leetcode.com/problems/distribute-candies/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table"
+  ],
+  "solved_date": "2026-01-18",
+  "languages": [
+    "cpp"
+  ]
+}

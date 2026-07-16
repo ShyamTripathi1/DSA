@@ -1,0 +1,18 @@
+{
+  "id": "1352",
+  "title": "Product of the Last K Numbers",
+  "url": "https://leetcode.com/problems/product-of-the-last-k-numbers/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Math",
+    "Design",
+    "Data Stream",
+    "Prefix Sum"
+  ],
+  "solved_date": "2025-08-22",
+  "languages": [
+    "cpp"
+  ]
+}

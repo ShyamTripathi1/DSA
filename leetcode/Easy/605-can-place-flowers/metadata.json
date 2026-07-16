@@ -1,0 +1,15 @@
+{
+  "id": "605",
+  "title": "Can Place Flowers",
+  "url": "https://leetcode.com/problems/can-place-flowers/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Greedy"
+  ],
+  "solved_date": "2025-07-25",
+  "languages": [
+    "cpp"
+  ]
+}

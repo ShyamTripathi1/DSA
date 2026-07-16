@@ -1,0 +1,15 @@
+{
+  "id": "1925",
+  "title": "Count Square Sum Triples",
+  "url": "https://leetcode.com/problems/count-square-sum-triples/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Math",
+    "Enumeration"
+  ],
+  "solved_date": "2025-12-08",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "1447",
+  "title": "Simplified Fractions",
+  "url": "https://leetcode.com/problems/simplified-fractions/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Math",
+    "String",
+    "Number Theory"
+  ],
+  "solved_date": "2025-09-11",
+  "languages": [
+    "cpp"
+  ]
+}

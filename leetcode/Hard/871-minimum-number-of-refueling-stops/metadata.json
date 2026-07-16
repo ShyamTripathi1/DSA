@@ -1,0 +1,17 @@
+{
+  "id": "871",
+  "title": "Minimum Number of Refueling Stops",
+  "url": "https://leetcode.com/problems/minimum-number-of-refueling-stops/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Greedy",
+    "Heap (Priority Queue)"
+  ],
+  "solved_date": "2025-11-28",
+  "languages": [
+    "cpp"
+  ]
+}

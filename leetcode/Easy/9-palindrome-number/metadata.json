@@ -1,0 +1,14 @@
+{
+  "id": "9",
+  "title": "Palindrome Number",
+  "url": "https://leetcode.com/problems/palindrome-number/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Math"
+  ],
+  "solved_date": "2025-05-02",
+  "languages": [
+    "cpp"
+  ]
+}

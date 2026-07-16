@@ -1,0 +1,14 @@
+{
+  "id": "896",
+  "title": "Monotonic Array",
+  "url": "https://leetcode.com/problems/monotonic-array/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array"
+  ],
+  "solved_date": "2025-08-28",
+  "languages": [
+    "cpp"
+  ]
+}

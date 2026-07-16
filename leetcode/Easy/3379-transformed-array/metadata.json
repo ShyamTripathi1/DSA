@@ -1,0 +1,15 @@
+{
+  "id": "3379",
+  "title": "Transformed Array",
+  "url": "https://leetcode.com/problems/transformed-array/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Simulation"
+  ],
+  "solved_date": "2026-02-05",
+  "languages": [
+    "cpp"
+  ]
+}

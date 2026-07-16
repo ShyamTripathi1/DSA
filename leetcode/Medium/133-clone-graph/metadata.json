@@ -1,0 +1,17 @@
+{
+  "id": "133",
+  "title": "Clone Graph",
+  "url": "https://leetcode.com/problems/clone-graph/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Hash Table",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory"
+  ],
+  "solved_date": "2026-03-20",
+  "languages": [
+    "cpp"
+  ]
+}

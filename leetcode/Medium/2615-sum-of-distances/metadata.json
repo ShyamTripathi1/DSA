@@ -1,0 +1,16 @@
+{
+  "id": "2615",
+  "title": "Sum of Distances",
+  "url": "https://leetcode.com/problems/sum-of-distances/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Prefix Sum"
+  ],
+  "solved_date": "2026-04-23",
+  "languages": [
+    "cpp"
+  ]
+}

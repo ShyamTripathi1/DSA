@@ -1,0 +1,16 @@
+{
+  "id": "442",
+  "title": "Find All Duplicates in an Array",
+  "url": "https://leetcode.com/problems/find-all-duplicates-in-an-array/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ],
+  "solved_date": "2026-04-13",
+  "languages": [
+    "cpp"
+  ]
+}

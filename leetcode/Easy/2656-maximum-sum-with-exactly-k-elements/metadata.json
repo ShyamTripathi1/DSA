@@ -1,0 +1,15 @@
+{
+  "id": "2656",
+  "title": "Maximum Sum With Exactly K Elements ",
+  "url": "https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Greedy"
+  ],
+  "solved_date": "2026-02-07",
+  "languages": [
+    "cpp"
+  ]
+}

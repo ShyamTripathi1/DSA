@@ -1,0 +1,16 @@
+{
+  "id": "3712",
+  "title": "Sum of Elements With Frequency Divisible by K",
+  "url": "https://leetcode.com/problems/sum-of-elements-with-frequency-divisible-by-k/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Counting"
+  ],
+  "solved_date": "2025-10-13",
+  "languages": [
+    "cpp"
+  ]
+}

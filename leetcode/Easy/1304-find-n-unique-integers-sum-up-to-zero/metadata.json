@@ -1,0 +1,15 @@
+{
+  "id": "1304",
+  "title": "Find N Unique Integers Sum up to Zero",
+  "url": "https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Math"
+  ],
+  "solved_date": "2025-09-13",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "219",
+  "title": "Contains Duplicate II",
+  "url": "https://leetcode.com/problems/contains-duplicate-ii/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Sliding Window"
+  ],
+  "solved_date": "2025-07-22",
+  "languages": [
+    "cpp"
+  ]
+}

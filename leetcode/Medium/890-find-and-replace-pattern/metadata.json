@@ -1,0 +1,16 @@
+{
+  "id": "890",
+  "title": "Find and Replace Pattern",
+  "url": "https://leetcode.com/problems/find-and-replace-pattern/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "String"
+  ],
+  "solved_date": "2026-02-11",
+  "languages": [
+    "cpp"
+  ]
+}

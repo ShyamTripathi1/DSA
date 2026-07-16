@@ -1,0 +1,16 @@
+{
+  "id": "396",
+  "title": "Rotate Function",
+  "url": "https://leetcode.com/problems/rotate-function/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Math",
+    "Dynamic Programming"
+  ],
+  "solved_date": "2026-05-01",
+  "languages": [
+    "cpp"
+  ]
+}

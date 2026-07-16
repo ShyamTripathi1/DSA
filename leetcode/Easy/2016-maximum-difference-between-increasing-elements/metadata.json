@@ -1,0 +1,14 @@
+{
+  "id": "2016",
+  "title": "Maximum Difference Between Increasing Elements",
+  "url": "https://leetcode.com/problems/maximum-difference-between-increasing-elements/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array"
+  ],
+  "solved_date": "2025-09-13",
+  "languages": [
+    "cpp"
+  ]
+}

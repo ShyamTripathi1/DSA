@@ -1,0 +1,16 @@
+{
+  "id": "3212",
+  "title": "Count Submatrices With Equal Frequency of X and Y",
+  "url": "https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Matrix",
+    "Prefix Sum"
+  ],
+  "solved_date": "2026-03-19",
+  "languages": [
+    "cpp"
+  ]
+}

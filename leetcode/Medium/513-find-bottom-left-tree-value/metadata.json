@@ -1,0 +1,17 @@
+{
+  "id": "513",
+  "title": "Find Bottom Left Tree Value",
+  "url": "https://leetcode.com/problems/find-bottom-left-tree-value/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "solved_date": "2026-01-27",
+  "languages": [
+    "cpp"
+  ]
+}

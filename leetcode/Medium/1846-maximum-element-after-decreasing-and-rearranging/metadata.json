@@ -1,0 +1,16 @@
+{
+  "id": "1846",
+  "title": "Maximum Element After Decreasing and Rearranging",
+  "url": "https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
+  "solved_date": "2026-06-28",
+  "languages": [
+    "cpp"
+  ]
+}

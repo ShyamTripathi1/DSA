@@ -1,0 +1,17 @@
+{
+  "id": "1315",
+  "title": "Sum of Nodes with Even-Valued Grandparent",
+  "url": "https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "solved_date": "2026-01-30",
+  "languages": [
+    "cpp"
+  ]
+}

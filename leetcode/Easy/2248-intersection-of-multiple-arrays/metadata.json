@@ -1,0 +1,17 @@
+{
+  "id": "2248",
+  "title": "Intersection of Multiple Arrays",
+  "url": "https://leetcode.com/problems/intersection-of-multiple-arrays/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Sorting",
+    "Counting"
+  ],
+  "solved_date": "2025-11-14",
+  "languages": [
+    "cpp"
+  ]
+}

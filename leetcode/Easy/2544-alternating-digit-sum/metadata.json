@@ -1,0 +1,14 @@
+{
+  "id": "2544",
+  "title": "Alternating Digit Sum",
+  "url": "https://leetcode.com/problems/alternating-digit-sum/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Math"
+  ],
+  "solved_date": "2026-01-21",
+  "languages": [
+    "cpp"
+  ]
+}

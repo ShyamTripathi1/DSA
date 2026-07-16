@@ -1,0 +1,14 @@
+{
+  "id": "3818",
+  "title": "Minimum Prefix Removal to Make Array Strictly Increasing",
+  "url": "https://leetcode.com/problems/minimum-prefix-removal-to-make-array-strictly-increasing/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array"
+  ],
+  "solved_date": "2026-01-28",
+  "languages": [
+    "cpp"
+  ]
+}

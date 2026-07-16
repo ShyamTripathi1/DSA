@@ -1,0 +1,16 @@
+{
+  "id": "3",
+  "title": "Longest Substring Without Repeating Characters",
+  "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Hash Table",
+    "String",
+    "Sliding Window"
+  ],
+  "solved_date": "2025-11-05",
+  "languages": [
+    "cpp"
+  ]
+}

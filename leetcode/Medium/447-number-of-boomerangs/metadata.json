@@ -1,0 +1,16 @@
+{
+  "id": "447",
+  "title": "Number of Boomerangs",
+  "url": "https://leetcode.com/problems/number-of-boomerangs/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Math"
+  ],
+  "solved_date": "2025-11-28",
+  "languages": [
+    "cpp"
+  ]
+}

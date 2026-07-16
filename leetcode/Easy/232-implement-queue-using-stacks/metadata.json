@@ -1,0 +1,16 @@
+{
+  "id": "232",
+  "title": "Implement Queue using Stacks",
+  "url": "https://leetcode.com/problems/implement-queue-using-stacks/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Stack",
+    "Design",
+    "Queue"
+  ],
+  "solved_date": "2025-07-03",
+  "languages": [
+    "cpp"
+  ]
+}

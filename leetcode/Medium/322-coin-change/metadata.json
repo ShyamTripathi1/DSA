@@ -1,0 +1,16 @@
+{
+  "id": "322",
+  "title": "Coin Change",
+  "url": "https://leetcode.com/problems/coin-change/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Breadth-First Search"
+  ],
+  "solved_date": "2026-04-17",
+  "languages": [
+    "cpp"
+  ]
+}

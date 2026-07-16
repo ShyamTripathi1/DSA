@@ -1,0 +1,14 @@
+{
+  "id": "2176",
+  "title": "Count Equal and Divisible Pairs in an Array",
+  "url": "https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array"
+  ],
+  "solved_date": "2025-09-13",
+  "languages": [
+    "cpp"
+  ]
+}

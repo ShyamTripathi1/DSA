@@ -1,0 +1,16 @@
+{
+  "id": "3692",
+  "title": "Majority Frequency Characters",
+  "url": "https://leetcode.com/problems/majority-frequency-characters/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Hash Table",
+    "String",
+    "Counting"
+  ],
+  "solved_date": "2025-09-27",
+  "languages": [
+    "cpp"
+  ]
+}

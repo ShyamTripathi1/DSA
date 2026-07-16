@@ -1,0 +1,16 @@
+{
+  "id": "1608",
+  "title": "Special Array With X Elements Greater Than or Equal X",
+  "url": "https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Binary Search",
+    "Sorting"
+  ],
+  "solved_date": "2025-08-28",
+  "languages": [
+    "cpp"
+  ]
+}

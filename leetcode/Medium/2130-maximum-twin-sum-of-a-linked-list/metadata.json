@@ -1,0 +1,16 @@
+{
+  "id": "2130",
+  "title": "Maximum Twin Sum of a Linked List",
+  "url": "https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Linked List",
+    "Two Pointers",
+    "Stack"
+  ],
+  "solved_date": "2026-06-14",
+  "languages": [
+    "cpp"
+  ]
+}

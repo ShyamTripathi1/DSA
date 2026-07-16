@@ -1,0 +1,15 @@
+{
+  "id": "3678",
+  "title": "Smallest Absent Positive Greater Than Average",
+  "url": "https://leetcode.com/problems/smallest-absent-positive-greater-than-average/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table"
+  ],
+  "solved_date": "2025-10-30",
+  "languages": [
+    "cpp"
+  ]
+}

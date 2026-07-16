@@ -1,0 +1,15 @@
+{
+  "id": "2177",
+  "title": "Find Three Consecutive Integers That Sum to a Given Number",
+  "url": "https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Math",
+    "Simulation"
+  ],
+  "solved_date": "2025-09-14",
+  "languages": [
+    "cpp"
+  ]
+}

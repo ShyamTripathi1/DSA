@@ -1,0 +1,16 @@
+{
+  "id": "3438",
+  "title": "Find Valid Pair of Adjacent Digits in String",
+  "url": "https://leetcode.com/problems/find-valid-pair-of-adjacent-digits-in-string/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Hash Table",
+    "String",
+    "Counting"
+  ],
+  "solved_date": "2026-01-17",
+  "languages": [
+    "cpp"
+  ]
+}

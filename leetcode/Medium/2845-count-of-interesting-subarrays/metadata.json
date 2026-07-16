@@ -1,0 +1,16 @@
+{
+  "id": "2845",
+  "title": "Count of Interesting Subarrays",
+  "url": "https://leetcode.com/problems/count-of-interesting-subarrays/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Prefix Sum"
+  ],
+  "solved_date": "2026-04-13",
+  "languages": [
+    "cpp"
+  ]
+}

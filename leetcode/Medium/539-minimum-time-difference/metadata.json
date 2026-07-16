@@ -1,0 +1,17 @@
+{
+  "id": "539",
+  "title": "Minimum Time Difference",
+  "url": "https://leetcode.com/problems/minimum-time-difference/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Math",
+    "String",
+    "Sorting"
+  ],
+  "solved_date": "2025-11-28",
+  "languages": [
+    "cpp"
+  ]
+}

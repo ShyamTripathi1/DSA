@@ -1,0 +1,17 @@
+{
+  "id": "3661",
+  "title": "Maximum Walls Destroyed by Robots",
+  "url": "https://leetcode.com/problems/maximum-walls-destroyed-by-robots/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming",
+    "Sorting"
+  ],
+  "solved_date": "2026-04-03",
+  "languages": [
+    "cpp"
+  ]
+}

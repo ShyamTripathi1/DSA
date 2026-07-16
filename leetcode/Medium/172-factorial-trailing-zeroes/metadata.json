@@ -1,0 +1,14 @@
+{
+  "id": "172",
+  "title": "Factorial Trailing Zeroes",
+  "url": "https://leetcode.com/problems/factorial-trailing-zeroes/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Math"
+  ],
+  "solved_date": "2025-10-09",
+  "languages": [
+    "cpp"
+  ]
+}

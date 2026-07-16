@@ -1,0 +1,15 @@
+{
+  "id": "3740",
+  "title": "Minimum Distance Between Three Equal Elements I",
+  "url": "https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table"
+  ],
+  "solved_date": "2026-04-10",
+  "languages": [
+    "cpp"
+  ]
+}

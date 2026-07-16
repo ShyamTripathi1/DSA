@@ -1,0 +1,15 @@
+{
+  "id": "1390",
+  "title": "Four Divisors",
+  "url": "https://leetcode.com/problems/four-divisors/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Math"
+  ],
+  "solved_date": "2026-01-04",
+  "languages": [
+    "cpp"
+  ]
+}

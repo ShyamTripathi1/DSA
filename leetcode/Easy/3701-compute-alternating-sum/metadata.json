@@ -1,0 +1,15 @@
+{
+  "id": "3701",
+  "title": "Compute Alternating Sum",
+  "url": "https://leetcode.com/problems/compute-alternating-sum/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Simulation"
+  ],
+  "solved_date": "2025-12-06",
+  "languages": [
+    "cpp"
+  ]
+}

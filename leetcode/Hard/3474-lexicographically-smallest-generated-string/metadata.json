@@ -1,0 +1,16 @@
+{
+  "id": "3474",
+  "title": "Lexicographically Smallest Generated String",
+  "url": "https://leetcode.com/problems/lexicographically-smallest-generated-string/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "String",
+    "Greedy",
+    "String Matching"
+  ],
+  "solved_date": "2026-03-31",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "3019",
+  "title": "Number of Changing Keys",
+  "url": "https://leetcode.com/problems/number-of-changing-keys/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "String"
+  ],
+  "solved_date": "2025-10-12",
+  "languages": [
+    "cpp"
+  ]
+}

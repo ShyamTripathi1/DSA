@@ -1,0 +1,16 @@
+{
+  "id": "553",
+  "title": "Optimal Division",
+  "url": "https://leetcode.com/problems/optimal-division/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Math",
+    "Dynamic Programming"
+  ],
+  "solved_date": "2025-09-09",
+  "languages": [
+    "cpp"
+  ]
+}

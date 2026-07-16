@@ -1,0 +1,16 @@
+{
+  "id": "2807",
+  "title": "Insert Greatest Common Divisors in Linked List",
+  "url": "https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Linked List",
+    "Math",
+    "Number Theory"
+  ],
+  "solved_date": "2025-09-29",
+  "languages": [
+    "cpp"
+  ]
+}

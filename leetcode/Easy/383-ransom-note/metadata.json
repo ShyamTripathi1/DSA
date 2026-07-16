@@ -1,0 +1,16 @@
+{
+  "id": "383",
+  "title": "Ransom Note",
+  "url": "https://leetcode.com/problems/ransom-note/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Hash Table",
+    "String",
+    "Counting"
+  ],
+  "solved_date": "2025-07-16",
+  "languages": [
+    "cpp"
+  ]
+}

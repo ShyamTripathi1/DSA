@@ -1,0 +1,17 @@
+{
+  "id": "3828",
+  "title": "Final Element After Subarray Deletions",
+  "url": "https://leetcode.com/problems/final-element-after-subarray-deletions/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Math",
+    "Brainteaser",
+    "Game Theory"
+  ],
+  "solved_date": "2026-02-01",
+  "languages": [
+    "cpp"
+  ]
+}

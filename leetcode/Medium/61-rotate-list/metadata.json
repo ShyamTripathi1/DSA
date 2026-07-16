@@ -1,0 +1,15 @@
+{
+  "id": "61",
+  "title": "Rotate List",
+  "url": "https://leetcode.com/problems/rotate-list/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Linked List",
+    "Two Pointers"
+  ],
+  "solved_date": "2026-05-05",
+  "languages": [
+    "cpp"
+  ]
+}

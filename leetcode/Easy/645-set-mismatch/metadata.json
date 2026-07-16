@@ -1,0 +1,17 @@
+{
+  "id": "645",
+  "title": "Set Mismatch",
+  "url": "https://leetcode.com/problems/set-mismatch/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Bit Manipulation",
+    "Sorting"
+  ],
+  "solved_date": "2025-08-26",
+  "languages": [
+    "cpp"
+  ]
+}

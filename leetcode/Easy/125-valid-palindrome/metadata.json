@@ -1,0 +1,15 @@
+{
+  "id": "125",
+  "title": "Valid Palindrome",
+  "url": "https://leetcode.com/problems/valid-palindrome/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Two Pointers",
+    "String"
+  ],
+  "solved_date": "2025-04-16",
+  "languages": [
+    "cpp"
+  ]
+}

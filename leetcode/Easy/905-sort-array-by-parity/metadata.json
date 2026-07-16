@@ -1,0 +1,16 @@
+{
+  "id": "905",
+  "title": "Sort Array By Parity",
+  "url": "https://leetcode.com/problems/sort-array-by-parity/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "solved_date": "2025-07-05",
+  "languages": [
+    "cpp"
+  ]
+}

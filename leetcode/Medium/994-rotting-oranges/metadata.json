@@ -1,0 +1,16 @@
+{
+  "id": "994",
+  "title": "Rotting Oranges",
+  "url": "https://leetcode.com/problems/rotting-oranges/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Breadth-First Search",
+    "Matrix"
+  ],
+  "solved_date": "2026-02-20",
+  "languages": [
+    "cpp"
+  ]
+}

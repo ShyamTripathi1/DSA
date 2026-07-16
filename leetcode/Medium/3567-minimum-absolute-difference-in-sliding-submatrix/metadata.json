@@ -1,0 +1,16 @@
+{
+  "id": "3567",
+  "title": "Minimum Absolute Difference in Sliding Submatrix",
+  "url": "https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Sorting",
+    "Matrix"
+  ],
+  "solved_date": "2026-03-20",
+  "languages": [
+    "cpp"
+  ]
+}

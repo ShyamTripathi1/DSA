@@ -1,0 +1,16 @@
+{
+  "id": "3093",
+  "title": "Longest Common Suffix Queries",
+  "url": "https://leetcode.com/problems/longest-common-suffix-queries/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "String",
+    "Trie"
+  ],
+  "solved_date": "2026-05-28",
+  "languages": [
+    "cpp"
+  ]
+}

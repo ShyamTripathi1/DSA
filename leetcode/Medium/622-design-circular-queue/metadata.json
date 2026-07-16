@@ -1,0 +1,17 @@
+{
+  "id": "622",
+  "title": "Design Circular Queue",
+  "url": "https://leetcode.com/problems/design-circular-queue/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Linked List",
+    "Design",
+    "Queue"
+  ],
+  "solved_date": "2025-08-19",
+  "languages": [
+    "cpp"
+  ]
+}

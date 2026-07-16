@@ -1,0 +1,17 @@
+{
+  "id": "98",
+  "title": "Validate Binary Search Tree",
+  "url": "https://leetcode.com/problems/validate-binary-search-tree/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "solved_date": "2025-07-30",
+  "languages": [
+    "cpp"
+  ]
+}

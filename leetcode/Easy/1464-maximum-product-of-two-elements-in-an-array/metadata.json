@@ -1,0 +1,16 @@
+{
+  "id": "1464",
+  "title": "Maximum Product of Two Elements in an Array",
+  "url": "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Sorting",
+    "Heap (Priority Queue)"
+  ],
+  "solved_date": "2025-08-27",
+  "languages": [
+    "cpp"
+  ]
+}

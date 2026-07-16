@@ -1,0 +1,15 @@
+{
+  "id": "190",
+  "title": "Reverse Bits",
+  "url": "https://leetcode.com/problems/reverse-bits/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Divide and Conquer",
+    "Bit Manipulation"
+  ],
+  "solved_date": "2026-02-16",
+  "languages": [
+    "cpp"
+  ]
+}

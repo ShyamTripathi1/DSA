@@ -1,0 +1,15 @@
+{
+  "id": "1047",
+  "title": "Remove All Adjacent Duplicates In String",
+  "url": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "String",
+    "Stack"
+  ],
+  "solved_date": "2025-04-18",
+  "languages": [
+    "cpp"
+  ]
+}

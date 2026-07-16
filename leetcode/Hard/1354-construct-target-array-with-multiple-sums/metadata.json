@@ -1,0 +1,15 @@
+{
+  "id": "1354",
+  "title": "Construct Target Array With Multiple Sums",
+  "url": "https://leetcode.com/problems/construct-target-array-with-multiple-sums/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Heap (Priority Queue)"
+  ],
+  "solved_date": "2025-09-03",
+  "languages": [
+    "cpp"
+  ]
+}

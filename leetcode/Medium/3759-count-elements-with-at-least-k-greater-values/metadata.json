@@ -1,0 +1,18 @@
+{
+  "id": "3759",
+  "title": "Count Elements With at Least K Greater Values",
+  "url": "https://leetcode.com/problems/count-elements-with-at-least-k-greater-values/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Binary Search",
+    "Divide and Conquer",
+    "Sorting",
+    "Quickselect"
+  ],
+  "solved_date": "2025-12-04",
+  "languages": [
+    "cpp"
+  ]
+}

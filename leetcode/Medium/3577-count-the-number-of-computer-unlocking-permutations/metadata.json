@@ -1,0 +1,17 @@
+{
+  "id": "3577",
+  "title": "Count the Number of Computer Unlocking Permutations",
+  "url": "https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Math",
+    "Brainteaser",
+    "Combinatorics"
+  ],
+  "solved_date": "2025-12-10",
+  "languages": [
+    "cpp"
+  ]
+}

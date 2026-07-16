@@ -1,0 +1,15 @@
+{
+  "id": "3668",
+  "title": "Restore Finishing Order",
+  "url": "https://leetcode.com/problems/restore-finishing-order/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table"
+  ],
+  "solved_date": "2025-12-06",
+  "languages": [
+    "cpp"
+  ]
+}

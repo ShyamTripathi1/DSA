@@ -1,0 +1,17 @@
+{
+  "id": "992",
+  "title": "Subarrays with K Different Integers",
+  "url": "https://leetcode.com/problems/subarrays-with-k-different-integers/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Sliding Window",
+    "Counting"
+  ],
+  "solved_date": "2025-09-06",
+  "languages": [
+    "cpp"
+  ]
+}

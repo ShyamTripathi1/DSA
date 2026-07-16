@@ -1,0 +1,16 @@
+{
+  "id": "1975",
+  "title": "Maximum Matrix Sum",
+  "url": "https://leetcode.com/problems/maximum-matrix-sum/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Greedy",
+    "Matrix"
+  ],
+  "solved_date": "2026-01-05",
+  "languages": [
+    "cpp"
+  ]
+}

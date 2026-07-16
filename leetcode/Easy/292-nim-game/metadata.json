@@ -1,0 +1,16 @@
+{
+  "id": "292",
+  "title": "Nim Game",
+  "url": "https://leetcode.com/problems/nim-game/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Math",
+    "Brainteaser",
+    "Game Theory"
+  ],
+  "solved_date": "2025-09-11",
+  "languages": [
+    "cpp"
+  ]
+}

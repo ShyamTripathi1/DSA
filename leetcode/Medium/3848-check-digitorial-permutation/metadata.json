@@ -1,0 +1,15 @@
+{
+  "id": "3848",
+  "title": "Check Digitorial Permutation",
+  "url": "https://leetcode.com/problems/check-digitorial-permutation/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Math",
+    "Counting"
+  ],
+  "solved_date": "2026-02-22",
+  "languages": [
+    "cpp"
+  ]
+}

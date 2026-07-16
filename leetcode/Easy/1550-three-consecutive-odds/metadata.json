@@ -1,0 +1,14 @@
+{
+  "id": "1550",
+  "title": "Three Consecutive Odds",
+  "url": "https://leetcode.com/problems/three-consecutive-odds/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array"
+  ],
+  "solved_date": "2025-08-22",
+  "languages": [
+    "cpp"
+  ]
+}

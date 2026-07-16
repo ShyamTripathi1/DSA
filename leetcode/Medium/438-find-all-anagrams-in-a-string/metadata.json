@@ -1,0 +1,16 @@
+{
+  "id": "438",
+  "title": "Find All Anagrams in a String",
+  "url": "https://leetcode.com/problems/find-all-anagrams-in-a-string/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Hash Table",
+    "String",
+    "Sliding Window"
+  ],
+  "solved_date": "2026-02-12",
+  "languages": [
+    "cpp"
+  ]
+}

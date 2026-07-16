@@ -1,0 +1,14 @@
+{
+  "id": "1683",
+  "title": "Invalid Tweets",
+  "url": "https://leetcode.com/problems/invalid-tweets/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Database"
+  ],
+  "solved_date": "2026-06-16",
+  "languages": [
+    "mysql"
+  ]
+}

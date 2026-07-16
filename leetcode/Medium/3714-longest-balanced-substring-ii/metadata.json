@@ -1,0 +1,16 @@
+{
+  "id": "3714",
+  "title": "Longest Balanced Substring II",
+  "url": "https://leetcode.com/problems/longest-balanced-substring-ii/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Hash Table",
+    "String",
+    "Prefix Sum"
+  ],
+  "solved_date": "2026-02-13",
+  "languages": [
+    "cpp"
+  ]
+}

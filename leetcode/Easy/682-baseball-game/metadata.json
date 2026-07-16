@@ -1,0 +1,16 @@
+{
+  "id": "682",
+  "title": "Baseball Game",
+  "url": "https://leetcode.com/problems/baseball-game/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Stack",
+    "Simulation"
+  ],
+  "solved_date": "2025-10-12",
+  "languages": [
+    "cpp"
+  ]
+}

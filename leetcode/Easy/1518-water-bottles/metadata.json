@@ -1,0 +1,15 @@
+{
+  "id": "1518",
+  "title": "Water Bottles",
+  "url": "https://leetcode.com/problems/water-bottles/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Math",
+    "Simulation"
+  ],
+  "solved_date": "2025-10-01",
+  "languages": [
+    "cpp"
+  ]
+}

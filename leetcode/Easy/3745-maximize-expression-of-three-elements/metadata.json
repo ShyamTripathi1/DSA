@@ -1,0 +1,17 @@
+{
+  "id": "3745",
+  "title": "Maximize Expression of Three Elements",
+  "url": "https://leetcode.com/problems/maximize-expression-of-three-elements/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Greedy",
+    "Sorting",
+    "Enumeration"
+  ],
+  "solved_date": "2025-11-16",
+  "languages": [
+    "cpp"
+  ]
+}

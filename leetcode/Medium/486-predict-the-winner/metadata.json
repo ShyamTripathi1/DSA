@@ -1,0 +1,18 @@
+{
+  "id": "486",
+  "title": "Predict the Winner",
+  "url": "https://leetcode.com/problems/predict-the-winner/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Recursion",
+    "Game Theory"
+  ],
+  "solved_date": "2025-11-28",
+  "languages": [
+    "cpp"
+  ]
+}

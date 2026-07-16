@@ -1,0 +1,17 @@
+{
+  "id": "857",
+  "title": "Minimum Cost to Hire K Workers",
+  "url": "https://leetcode.com/problems/minimum-cost-to-hire-k-workers/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Greedy",
+    "Sorting",
+    "Heap (Priority Queue)"
+  ],
+  "solved_date": "2025-11-28",
+  "languages": [
+    "cpp"
+  ]
+}

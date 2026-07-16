@@ -1,0 +1,20 @@
+{
+  "id": "862",
+  "title": "Shortest Subarray with Sum at Least K",
+  "url": "https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Binary Search",
+    "Queue",
+    "Sliding Window",
+    "Heap (Priority Queue)",
+    "Prefix Sum",
+    "Monotonic Queue"
+  ],
+  "solved_date": "2025-11-28",
+  "languages": [
+    "cpp"
+  ]
+}

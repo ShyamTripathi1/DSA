@@ -1,0 +1,18 @@
+{
+  "id": "594",
+  "title": "Longest Harmonious Subsequence",
+  "url": "https://leetcode.com/problems/longest-harmonious-subsequence/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Sliding Window",
+    "Sorting",
+    "Counting"
+  ],
+  "solved_date": "2025-08-14",
+  "languages": [
+    "cpp"
+  ]
+}

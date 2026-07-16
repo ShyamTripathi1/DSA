@@ -1,0 +1,14 @@
+{
+  "id": "83",
+  "title": "Remove Duplicates from Sorted List",
+  "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Linked List"
+  ],
+  "solved_date": "2025-05-10",
+  "languages": [
+    "cpp"
+  ]
+}

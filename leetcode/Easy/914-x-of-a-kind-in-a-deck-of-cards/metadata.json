@@ -1,0 +1,18 @@
+{
+  "id": "914",
+  "title": "X of a Kind in a Deck of Cards",
+  "url": "https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Counting",
+    "Number Theory"
+  ],
+  "solved_date": "2025-09-11",
+  "languages": [
+    "cpp"
+  ]
+}

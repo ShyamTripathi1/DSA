@@ -1,0 +1,20 @@
+{
+  "id": "973",
+  "title": "K Closest Points to Origin",
+  "url": "https://leetcode.com/problems/k-closest-points-to-origin/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Math",
+    "Divide and Conquer",
+    "Geometry",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Quickselect"
+  ],
+  "solved_date": "2025-10-21",
+  "languages": [
+    "cpp"
+  ]
+}

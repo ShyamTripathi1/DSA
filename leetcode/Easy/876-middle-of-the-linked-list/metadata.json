@@ -1,0 +1,15 @@
+{
+  "id": "876",
+  "title": "Middle of the Linked List",
+  "url": "https://leetcode.com/problems/middle-of-the-linked-list/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Linked List",
+    "Two Pointers"
+  ],
+  "solved_date": "2025-05-08",
+  "languages": [
+    "cpp"
+  ]
+}

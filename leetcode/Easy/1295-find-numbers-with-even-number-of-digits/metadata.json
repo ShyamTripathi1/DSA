@@ -1,0 +1,15 @@
+{
+  "id": "1295",
+  "title": "Find Numbers with Even Number of Digits",
+  "url": "https://leetcode.com/problems/find-numbers-with-even-number-of-digits/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Math"
+  ],
+  "solved_date": "2025-08-22",
+  "languages": [
+    "cpp"
+  ]
+}

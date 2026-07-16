@@ -1,0 +1,16 @@
+{
+  "id": "217",
+  "title": "Contains Duplicate",
+  "url": "https://leetcode.com/problems/contains-duplicate/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ],
+  "solved_date": "2025-06-08",
+  "languages": [
+    "cpp"
+  ]
+}

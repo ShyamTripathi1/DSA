@@ -1,0 +1,16 @@
+{
+  "id": "274",
+  "title": "H-Index",
+  "url": "https://leetcode.com/problems/h-index/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Sorting",
+    "Counting Sort"
+  ],
+  "solved_date": "2025-09-05",
+  "languages": [
+    "cpp"
+  ]
+}

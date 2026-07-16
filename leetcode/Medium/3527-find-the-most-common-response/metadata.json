@@ -1,0 +1,17 @@
+{
+  "id": "3527",
+  "title": "Find the Most Common Response",
+  "url": "https://leetcode.com/problems/find-the-most-common-response/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Counting"
+  ],
+  "solved_date": "2025-11-15",
+  "languages": [
+    "cpp"
+  ]
+}

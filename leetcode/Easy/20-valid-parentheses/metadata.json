@@ -1,0 +1,15 @@
+{
+  "id": "20",
+  "title": "Valid Parentheses",
+  "url": "https://leetcode.com/problems/valid-parentheses/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "String",
+    "Stack"
+  ],
+  "solved_date": "2025-10-20",
+  "languages": [
+    "cpp"
+  ]
+}

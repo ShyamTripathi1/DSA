@@ -1,0 +1,14 @@
+{
+  "id": "7",
+  "title": "Reverse Integer",
+  "url": "https://leetcode.com/problems/reverse-integer/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Math"
+  ],
+  "solved_date": "2025-05-02",
+  "languages": [
+    "cpp"
+  ]
+}

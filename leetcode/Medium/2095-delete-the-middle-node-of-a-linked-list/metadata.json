@@ -1,0 +1,15 @@
+{
+  "id": "2095",
+  "title": "Delete the Middle Node of a Linked List",
+  "url": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Linked List",
+    "Two Pointers"
+  ],
+  "solved_date": "2026-06-15",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "258",
+  "title": "Add Digits",
+  "url": "https://leetcode.com/problems/add-digits/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Math",
+    "Simulation",
+    "Number Theory"
+  ],
+  "solved_date": "2025-05-01",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "222",
+  "title": "Count Complete Tree Nodes",
+  "url": "https://leetcode.com/problems/count-complete-tree-nodes/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Binary Search",
+    "Bit Manipulation",
+    "Tree",
+    "Binary Tree"
+  ],
+  "solved_date": "2025-07-18",
+  "languages": [
+    "cpp"
+  ]
+}

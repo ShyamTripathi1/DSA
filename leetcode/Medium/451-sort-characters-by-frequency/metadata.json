@@ -1,0 +1,19 @@
+{
+  "id": "451",
+  "title": "Sort Characters By Frequency",
+  "url": "https://leetcode.com/problems/sort-characters-by-frequency/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Hash Table",
+    "String",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Bucket Sort",
+    "Counting"
+  ],
+  "solved_date": "2025-11-10",
+  "languages": [
+    "cpp"
+  ]
+}

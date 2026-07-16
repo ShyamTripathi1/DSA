@@ -1,0 +1,15 @@
+{
+  "id": "441",
+  "title": "Arranging Coins",
+  "url": "https://leetcode.com/problems/arranging-coins/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Math",
+    "Binary Search"
+  ],
+  "solved_date": "2025-07-04",
+  "languages": [
+    "cpp"
+  ]
+}

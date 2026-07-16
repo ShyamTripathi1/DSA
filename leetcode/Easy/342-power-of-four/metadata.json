@@ -1,0 +1,16 @@
+{
+  "id": "342",
+  "title": "Power of Four",
+  "url": "https://leetcode.com/problems/power-of-four/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Math",
+    "Bit Manipulation",
+    "Recursion"
+  ],
+  "solved_date": "2025-08-15",
+  "languages": [
+    "cpp"
+  ]
+}

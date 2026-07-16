@@ -1,0 +1,17 @@
+{
+  "id": "2751",
+  "title": "Robot Collisions",
+  "url": "https://leetcode.com/problems/robot-collisions/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Stack",
+    "Sorting",
+    "Simulation"
+  ],
+  "solved_date": "2026-04-01",
+  "languages": [
+    "cpp"
+  ]
+}

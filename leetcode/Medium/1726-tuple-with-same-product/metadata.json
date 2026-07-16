@@ -1,0 +1,16 @@
+{
+  "id": "1726",
+  "title": "Tuple with Same Product",
+  "url": "https://leetcode.com/problems/tuple-with-same-product/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Counting"
+  ],
+  "solved_date": "2025-11-15",
+  "languages": [
+    "cpp"
+  ]
+}

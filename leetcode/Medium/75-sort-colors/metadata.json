@@ -1,0 +1,16 @@
+{
+  "id": "75",
+  "title": "Sort Colors",
+  "url": "https://leetcode.com/problems/sort-colors/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "solved_date": "2025-07-10",
+  "languages": [
+    "cpp"
+  ]
+}

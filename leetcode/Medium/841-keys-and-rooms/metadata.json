@@ -1,0 +1,16 @@
+{
+  "id": "841",
+  "title": "Keys and Rooms",
+  "url": "https://leetcode.com/problems/keys-and-rooms/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory"
+  ],
+  "solved_date": "2026-02-16",
+  "languages": [
+    "cpp"
+  ]
+}

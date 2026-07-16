@@ -1,0 +1,17 @@
+{
+  "id": "509",
+  "title": "Fibonacci Number",
+  "url": "https://leetcode.com/problems/fibonacci-number/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Math",
+    "Dynamic Programming",
+    "Recursion",
+    "Memoization"
+  ],
+  "solved_date": "2026-06-10",
+  "languages": [
+    "cpp"
+  ]
+}

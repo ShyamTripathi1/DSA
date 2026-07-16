@@ -1,0 +1,15 @@
+{
+  "id": "1768",
+  "title": "Merge Strings Alternately",
+  "url": "https://leetcode.com/problems/merge-strings-alternately/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Two Pointers",
+    "String"
+  ],
+  "solved_date": "2025-09-16",
+  "languages": [
+    "cpp"
+  ]
+}

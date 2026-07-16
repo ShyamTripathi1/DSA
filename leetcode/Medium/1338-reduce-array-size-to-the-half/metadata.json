@@ -1,0 +1,18 @@
+{
+  "id": "1338",
+  "title": "Reduce Array Size to The Half",
+  "url": "https://leetcode.com/problems/reduce-array-size-to-the-half/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Greedy",
+    "Sorting",
+    "Heap (Priority Queue)"
+  ],
+  "solved_date": "2026-02-04",
+  "languages": [
+    "cpp"
+  ]
+}

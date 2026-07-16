@@ -1,0 +1,17 @@
+{
+  "id": "2744",
+  "title": "Find Maximum Number of String Pairs",
+  "url": "https://leetcode.com/problems/find-maximum-number-of-string-pairs/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Simulation"
+  ],
+  "solved_date": "2025-10-07",
+  "languages": [
+    "cpp"
+  ]
+}

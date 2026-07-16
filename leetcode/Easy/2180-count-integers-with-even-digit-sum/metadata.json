@@ -1,0 +1,15 @@
+{
+  "id": "2180",
+  "title": "Count Integers With Even Digit Sum",
+  "url": "https://leetcode.com/problems/count-integers-with-even-digit-sum/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Math",
+    "Simulation"
+  ],
+  "solved_date": "2025-09-13",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "3731",
+  "title": "Find Missing Elements",
+  "url": "https://leetcode.com/problems/find-missing-elements/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ],
+  "solved_date": "2025-11-13",
+  "languages": [
+    "cpp"
+  ]
+}

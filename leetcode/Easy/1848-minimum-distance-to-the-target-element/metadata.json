@@ -1,0 +1,14 @@
+{
+  "id": "1848",
+  "title": "Minimum Distance to the Target Element",
+  "url": "https://leetcode.com/problems/minimum-distance-to-the-target-element/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array"
+  ],
+  "solved_date": "2026-04-13",
+  "languages": [
+    "cpp"
+  ]
+}

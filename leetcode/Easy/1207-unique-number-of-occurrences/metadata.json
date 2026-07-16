@@ -1,0 +1,15 @@
+{
+  "id": "1207",
+  "title": "Unique Number of Occurrences",
+  "url": "https://leetcode.com/problems/unique-number-of-occurrences/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table"
+  ],
+  "solved_date": "2025-10-08",
+  "languages": [
+    "cpp"
+  ]
+}

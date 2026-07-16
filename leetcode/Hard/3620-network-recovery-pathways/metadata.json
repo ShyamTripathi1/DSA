@@ -1,0 +1,20 @@
+{
+  "id": "3620",
+  "title": "Network Recovery Pathways",
+  "url": "https://leetcode.com/problems/network-recovery-pathways/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming",
+    "Graph Theory",
+    "Topological Sort",
+    "Heap (Priority Queue)",
+    "Shortest Path"
+  ],
+  "solved_date": "2026-07-03",
+  "languages": [
+    "cpp"
+  ]
+}

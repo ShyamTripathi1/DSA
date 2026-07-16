@@ -1,0 +1,15 @@
+{
+  "id": "343",
+  "title": "Integer Break",
+  "url": "https://leetcode.com/problems/integer-break/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Math",
+    "Dynamic Programming"
+  ],
+  "solved_date": "2026-04-13",
+  "languages": [
+    "cpp"
+  ]
+}

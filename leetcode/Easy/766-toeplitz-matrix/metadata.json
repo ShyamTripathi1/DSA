@@ -1,0 +1,15 @@
+{
+  "id": "766",
+  "title": "Toeplitz Matrix",
+  "url": "https://leetcode.com/problems/toeplitz-matrix/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Matrix"
+  ],
+  "solved_date": "2025-09-16",
+  "languages": [
+    "cpp"
+  ]
+}

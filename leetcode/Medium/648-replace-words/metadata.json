@@ -1,0 +1,17 @@
+{
+  "id": "648",
+  "title": "Replace Words",
+  "url": "https://leetcode.com/problems/replace-words/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Trie"
+  ],
+  "solved_date": "2025-11-28",
+  "languages": [
+    "cpp"
+  ]
+}

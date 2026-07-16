@@ -1,0 +1,17 @@
+{
+  "id": "968",
+  "title": "Binary Tree Cameras",
+  "url": "https://leetcode.com/problems/binary-tree-cameras/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Dynamic Programming",
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "solved_date": "2025-09-12",
+  "languages": [
+    "cpp"
+  ]
+}

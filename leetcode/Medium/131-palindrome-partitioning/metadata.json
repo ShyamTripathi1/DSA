@@ -1,0 +1,16 @@
+{
+  "id": "131",
+  "title": "Palindrome Partitioning",
+  "url": "https://leetcode.com/problems/palindrome-partitioning/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "String",
+    "Dynamic Programming",
+    "Backtracking"
+  ],
+  "solved_date": "2026-02-20",
+  "languages": [
+    "cpp"
+  ]
+}

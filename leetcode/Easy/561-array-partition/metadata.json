@@ -1,0 +1,17 @@
+{
+  "id": "561",
+  "title": "Array Partition",
+  "url": "https://leetcode.com/problems/array-partition/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Greedy",
+    "Sorting",
+    "Counting Sort"
+  ],
+  "solved_date": "2025-07-27",
+  "languages": [
+    "cpp"
+  ]
+}

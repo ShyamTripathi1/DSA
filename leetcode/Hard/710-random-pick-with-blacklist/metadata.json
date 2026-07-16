@@ -1,0 +1,19 @@
+{
+  "id": "710",
+  "title": "Random Pick with Blacklist",
+  "url": "https://leetcode.com/problems/random-pick-with-blacklist/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Binary Search",
+    "Sorting",
+    "Randomized"
+  ],
+  "solved_date": "2025-11-28",
+  "languages": [
+    "cpp"
+  ]
+}

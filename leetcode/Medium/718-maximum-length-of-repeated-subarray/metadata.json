@@ -1,0 +1,19 @@
+{
+  "id": "718",
+  "title": "Maximum Length of Repeated Subarray",
+  "url": "https://leetcode.com/problems/maximum-length-of-repeated-subarray/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming",
+    "Sliding Window",
+    "Rolling Hash",
+    "Hash Function"
+  ],
+  "solved_date": "2026-02-12",
+  "languages": [
+    "cpp"
+  ]
+}

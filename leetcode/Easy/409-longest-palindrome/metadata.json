@@ -1,0 +1,16 @@
+{
+  "id": "409",
+  "title": "Longest Palindrome",
+  "url": "https://leetcode.com/problems/longest-palindrome/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Hash Table",
+    "String",
+    "Greedy"
+  ],
+  "solved_date": "2025-06-06",
+  "languages": [
+    "cpp"
+  ]
+}

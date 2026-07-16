@@ -1,0 +1,15 @@
+{
+  "id": "91",
+  "title": "Decode Ways",
+  "url": "https://leetcode.com/problems/decode-ways/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "String",
+    "Dynamic Programming"
+  ],
+  "solved_date": "2026-04-13",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "69",
+  "title": "Sqrt(x)",
+  "url": "https://leetcode.com/problems/sqrtx/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Math",
+    "Binary Search"
+  ],
+  "solved_date": "2025-05-02",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "1509",
+  "title": "Minimum Difference Between Largest and Smallest Value in Three Moves",
+  "url": "https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
+  "solved_date": "2025-11-18",
+  "languages": [
+    "cpp"
+  ]
+}

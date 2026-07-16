@@ -1,0 +1,16 @@
+{
+  "id": "48",
+  "title": "Rotate Image",
+  "url": "https://leetcode.com/problems/rotate-image/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Math",
+    "Matrix"
+  ],
+  "solved_date": "2026-06-10",
+  "languages": [
+    "cpp"
+  ]
+}

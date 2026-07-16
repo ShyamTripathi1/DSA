@@ -1,0 +1,16 @@
+{
+  "id": "699",
+  "title": "Falling Squares",
+  "url": "https://leetcode.com/problems/falling-squares/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Segment Tree",
+    "Ordered Set"
+  ],
+  "solved_date": "2025-11-28",
+  "languages": [
+    "cpp"
+  ]
+}

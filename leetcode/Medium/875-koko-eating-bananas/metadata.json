@@ -1,0 +1,15 @@
+{
+  "id": "875",
+  "title": "Koko Eating Bananas",
+  "url": "https://leetcode.com/problems/koko-eating-bananas/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Binary Search"
+  ],
+  "solved_date": "2025-08-31",
+  "languages": [
+    "cpp"
+  ]
+}

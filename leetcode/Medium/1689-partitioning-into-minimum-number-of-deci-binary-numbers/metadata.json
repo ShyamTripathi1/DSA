@@ -1,0 +1,15 @@
+{
+  "id": "1689",
+  "title": "Partitioning Into Minimum Number Of Deci-Binary Numbers",
+  "url": "https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "String",
+    "Greedy"
+  ],
+  "solved_date": "2026-03-01",
+  "languages": [
+    "cpp"
+  ]
+}

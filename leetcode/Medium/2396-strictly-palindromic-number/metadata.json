@@ -1,0 +1,16 @@
+{
+  "id": "2396",
+  "title": "Strictly Palindromic Number",
+  "url": "https://leetcode.com/problems/strictly-palindromic-number/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Math",
+    "Two Pointers",
+    "Brainteaser"
+  ],
+  "solved_date": "2025-08-30",
+  "languages": [
+    "cpp"
+  ]
+}

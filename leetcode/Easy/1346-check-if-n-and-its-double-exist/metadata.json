@@ -1,0 +1,18 @@
+{
+  "id": "1346",
+  "title": "Check If N and Its Double Exist",
+  "url": "https://leetcode.com/problems/check-if-n-and-its-double-exist/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Two Pointers",
+    "Binary Search",
+    "Sorting"
+  ],
+  "solved_date": "2025-07-06",
+  "languages": [
+    "cpp"
+  ]
+}

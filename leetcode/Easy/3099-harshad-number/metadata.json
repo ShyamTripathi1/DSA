@@ -1,0 +1,14 @@
+{
+  "id": "3099",
+  "title": "Harshad Number",
+  "url": "https://leetcode.com/problems/harshad-number/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Math"
+  ],
+  "solved_date": "2025-09-10",
+  "languages": [
+    "cpp"
+  ]
+}

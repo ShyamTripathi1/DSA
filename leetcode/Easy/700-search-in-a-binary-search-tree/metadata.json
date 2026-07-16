@@ -1,0 +1,16 @@
+{
+  "id": "700",
+  "title": "Search in a Binary Search Tree",
+  "url": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Tree",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "solved_date": "2025-08-13",
+  "languages": [
+    "cpp"
+  ]
+}

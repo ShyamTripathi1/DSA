@@ -1,0 +1,16 @@
+{
+  "id": "1665",
+  "title": "Minimum Initial Energy to Finish Tasks",
+  "url": "https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
+  "solved_date": "2026-05-12",
+  "languages": [
+    "cpp"
+  ]
+}

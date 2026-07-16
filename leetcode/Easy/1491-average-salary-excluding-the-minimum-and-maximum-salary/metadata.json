@@ -1,0 +1,15 @@
+{
+  "id": "1491",
+  "title": "Average Salary Excluding the Minimum and Maximum Salary",
+  "url": "https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Sorting"
+  ],
+  "solved_date": "2025-07-08",
+  "languages": [
+    "cpp"
+  ]
+}

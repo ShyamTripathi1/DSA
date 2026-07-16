@@ -1,0 +1,17 @@
+{
+  "id": "101",
+  "title": "Symmetric Tree",
+  "url": "https://leetcode.com/problems/symmetric-tree/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "solved_date": "2025-07-19",
+  "languages": [
+    "cpp"
+  ]
+}

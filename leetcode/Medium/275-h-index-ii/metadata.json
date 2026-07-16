@@ -1,0 +1,15 @@
+{
+  "id": "275",
+  "title": "H-Index II",
+  "url": "https://leetcode.com/problems/h-index-ii/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Binary Search"
+  ],
+  "solved_date": "2025-09-05",
+  "languages": [
+    "cpp"
+  ]
+}

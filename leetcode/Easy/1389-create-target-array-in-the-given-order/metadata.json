@@ -1,0 +1,15 @@
+{
+  "id": "1389",
+  "title": "Create Target Array in the Given Order",
+  "url": "https://leetcode.com/problems/create-target-array-in-the-given-order/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Simulation"
+  ],
+  "solved_date": "2025-09-20",
+  "languages": [
+    "cpp"
+  ]
+}

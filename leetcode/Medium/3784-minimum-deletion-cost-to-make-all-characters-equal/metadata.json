@@ -1,0 +1,17 @@
+{
+  "id": "3784",
+  "title": "Minimum Deletion Cost to Make All Characters Equal",
+  "url": "https://leetcode.com/problems/minimum-deletion-cost-to-make-all-characters-equal/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Enumeration"
+  ],
+  "solved_date": "2025-12-23",
+  "languages": [
+    "cpp"
+  ]
+}

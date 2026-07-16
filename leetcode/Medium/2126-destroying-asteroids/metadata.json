@@ -1,0 +1,16 @@
+{
+  "id": "2126",
+  "title": "Destroying Asteroids",
+  "url": "https://leetcode.com/problems/destroying-asteroids/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
+  "solved_date": "2026-05-31",
+  "languages": [
+    "cpp"
+  ]
+}

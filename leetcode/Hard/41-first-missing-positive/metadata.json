@@ -1,0 +1,15 @@
+{
+  "id": "41",
+  "title": "First Missing Positive",
+  "url": "https://leetcode.com/problems/first-missing-positive/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Hash Table"
+  ],
+  "solved_date": "2025-08-29",
+  "languages": [
+    "cpp"
+  ]
+}

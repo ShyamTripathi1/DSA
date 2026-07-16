@@ -1,0 +1,16 @@
+{
+  "id": "848",
+  "title": "Shifting Letters",
+  "url": "https://leetcode.com/problems/shifting-letters/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "String",
+    "Prefix Sum"
+  ],
+  "solved_date": "2025-11-28",
+  "languages": [
+    "cpp"
+  ]
+}

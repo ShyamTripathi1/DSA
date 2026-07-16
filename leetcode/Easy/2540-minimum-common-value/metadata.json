@@ -1,0 +1,17 @@
+{
+  "id": "2540",
+  "title": "Minimum Common Value",
+  "url": "https://leetcode.com/problems/minimum-common-value/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Two Pointers",
+    "Binary Search"
+  ],
+  "solved_date": "2026-05-19",
+  "languages": [
+    "cpp"
+  ]
+}

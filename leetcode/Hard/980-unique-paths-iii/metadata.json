@@ -1,0 +1,17 @@
+{
+  "id": "980",
+  "title": "Unique Paths III",
+  "url": "https://leetcode.com/problems/unique-paths-iii/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Backtracking",
+    "Bit Manipulation",
+    "Matrix"
+  ],
+  "solved_date": "2025-11-28",
+  "languages": [
+    "cpp"
+  ]
+}

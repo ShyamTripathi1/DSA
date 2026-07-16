@@ -1,0 +1,18 @@
+{
+  "id": "2748",
+  "title": "Number of Beautiful Pairs",
+  "url": "https://leetcode.com/problems/number-of-beautiful-pairs/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Counting",
+    "Number Theory"
+  ],
+  "solved_date": "2025-09-11",
+  "languages": [
+    "cpp"
+  ]
+}

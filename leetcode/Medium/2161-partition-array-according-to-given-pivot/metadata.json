@@ -1,0 +1,16 @@
+{
+  "id": "2161",
+  "title": "Partition Array According to Given Pivot",
+  "url": "https://leetcode.com/problems/partition-array-according-to-given-pivot/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "Simulation"
+  ],
+  "solved_date": "2026-06-08",
+  "languages": [
+    "cpp"
+  ]
+}

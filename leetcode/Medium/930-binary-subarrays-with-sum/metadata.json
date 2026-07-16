@@ -1,0 +1,17 @@
+{
+  "id": "930",
+  "title": "Binary Subarrays With Sum",
+  "url": "https://leetcode.com/problems/binary-subarrays-with-sum/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Sliding Window",
+    "Prefix Sum"
+  ],
+  "solved_date": "2025-11-07",
+  "languages": [
+    "cpp"
+  ]
+}

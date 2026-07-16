@@ -1,0 +1,17 @@
+{
+  "id": "3842",
+  "title": "Toggle Light Bulbs",
+  "url": "https://leetcode.com/problems/toggle-light-bulbs/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Sorting",
+    "Simulation"
+  ],
+  "solved_date": "2026-02-15",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "2974",
+  "title": "Minimum Number Game",
+  "url": "https://leetcode.com/problems/minimum-number-game/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Simulation"
+  ],
+  "solved_date": "2025-10-12",
+  "languages": [
+    "cpp"
+  ]
+}

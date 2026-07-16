@@ -1,0 +1,18 @@
+{
+  "id": "220",
+  "title": "Contains Duplicate III",
+  "url": "https://leetcode.com/problems/contains-duplicate-iii/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Sliding Window",
+    "Sorting",
+    "Bucket Sort",
+    "Ordered Set"
+  ],
+  "solved_date": "2026-02-12",
+  "languages": [
+    "cpp"
+  ]
+}

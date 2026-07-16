@@ -1,0 +1,18 @@
+{
+  "id": "3600",
+  "title": "Maximize Spanning Tree Stability with Upgrades",
+  "url": "https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Binary Search",
+    "Greedy",
+    "Union-Find",
+    "Graph Theory",
+    "Minimum Spanning Tree"
+  ],
+  "solved_date": "2026-03-12",
+  "languages": [
+    "cpp"
+  ]
+}

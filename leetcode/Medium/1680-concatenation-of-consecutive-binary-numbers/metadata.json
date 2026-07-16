@@ -1,0 +1,16 @@
+{
+  "id": "1680",
+  "title": "Concatenation of Consecutive Binary Numbers",
+  "url": "https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Math",
+    "Bit Manipulation",
+    "Simulation"
+  ],
+  "solved_date": "2026-02-28",
+  "languages": [
+    "cpp"
+  ]
+}

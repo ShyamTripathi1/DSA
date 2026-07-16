@@ -1,0 +1,15 @@
+{
+  "id": "147",
+  "title": "Insertion Sort List",
+  "url": "https://leetcode.com/problems/insertion-sort-list/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Linked List",
+    "Sorting"
+  ],
+  "solved_date": "2025-08-26",
+  "languages": [
+    "cpp"
+  ]
+}

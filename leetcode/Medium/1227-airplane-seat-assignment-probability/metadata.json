@@ -1,0 +1,17 @@
+{
+  "id": "1227",
+  "title": "Airplane Seat Assignment Probability",
+  "url": "https://leetcode.com/problems/airplane-seat-assignment-probability/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Math",
+    "Dynamic Programming",
+    "Brainteaser",
+    "Probability and Statistics"
+  ],
+  "solved_date": "2025-09-11",
+  "languages": [
+    "cpp"
+  ]
+}

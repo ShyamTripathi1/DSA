@@ -1,0 +1,16 @@
+{
+  "id": "803",
+  "title": "Bricks Falling When Hit",
+  "url": "https://leetcode.com/problems/bricks-falling-when-hit/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Union-Find",
+    "Matrix"
+  ],
+  "solved_date": "2025-11-28",
+  "languages": [
+    "cpp"
+  ]
+}

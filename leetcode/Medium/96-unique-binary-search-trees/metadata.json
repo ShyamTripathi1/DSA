@@ -1,0 +1,18 @@
+{
+  "id": "96",
+  "title": "Unique Binary Search Trees",
+  "url": "https://leetcode.com/problems/unique-binary-search-trees/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Math",
+    "Dynamic Programming",
+    "Tree",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "solved_date": "2026-01-31",
+  "languages": [
+    "cpp"
+  ]
+}

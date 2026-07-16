@@ -1,0 +1,17 @@
+{
+  "id": "2465",
+  "title": "Number of Distinct Averages",
+  "url": "https://leetcode.com/problems/number-of-distinct-averages/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "solved_date": "2025-11-11",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "3839",
+  "title": "Number of Prefix Connected Groups",
+  "url": "https://leetcode.com/problems/number-of-prefix-connected-groups/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Counting"
+  ],
+  "solved_date": "2026-02-15",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "3075",
+  "title": "Maximize Happiness of Selected Children",
+  "url": "https://leetcode.com/problems/maximize-happiness-of-selected-children/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
+  "solved_date": "2025-12-25",
+  "languages": [
+    "cpp"
+  ]
+}

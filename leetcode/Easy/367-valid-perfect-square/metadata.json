@@ -1,0 +1,15 @@
+{
+  "id": "367",
+  "title": "Valid Perfect Square",
+  "url": "https://leetcode.com/problems/valid-perfect-square/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Math",
+    "Binary Search"
+  ],
+  "solved_date": "2025-07-04",
+  "languages": [
+    "cpp"
+  ]
+}

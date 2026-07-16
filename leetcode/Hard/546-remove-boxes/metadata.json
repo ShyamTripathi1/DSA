@@ -1,0 +1,16 @@
+{
+  "id": "546",
+  "title": "Remove Boxes",
+  "url": "https://leetcode.com/problems/remove-boxes/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Memoization"
+  ],
+  "solved_date": "2025-11-28",
+  "languages": [
+    "cpp"
+  ]
+}

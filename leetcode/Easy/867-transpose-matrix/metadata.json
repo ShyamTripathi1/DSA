@@ -1,0 +1,16 @@
+{
+  "id": "867",
+  "title": "Transpose Matrix",
+  "url": "https://leetcode.com/problems/transpose-matrix/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Matrix",
+    "Simulation"
+  ],
+  "solved_date": "2025-09-16",
+  "languages": [
+    "cpp"
+  ]
+}

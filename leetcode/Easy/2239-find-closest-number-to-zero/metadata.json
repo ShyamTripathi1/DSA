@@ -1,0 +1,14 @@
+{
+  "id": "2239",
+  "title": "Find Closest Number to Zero",
+  "url": "https://leetcode.com/problems/find-closest-number-to-zero/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array"
+  ],
+  "solved_date": "2025-10-06",
+  "languages": [
+    "cpp"
+  ]
+}

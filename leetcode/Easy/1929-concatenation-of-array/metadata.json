@@ -1,0 +1,15 @@
+{
+  "id": "1929",
+  "title": "Concatenation of Array",
+  "url": "https://leetcode.com/problems/concatenation-of-array/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Simulation"
+  ],
+  "solved_date": "2025-08-22",
+  "languages": [
+    "cpp"
+  ]
+}

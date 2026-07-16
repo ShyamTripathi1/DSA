@@ -1,0 +1,17 @@
+{
+  "id": "37",
+  "title": "Sudoku Solver",
+  "url": "https://leetcode.com/problems/sudoku-solver/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Backtracking",
+    "Matrix"
+  ],
+  "solved_date": "2026-04-13",
+  "languages": [
+    "cpp"
+  ]
+}

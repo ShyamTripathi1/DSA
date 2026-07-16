@@ -1,0 +1,15 @@
+{
+  "id": "1323",
+  "title": "Maximum 69 Number",
+  "url": "https://leetcode.com/problems/maximum-69-number/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Math",
+    "Greedy"
+  ],
+  "solved_date": "2025-08-16",
+  "languages": [
+    "cpp"
+  ]
+}

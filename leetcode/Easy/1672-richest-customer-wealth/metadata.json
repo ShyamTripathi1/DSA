@@ -1,0 +1,15 @@
+{
+  "id": "1672",
+  "title": "Richest Customer Wealth",
+  "url": "https://leetcode.com/problems/richest-customer-wealth/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Matrix"
+  ],
+  "solved_date": "2025-10-12",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "2784",
+  "title": "Check if Array is Good",
+  "url": "https://leetcode.com/problems/check-if-array-is-good/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ],
+  "solved_date": "2026-05-14",
+  "languages": [
+    "cpp"
+  ]
+}

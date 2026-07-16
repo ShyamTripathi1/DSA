@@ -1,0 +1,15 @@
+{
+  "id": "443",
+  "title": "String Compression",
+  "url": "https://leetcode.com/problems/string-compression/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Two Pointers",
+    "String"
+  ],
+  "solved_date": "2025-04-18",
+  "languages": [
+    "cpp"
+  ]
+}

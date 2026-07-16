@@ -1,0 +1,16 @@
+{
+  "id": "2475",
+  "title": "Number of Unequal Triplets in Array",
+  "url": "https://leetcode.com/problems/number-of-unequal-triplets-in-array/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ],
+  "solved_date": "2025-11-11",
+  "languages": [
+    "cpp"
+  ]
+}

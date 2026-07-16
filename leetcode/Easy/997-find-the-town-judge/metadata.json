@@ -1,0 +1,16 @@
+{
+  "id": "997",
+  "title": "Find the Town Judge",
+  "url": "https://leetcode.com/problems/find-the-town-judge/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Graph Theory"
+  ],
+  "solved_date": "2026-02-08",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "213",
+  "title": "House Robber II",
+  "url": "https://leetcode.com/problems/house-robber-ii/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "solved_date": "2026-04-10",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "3550",
+  "title": "Smallest Index With Digit Sum Equal to Index",
+  "url": "https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Math"
+  ],
+  "solved_date": "2025-09-05",
+  "languages": [
+    "cpp"
+  ]
+}

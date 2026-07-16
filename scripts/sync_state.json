@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-07-16T18:02:40.529010+00:00",
+  "last_sync": "2026-07-16T18:31:41.516525+00:00",
   "problems": {
     "sum-of-gcd-of-formed-pairs": {
       "last_submission_id": "2069644085",
@@ -130,6 +130,5518 @@
     "number-of-paths-with-max-score": {
       "last_submission_id": "2057156829",
       "last_timestamp": 1783271044,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-score-of-a-path-between-two-cities": {
+      "last_submission_id": "2056069501",
+      "last_timestamp": 1783185148,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "network-recovery-pathways": {
+      "last_submission_id": "2055051536",
+      "last_timestamp": 1783106474,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-a-safe-walk-through-a-grid": {
+      "last_submission_id": "2053805933",
+      "last_timestamp": 1783012456,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-the-safest-path-in-a-grid": {
+      "last_submission_id": "2052795524",
+      "last_timestamp": 1782935901,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "house-robber-iii": {
+      "last_submission_id": "2051894558",
+      "last_timestamp": 1782882752,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "number-of-substrings-containing-all-three-characters": {
+      "last_submission_id": "2051475045",
+      "last_timestamp": 1782838857,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "number-of-strings-that-appear-as-substrings-in-word": {
+      "last_submission_id": "2050411824",
+      "last_timestamp": 1782756787,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "word-search": {
+      "last_submission_id": "2049850210",
+      "last_timestamp": 1782724392,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-element-after-decreasing-and-rearranging": {
+      "last_submission_id": "2049100073",
+      "last_timestamp": 1782661712,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-the-maximum-number-of-elements-in-subset": {
+      "last_submission_id": "2048050702",
+      "last_timestamp": 1782578543,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "count-subarrays-with-majority-element-ii": {
+      "last_submission_id": "2047020748",
+      "last_timestamp": 1782491445,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "count-subarrays-with-majority-element-i": {
+      "last_submission_id": "2045390844",
+      "last_timestamp": 1782368193,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "number-of-zigzag-arrays-ii": {
+      "last_submission_id": "2044603455",
+      "last_timestamp": 1782304694,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "number-of-zigzag-arrays-i": {
+      "last_submission_id": "2043142283",
+      "last_timestamp": 1782204271,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-number-of-balloons": {
+      "last_submission_id": "2042294718",
+      "last_timestamp": 1782139606,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-ice-cream-bars": {
+      "last_submission_id": "2041166651",
+      "last_timestamp": 1782057852,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-building-height": {
+      "last_submission_id": "2039615268",
+      "last_timestamp": 1781949033,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "angle-between-hands-of-a-clock": {
+      "last_submission_id": "2038516866",
+      "last_timestamp": 1781859219,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-the-highest-altitude": {
+      "last_submission_id": "2038514822",
+      "last_timestamp": 1781859107,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "replace-employee-id-with-the-unique-identifier": {
+      "last_submission_id": "2036294345",
+      "last_timestamp": 1781694972,
+      "languages": [
+        "mysql"
+      ]
+    },
+    "process-string-with-special-operations-ii": {
+      "last_submission_id": "2035857583",
+      "last_timestamp": 1781671388,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "invalid-tweets": {
+      "last_submission_id": "2035313498",
+      "last_timestamp": 1781622763,
+      "languages": [
+        "mysql"
+      ]
+    },
+    "article-views-i": {
+      "last_submission_id": "2035308864",
+      "last_timestamp": 1781622507,
+      "languages": [
+        "mysql"
+      ]
+    },
+    "big-countries": {
+      "last_submission_id": "2035301953",
+      "last_timestamp": 1781622116,
+      "languages": [
+        "mysql"
+      ]
+    },
+    "find-customer-referee": {
+      "last_submission_id": "2035293432",
+      "last_timestamp": 1781621648,
+      "languages": [
+        "mysql"
+      ]
+    },
+    "recyclable-and-low-fat-products": {
+      "last_submission_id": "2035287320",
+      "last_timestamp": 1781621299,
+      "languages": [
+        "mysql"
+      ]
+    },
+    "delete-duplicate-emails": {
+      "last_submission_id": "2035270578",
+      "last_timestamp": 1781620354,
+      "languages": [
+        "mysql"
+      ]
+    },
+    "combine-two-tables": {
+      "last_submission_id": "2035265945",
+      "last_timestamp": 1781620085,
+      "languages": [
+        "mysql"
+      ]
+    },
+    "process-string-with-special-operations-i": {
+      "last_submission_id": "2034900034",
+      "last_timestamp": 1781598691,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "delete-the-middle-node-of-a-linked-list": {
+      "last_submission_id": "2033747432",
+      "last_timestamp": 1781515601,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "sum-of-compatible-numbers-in-range-i": {
+      "last_submission_id": "2032466517",
+      "last_timestamp": 1781415278,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "check-good-integer": {
+      "last_submission_id": "2032459202",
+      "last_timestamp": 1781414725,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-twin-sum-of-a-linked-list": {
+      "last_submission_id": "2032417665",
+      "last_timestamp": 1781411169,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "weighted-word-mapping": {
+      "last_submission_id": "2031528508",
+      "last_timestamp": 1781337008,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "number-of-ways-to-assign-edge-weights-ii": {
+      "last_submission_id": "2030894870",
+      "last_timestamp": 1781274455,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "number-of-ways-to-assign-edge-weights-i": {
+      "last_submission_id": "2029905875",
+      "last_timestamp": 1781192696,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-path-sum": {
+      "last_submission_id": "2028901417",
+      "last_timestamp": 1781111999,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "rotate-image": {
+      "last_submission_id": "2028781661",
+      "last_timestamp": 1781105381,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "move-zeroes": {
+      "last_submission_id": "2028771682",
+      "last_timestamp": 1781104749,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "longest-valid-parentheses": {
+      "last_submission_id": "2028765826",
+      "last_timestamp": 1781104381,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "duplicate-emails": {
+      "last_submission_id": "2028749220",
+      "last_timestamp": 1781103320,
+      "languages": [
+        "mysql"
+      ]
+    },
+    "maximum-subsequence-score": {
+      "last_submission_id": "2028744109",
+      "last_timestamp": 1781102996,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "fibonacci-number": {
+      "last_submission_id": "2028629952",
+      "last_timestamp": 1781095299,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-total-subarray-value-ii": {
+      "last_submission_id": "2028622850",
+      "last_timestamp": 1781094772,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-total-subarray-value-i": {
+      "last_submission_id": "2027793712",
+      "last_timestamp": 1781025619,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "partition-array-according-to-given-pivot": {
+      "last_submission_id": "2026544674",
+      "last_timestamp": 1780933802,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "create-binary-tree-from-descriptions": {
+      "last_submission_id": "2025637488",
+      "last_timestamp": 1780856438,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "left-and-right-sum-differences": {
+      "last_submission_id": "2024051282",
+      "last_timestamp": 1780736464,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "total-waviness-of-numbers-in-range-ii": {
+      "last_submission_id": "2022807103",
+      "last_timestamp": 1780628826,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "total-waviness-of-numbers-in-range-i": {
+      "last_submission_id": "2021956018",
+      "last_timestamp": 1780554018,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "earliest-finish-time-for-land-and-water-rides-ii": {
+      "last_submission_id": "2021458939",
+      "last_timestamp": 1780504977,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "earliest-finish-time-for-land-and-water-rides-i": {
+      "last_submission_id": "2020000413",
+      "last_timestamp": 1780391762,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-cost-of-buying-candies-with-discount": {
+      "last_submission_id": "2019040843",
+      "last_timestamp": 1780312405,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "destroying-asteroids": {
+      "last_submission_id": "2017990991",
+      "last_timestamp": 1780216920,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "block-placement-queries": {
+      "last_submission_id": "2017284449",
+      "last_timestamp": 1780148638,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-element-after-replacement-with-digit-sum": {
+      "last_submission_id": "2016287111",
+      "last_timestamp": 1780047271,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "longest-common-suffix-queries": {
+      "last_submission_id": "2015488211",
+      "last_timestamp": 1779972360,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "count-the-number-of-special-characters-ii": {
+      "last_submission_id": "2014755560",
+      "last_timestamp": 1779899966,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "count-the-number-of-special-characters-i": {
+      "last_submission_id": "2013762931",
+      "last_timestamp": 1779810926,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "jump-game-vii": {
+      "last_submission_id": "2012770331",
+      "last_timestamp": 1779724840,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "jump-game-v": {
+      "last_submission_id": "2011830351",
+      "last_timestamp": 1779636185,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "check-if-array-is-sorted-and-rotated": {
+      "last_submission_id": "2010898582",
+      "last_timestamp": 1779549862,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "search-in-rotated-sorted-array": {
+      "last_submission_id": "2010047733",
+      "last_timestamp": 1779464942,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-the-length-of-the-longest-common-prefix": {
+      "last_submission_id": "2009176775",
+      "last_timestamp": 1779379222,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-the-prefix-common-array-of-two-arrays": {
+      "last_submission_id": "2007941220",
+      "last_timestamp": 1779262713,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-common-value": {
+      "last_submission_id": "2007495880",
+      "last_timestamp": 1779210695,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "jump-game-iv": {
+      "last_submission_id": "2006231570",
+      "last_timestamp": 1779094893,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "jump-game-iii": {
+      "last_submission_id": "2005497281",
+      "last_timestamp": 1779017919,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-minimum-in-rotated-sorted-array-ii": {
+      "last_submission_id": "2004709369",
+      "last_timestamp": 1778945637,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-minimum-in-rotated-sorted-array": {
+      "last_submission_id": "2003736254",
+      "last_timestamp": 1778843026,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "check-if-array-is-good": {
+      "last_submission_id": "2003230714",
+      "last_timestamp": 1778782902,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "apply-transform-over-each-element-in-array": {
+      "last_submission_id": "2001973600",
+      "last_timestamp": 1778659225,
+      "languages": [
+        "javascript"
+      ]
+    },
+    "minimum-moves-to-make-array-complementary": {
+      "last_submission_id": "2001960913",
+      "last_timestamp": 1778657931,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "counter-ii": {
+      "last_submission_id": "2001606062",
+      "last_timestamp": 1778610635,
+      "languages": [
+        "javascript"
+      ]
+    },
+    "minimum-initial-energy-to-finish-tasks": {
+      "last_submission_id": "2001552092",
+      "last_timestamp": 1778607001,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "separate-the-digits-in-an-array": {
+      "last_submission_id": "2000394912",
+      "last_timestamp": 1778492732,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "to-be-or-not-to-be": {
+      "last_submission_id": "1999928808",
+      "last_timestamp": 1778435168,
+      "languages": [
+        "javascript"
+      ]
+    },
+    "maximum-number-of-jumps-to-reach-the-last-index": {
+      "last_submission_id": "1999639103",
+      "last_timestamp": 1778407389,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "first-matching-character-from-both-ends": {
+      "last_submission_id": "1998836682",
+      "last_timestamp": 1778333276,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "counter": {
+      "last_submission_id": "1998829595",
+      "last_timestamp": 1778332549,
+      "languages": [
+        "javascript"
+      ]
+    },
+    "create-hello-world-function": {
+      "last_submission_id": "1998827970",
+      "last_timestamp": 1778332381,
+      "languages": [
+        "javascript"
+      ]
+    },
+    "cyclically-rotating-a-grid": {
+      "last_submission_id": "1998824172",
+      "last_timestamp": 1778331976,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-jumps-to-reach-end-via-prime-teleportation": {
+      "last_submission_id": "1997820729",
+      "last_timestamp": 1778211763,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "jump-game-ix": {
+      "last_submission_id": "1997195377",
+      "last_timestamp": 1778140250,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "rotating-the-box": {
+      "last_submission_id": "1996510392",
+      "last_timestamp": 1778060362,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "rotate-list": {
+      "last_submission_id": "1995793870",
+      "last_timestamp": 1777984051,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "rotate-string": {
+      "last_submission_id": "1994306987",
+      "last_timestamp": 1777824329,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "rotated-digits": {
+      "last_submission_id": "1993346646",
+      "last_timestamp": 1777727934,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "rotate-function": {
+      "last_submission_id": "1992541121",
+      "last_timestamp": 1777636680,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-path-score-in-a-grid": {
+      "last_submission_id": "1991942178",
+      "last_timestamp": 1777565614,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-score-from-grid-operations": {
+      "last_submission_id": "1990650112",
+      "last_timestamp": 1777427169,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-operations-to-make-a-uni-value-grid": {
+      "last_submission_id": "1989859292",
+      "last_timestamp": 1777345531,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "two-sum": {
+      "last_submission_id": "1989858553",
+      "last_timestamp": 1777345434,
+      "languages": [
+        "cpp",
+        "c"
+      ]
+    },
+    "check-if-there-is-a-valid-path-in-a-grid": {
+      "last_submission_id": "1989083042",
+      "last_timestamp": 1777262797,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "detect-cycles-in-2d-grid": {
+      "last_submission_id": "1988449770",
+      "last_timestamp": 1777189509,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximize-the-distance-between-points-on-a-square": {
+      "last_submission_id": "1987633997",
+      "last_timestamp": 1777112193,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "furthest-point-from-origin": {
+      "last_submission_id": "1986705464",
+      "last_timestamp": 1777007669,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "sum-of-distances": {
+      "last_submission_id": "1985792287",
+      "last_timestamp": 1776912351,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "words-within-two-edits-of-dictionary": {
+      "last_submission_id": "1985158065",
+      "last_timestamp": 1776846542,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimize-hamming-distance-after-swap-operations": {
+      "last_submission_id": "1984249468",
+      "last_timestamp": 1776756050,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "two-furthest-houses-with-different-colors": {
+      "last_submission_id": "1983434028",
+      "last_timestamp": 1776677949,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-distance-between-a-pair-of-values": {
+      "last_submission_id": "1982807177",
+      "last_timestamp": 1776614826,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "mirror-distance-of-an-integer": {
+      "last_submission_id": "1981821857",
+      "last_timestamp": 1776524026,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-absolute-distance-between-mirror-pairs": {
+      "last_submission_id": "1981141376",
+      "last_timestamp": 1776446666,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "coin-change-ii": {
+      "last_submission_id": "1980640859",
+      "last_timestamp": 1776404018,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "coin-change": {
+      "last_submission_id": "1980613564",
+      "last_timestamp": 1776401857,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "closest-equal-element-queries": {
+      "last_submission_id": "1979976922",
+      "last_timestamp": 1776336552,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "shortest-distance-to-target-string-in-a-circular-array": {
+      "last_submission_id": "1979428498",
+      "last_timestamp": 1776275160,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-total-distance-traveled": {
+      "last_submission_id": "1978600324",
+      "last_timestamp": 1776193616,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "traffic-signal-color": {
+      "last_submission_id": "1977906685",
+      "last_timestamp": 1776141837,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-binary-tree-ii": {
+      "last_submission_id": "1977646624",
+      "last_timestamp": 1776105938,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-binary-tree": {
+      "last_submission_id": "1977646307",
+      "last_timestamp": 1776105915,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "integer-break": {
+      "last_submission_id": "1977643490",
+      "last_timestamp": 1776105719,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "string-to-integer-atoi": {
+      "last_submission_id": "1977641061",
+      "last_timestamp": 1776105541,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "count-of-interesting-subarrays": {
+      "last_submission_id": "1977640025",
+      "last_timestamp": 1776105468,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "interleaving-string": {
+      "last_submission_id": "1977637618",
+      "last_timestamp": 1776105299,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "decode-ways": {
+      "last_submission_id": "1977635729",
+      "last_timestamp": 1776105180,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "3sum-closest": {
+      "last_submission_id": "1977626698",
+      "last_timestamp": 1776104666,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-frequency-stack": {
+      "last_submission_id": "1977236812",
+      "last_timestamp": 1776077779,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "min-cost-climbing-stairs": {
+      "last_submission_id": "1977180509",
+      "last_timestamp": 1776073284,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "climbing-stairs": {
+      "last_submission_id": "1977152187",
+      "last_timestamp": 1776071051,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-all-duplicates-in-an-array": {
+      "last_submission_id": "1977043167",
+      "last_timestamp": 1776061881,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "reach-a-number": {
+      "last_submission_id": "1977038457",
+      "last_timestamp": 1776061553,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "sudoku-solver": {
+      "last_submission_id": "1976982465",
+      "last_timestamp": 1776057695,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "integer-to-roman": {
+      "last_submission_id": "1976945067",
+      "last_timestamp": 1776055003,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-distance-to-the-target-element": {
+      "last_submission_id": "1976917228",
+      "last_timestamp": 1776052735,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-distance-to-type-a-word-using-two-fingers": {
+      "last_submission_id": "1976455777",
+      "last_timestamp": 1776002810,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-distance-between-three-equal-elements-ii": {
+      "last_submission_id": "1975590682",
+      "last_timestamp": 1775925311,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-distance-between-three-equal-elements-i": {
+      "last_submission_id": "1974184046",
+      "last_timestamp": 1775800145,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "house-robber-ii": {
+      "last_submission_id": "1974144668",
+      "last_timestamp": 1775796990,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-width-of-binary-tree": {
+      "last_submission_id": "1973441020",
+      "last_timestamp": 1775730608,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "xor-after-range-multiplication-queries-ii": {
+      "last_submission_id": "1973361180",
+      "last_timestamp": 1775723978,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "xor-after-range-multiplication-queries-i": {
+      "last_submission_id": "1972278566",
+      "last_timestamp": 1775628412,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "walking-robot-simulation-ii": {
+      "last_submission_id": "1971714025",
+      "last_timestamp": 1775576271,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "walking-robot-simulation": {
+      "last_submission_id": "1970705445",
+      "last_timestamp": 1775490716,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "robot-return-to-origin": {
+      "last_submission_id": "1969079041",
+      "last_timestamp": 1775356302,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "decode-the-slanted-ciphertext": {
+      "last_submission_id": "1968536152",
+      "last_timestamp": 1775301377,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-walls-destroyed-by-robots": {
+      "last_submission_id": "1968107912",
+      "last_timestamp": 1775251533,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "house-robber": {
+      "last_submission_id": "1967394235",
+      "last_timestamp": 1775194029,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-amount-of-money-robot-can-earn": {
+      "last_submission_id": "1966809790",
+      "last_timestamp": 1775135463,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "robot-collisions": {
+      "last_submission_id": "1965866582",
+      "last_timestamp": 1775050491,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "single-element-in-a-sorted-array": {
+      "last_submission_id": "1965736614",
+      "last_timestamp": 1775039179,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "lexicographically-smallest-generated-string": {
+      "last_submission_id": "1964721381",
+      "last_timestamp": 1774951522,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "majority-element-ii": {
+      "last_submission_id": "1964488827",
+      "last_timestamp": 1774934243,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "majority-element": {
+      "last_submission_id": "1964485367",
+      "last_timestamp": 1774934006,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "remove-element": {
+      "last_submission_id": "1964468844",
+      "last_timestamp": 1774932875,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "merge-sorted-array": {
+      "last_submission_id": "1964269249",
+      "last_timestamp": 1774904476,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "check-if-strings-can-be-made-equal-with-operations-ii": {
+      "last_submission_id": "1963821364",
+      "last_timestamp": 1774875040,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "all-paths-from-source-to-target": {
+      "last_submission_id": "1963682609",
+      "last_timestamp": 1774863614,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "generate-parentheses": {
+      "last_submission_id": "1963663545",
+      "last_timestamp": 1774862296,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "letter-case-permutation": {
+      "last_submission_id": "1963642629",
+      "last_timestamp": 1774860821,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "check-if-strings-can-be-made-equal-with-operations-i": {
+      "last_submission_id": "1962792102",
+      "last_timestamp": 1774783771,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-the-string-with-lcp": {
+      "last_submission_id": "1961582392",
+      "last_timestamp": 1774687672,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "matrix-similarity-after-cyclic-shifts": {
+      "last_submission_id": "1960809512",
+      "last_timestamp": 1774609097,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "equal-sum-grid-partition-ii": {
+      "last_submission_id": "1960266088",
+      "last_timestamp": 1774550660,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "equal-sum-grid-partition-i": {
+      "last_submission_id": "1959333545",
+      "last_timestamp": 1774474719,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "construct-product-matrix": {
+      "last_submission_id": "1957916739",
+      "last_timestamp": 1774366961,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-non-negative-product-in-a-matrix": {
+      "last_submission_id": "1956948760",
+      "last_timestamp": 1774285662,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "flood-fill": {
+      "last_submission_id": "1956557991",
+      "last_timestamp": 1774259032,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "determine-whether-matrix-can-be-obtained-by-rotation": {
+      "last_submission_id": "1956106944",
+      "last_timestamp": 1774209896,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "flip-square-submatrix-vertically": {
+      "last_submission_id": "1955068640",
+      "last_timestamp": 1774120884,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-absolute-difference-in-sliding-submatrix": {
+      "last_submission_id": "1954099680",
+      "last_timestamp": 1774024766,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "clone-graph": {
+      "last_submission_id": "1953637230",
+      "last_timestamp": 1773985012,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "number-of-enclaves": {
+      "last_submission_id": "1953603150",
+      "last_timestamp": 1773982210,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "count-submatrices-with-equal-frequency-of-x-and-y": {
+      "last_submission_id": "1952947135",
+      "last_timestamp": 1773918249,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "count-submatrices-with-top-left-element-and-sum-less-than-k": {
+      "last_submission_id": "1952491644",
+      "last_timestamp": 1773866703,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "largest-submatrix-with-rearrangements": {
+      "last_submission_id": "1951415066",
+      "last_timestamp": 1773771117,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "get-biggest-three-rhombus-sums-in-a-grid": {
+      "last_submission_id": "1950360608",
+      "last_timestamp": 1773683629,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "frog-position-after-t-seconds": {
+      "last_submission_id": "1949886239",
+      "last_timestamp": 1773652234,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "fancy-sequence": {
+      "last_submission_id": "1949234813",
+      "last_timestamp": 1773589669,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "the-k-th-lexicographical-string-of-all-happy-strings-of-length-n": {
+      "last_submission_id": "1948145178",
+      "last_timestamp": 1773503423,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-number-of-seconds-to-make-mountain-height-zero": {
+      "last_submission_id": "1946931841",
+      "last_timestamp": 1773398803,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximize-spanning-tree-stability-with-upgrades": {
+      "last_submission_id": "1945954846",
+      "last_timestamp": 1773314076,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "complement-of-base-10-integer": {
+      "last_submission_id": "1944994758",
+      "last_timestamp": 1773233652,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-all-possible-stable-binary-arrays-ii": {
+      "last_submission_id": "1943746814",
+      "last_timestamp": 1773133417,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-all-possible-stable-binary-arrays-i": {
+      "last_submission_id": "1942827509",
+      "last_timestamp": 1773058972,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-strong-pair-xor-i": {
+      "last_submission_id": "1941843208",
+      "last_timestamp": 1772965399,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-unique-binary-string": {
+      "last_submission_id": "1941840724",
+      "last_timestamp": 1772965204,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-number-of-flips-to-make-the-binary-string-alternating": {
+      "last_submission_id": "1940579110",
+      "last_timestamp": 1772870348,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "check-if-binary-string-has-at-most-one-segment-of-ones": {
+      "last_submission_id": "1939831317",
+      "last_timestamp": 1772802047,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-changes-to-make-alternating-binary-string": {
+      "last_submission_id": "1938693488",
+      "last_timestamp": 1772709468,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "special-positions-in-a-binary-matrix": {
+      "last_submission_id": "1937699963",
+      "last_timestamp": 1772628135,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-kth-bit-in-nth-binary-string": {
+      "last_submission_id": "1936483584",
+      "last_timestamp": 1772524753,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-swaps-to-arrange-a-binary-grid": {
+      "last_submission_id": "1935338826",
+      "last_timestamp": 1772430763,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "partitioning-into-minimum-number-of-deci-binary-numbers": {
+      "last_submission_id": "1934361106",
+      "last_timestamp": 1772338234,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "concatenation-of-consecutive-binary-numbers": {
+      "last_submission_id": "1933409714",
+      "last_timestamp": 1772263904,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-operations-to-equalize-binary-string": {
+      "last_submission_id": "1932551625",
+      "last_timestamp": 1772176922,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "number-of-steps-to-reduce-a-number-in-binary-representation-to-one": {
+      "last_submission_id": "1931488069",
+      "last_timestamp": 1772085414,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "sort-integers-by-the-number-of-1-bits": {
+      "last_submission_id": "1930745845",
+      "last_timestamp": 1772021686,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "valid-sudoku": {
+      "last_submission_id": "1929664381",
+      "last_timestamp": 1771939333,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "sum-of-root-to-leaf-binary-numbers": {
+      "last_submission_id": "1929563492",
+      "last_timestamp": 1771931381,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "island-perimeter": {
+      "last_submission_id": "1928309515",
+      "last_timestamp": 1771837893,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "check-if-a-string-contains-all-binary-codes-of-size-k": {
+      "last_submission_id": "1928065678",
+      "last_timestamp": 1771822444,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "binary-gap": {
+      "last_submission_id": "1927720122",
+      "last_timestamp": 1771784168,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "check-digitorial-permutation": {
+      "last_submission_id": "1927225356",
+      "last_timestamp": 1771748306,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "count-sequences-to-k": {
+      "last_submission_id": "1927008710",
+      "last_timestamp": 1771732552,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-the-score-difference-in-a-game": {
+      "last_submission_id": "1926949535",
+      "last_timestamp": 1771730471,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "count-servers-that-communicate": {
+      "last_submission_id": "1926177090",
+      "last_timestamp": 1771665947,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "number-of-closed-islands": {
+      "last_submission_id": "1926131454",
+      "last_timestamp": 1771662504,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "number-of-islands": {
+      "last_submission_id": "1926121406",
+      "last_timestamp": 1771661681,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "prime-number-of-set-bits-in-binary-representation": {
+      "last_submission_id": "1926033226",
+      "last_timestamp": 1771655343,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "palindrome-partitioning": {
+      "last_submission_id": "1925567146",
+      "last_timestamp": 1771606057,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "special-binary-string": {
+      "last_submission_id": "1925082444",
+      "last_timestamp": 1771568209,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "rotting-oranges": {
+      "last_submission_id": "1924980083",
+      "last_timestamp": 1771561208,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "count-binary-substrings": {
+      "last_submission_id": "1924676680",
+      "last_timestamp": 1771524090,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "binary-number-with-alternating-bits": {
+      "last_submission_id": "1923048952",
+      "last_timestamp": 1771403411,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "my-calendar-i": {
+      "last_submission_id": "1923044313",
+      "last_timestamp": 1771403046,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "binary-watch": {
+      "last_submission_id": "1922398391",
+      "last_timestamp": 1771347925,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "keys-and-rooms": {
+      "last_submission_id": "1920853842",
+      "last_timestamp": 1771232759,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "map-of-highest-peak": {
+      "last_submission_id": "1920837494",
+      "last_timestamp": 1771231659,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "reverse-bits": {
+      "last_submission_id": "1920702356",
+      "last_timestamp": 1771221662,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "number-of-prefix-connected-groups": {
+      "last_submission_id": "1920235303",
+      "last_timestamp": 1771173412,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "first-element-with-unique-frequency": {
+      "last_submission_id": "1920096929",
+      "last_timestamp": 1771162545,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "toggle-light-bulbs": {
+      "last_submission_id": "1920088117",
+      "last_timestamp": 1771161867,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "add-binary": {
+      "last_submission_id": "1919989221",
+      "last_timestamp": 1771153882,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "house-robber-v": {
+      "last_submission_id": "1919164272",
+      "last_timestamp": 1771084502,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "champagne-tower": {
+      "last_submission_id": "1918793902",
+      "last_timestamp": 1771063583,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "longest-balanced-substring-ii": {
+      "last_submission_id": "1918275456",
+      "last_timestamp": 1771005126,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "smallest-range-i": {
+      "last_submission_id": "1917892162",
+      "last_timestamp": 1770978102,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "smallest-range-ii": {
+      "last_submission_id": "1917877143",
+      "last_timestamp": 1770976951,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-length-of-repeated-subarray": {
+      "last_submission_id": "1917118681",
+      "last_timestamp": 1770911736,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-all-anagrams-in-a-string": {
+      "last_submission_id": "1917118166",
+      "last_timestamp": 1770911706,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "arithmetic-slices": {
+      "last_submission_id": "1917117695",
+      "last_timestamp": 1770911679,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "longest-substring-with-at-least-k-repeating-characters": {
+      "last_submission_id": "1917117145",
+      "last_timestamp": 1770911649,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "contains-duplicate-iii": {
+      "last_submission_id": "1917116715",
+      "last_timestamp": 1770911627,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "substring-with-concatenation-of-all-words": {
+      "last_submission_id": "1917116359",
+      "last_timestamp": 1770911608,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "longest-balanced-substring-i": {
+      "last_submission_id": "1916768063",
+      "last_timestamp": 1770887420,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "trionic-array-ii": {
+      "last_submission_id": "1916206852",
+      "last_timestamp": 1770835437,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "divide-an-array-into-subarrays-with-minimum-cost-ii": {
+      "last_submission_id": "1916205761",
+      "last_timestamp": 1770835368,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "longest-balanced-subarray-ii": {
+      "last_submission_id": "1916201584",
+      "last_timestamp": 1770835117,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "reverse-prefix-of-word": {
+      "last_submission_id": "1915711673",
+      "last_timestamp": 1770807857,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "n-ary-tree-postorder-traversal": {
+      "last_submission_id": "1915699804",
+      "last_timestamp": 1770806975,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "n-ary-tree-preorder-traversal": {
+      "last_submission_id": "1915695686",
+      "last_timestamp": 1770806672,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "min-stack": {
+      "last_submission_id": "1915680660",
+      "last_timestamp": 1770805584,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-and-replace-pattern": {
+      "last_submission_id": "1915660036",
+      "last_timestamp": 1770804207,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "merge-adjacent-equal-elements": {
+      "last_submission_id": "1915594720",
+      "last_timestamp": 1770799913,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "uncommon-words-from-two-sentences": {
+      "last_submission_id": "1914235756",
+      "last_timestamp": 1770700275,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "design-hashset": {
+      "last_submission_id": "1914216699",
+      "last_timestamp": 1770699169,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "longest-balanced-subarray-i": {
+      "last_submission_id": "1914185402",
+      "last_timestamp": 1770697355,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "set-matrix-zeroes": {
+      "last_submission_id": "1913896872",
+      "last_timestamp": 1770663934,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "destination-city": {
+      "last_submission_id": "1913768958",
+      "last_timestamp": 1770657514,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "online-election": {
+      "last_submission_id": "1913281117",
+      "last_timestamp": 1770627392,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "most-common-word": {
+      "last_submission_id": "1913239802",
+      "last_timestamp": 1770624177,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "balance-a-binary-search-tree": {
+      "last_submission_id": "1913108085",
+      "last_timestamp": 1770615127,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-the-town-judge": {
+      "last_submission_id": "1912799494",
+      "last_timestamp": 1770578596,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "balanced-binary-tree": {
+      "last_submission_id": "1912548119",
+      "last_timestamp": 1770563355,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-sum-with-exactly-k-elements": {
+      "last_submission_id": "1911203554",
+      "last_timestamp": 1770463069,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "distant-barcodes": {
+      "last_submission_id": "1911172714",
+      "last_timestamp": 1770460657,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "reorganize-string": {
+      "last_submission_id": "1911151315",
+      "last_timestamp": 1770459051,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "top-k-frequent-words": {
+      "last_submission_id": "1911130831",
+      "last_timestamp": 1770457534,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-deletions-to-make-string-balanced": {
+      "last_submission_id": "1911107188",
+      "last_timestamp": 1770455722,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimize-deviation-in-array": {
+      "last_submission_id": "1910163651",
+      "last_timestamp": 1770375379,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "relative-ranks": {
+      "last_submission_id": "1909964592",
+      "last_timestamp": 1770361389,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "course-schedule-ii": {
+      "last_submission_id": "1909916335",
+      "last_timestamp": 1770358645,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-removals-to-balance-array": {
+      "last_submission_id": "1909887485",
+      "last_timestamp": 1770357057,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "course-schedule": {
+      "last_submission_id": "1909837832",
+      "last_timestamp": 1770354192,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "seat-reservation-manager": {
+      "last_submission_id": "1909787405",
+      "last_timestamp": 1770351093,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-number-of-operations-to-have-distinct-elements": {
+      "last_submission_id": "1909014313",
+      "last_timestamp": 1770288904,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "k-diff-pairs-in-an-array": {
+      "last_submission_id": "1908982665",
+      "last_timestamp": 1770286628,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "transformed-array": {
+      "last_submission_id": "1908790697",
+      "last_timestamp": 1770273473,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "reduce-array-size-to-the-half": {
+      "last_submission_id": "1907753102",
+      "last_timestamp": 1770197313,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "k-th-smallest-prime-fraction": {
+      "last_submission_id": "1907723050",
+      "last_timestamp": 1770195474,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "kth-largest-element-in-a-stream": {
+      "last_submission_id": "1907689575",
+      "last_timestamp": 1770193157,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "trionic-array-i": {
+      "last_submission_id": "1906251758",
+      "last_timestamp": 1770094989,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-median-from-data-stream": {
+      "last_submission_id": "1905241824",
+      "last_timestamp": 1770022487,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "divide-an-array-into-subarrays-with-minimum-cost-i": {
+      "last_submission_id": "1904189453",
+      "last_timestamp": 1769939189,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "final-element-after-subarray-deletions": {
+      "last_submission_id": "1903893463",
+      "last_timestamp": 1769918127,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "count-monobit-integers": {
+      "last_submission_id": "1903892545",
+      "last_timestamp": 1769918089,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "longest-strictly-increasing-subsequence-with-non-zero-bitwise-and": {
+      "last_submission_id": "1903308060",
+      "last_timestamp": 1769874856,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "reverse-letters-then-special-characters-in-a-string": {
+      "last_submission_id": "1903302022",
+      "last_timestamp": 1769874721,
+      "languages": [
+        "java"
+      ]
+    },
+    "unique-binary-search-trees": {
+      "last_submission_id": "1902879547",
+      "last_timestamp": 1769854895,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-smallest-letter-greater-than-target": {
+      "last_submission_id": "1902874122",
+      "last_timestamp": 1769854521,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "delete-leaves-with-a-given-value": {
+      "last_submission_id": "1901831065",
+      "last_timestamp": 1769764701,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "sum-of-nodes-with-even-valued-grandparent": {
+      "last_submission_id": "1901698084",
+      "last_timestamp": 1769754405,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-sum-bst-in-binary-tree": {
+      "last_submission_id": "1901675387",
+      "last_timestamp": 1769753062,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "populating-next-right-pointers-in-each-node-ii": {
+      "last_submission_id": "1901583961",
+      "last_timestamp": 1769747062,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "reverse-odd-levels-of-binary-tree": {
+      "last_submission_id": "1899691409",
+      "last_timestamp": 1769598908,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "n-ary-tree-level-order-traversal": {
+      "last_submission_id": "1899648540",
+      "last_timestamp": 1769595581,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "lexicographical-numbers": {
+      "last_submission_id": "1899598955",
+      "last_timestamp": 1769592275,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "binary-tree-paths": {
+      "last_submission_id": "1899579023",
+      "last_timestamp": 1769591077,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "kth-largest-sum-in-a-binary-tree": {
+      "last_submission_id": "1899561466",
+      "last_timestamp": 1769589969,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "count-good-nodes-in-binary-tree": {
+      "last_submission_id": "1899547969",
+      "last_timestamp": 1769588954,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-prefix-removal-to-make-array-strictly-increasing": {
+      "last_submission_id": "1899371457",
+      "last_timestamp": 1769576812,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "deepest-leaves-sum": {
+      "last_submission_id": "1899363409",
+      "last_timestamp": 1769576295,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "average-of-levels-in-binary-tree": {
+      "last_submission_id": "1899344227",
+      "last_timestamp": 1769575064,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-bottom-left-tree-value": {
+      "last_submission_id": "1898467901",
+      "last_timestamp": 1769510159,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "apply-bitwise-operations-to-make-strings-equal": {
+      "last_submission_id": "1892207102",
+      "last_timestamp": 1769004662,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "alternating-digit-sum": {
+      "last_submission_id": "1892189303",
+      "last_timestamp": 1769003630,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "distribute-candies": {
+      "last_submission_id": "1888543873",
+      "last_timestamp": 1768712584,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "vowel-consonant-score": {
+      "last_submission_id": "1888456385",
+      "last_timestamp": 1768706923,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-valid-pair-of-adjacent-digits-in-string": {
+      "last_submission_id": "1887530228",
+      "last_timestamp": 1768637351,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-time-visiting-all-points": {
+      "last_submission_id": "1882504467",
+      "last_timestamp": 1768200535,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "smallest-subtree-with-all-the-deepest-nodes": {
+      "last_submission_id": "1879902950",
+      "last_timestamp": 1767973652,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "max-dot-product-of-two-subsequences": {
+      "last_submission_id": "1878184210",
+      "last_timestamp": 1767835740,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-product-of-splitted-binary-tree": {
+      "last_submission_id": "1877057152",
+      "last_timestamp": 1767751683,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-level-sum-of-a-binary-tree": {
+      "last_submission_id": "1876626018",
+      "last_timestamp": 1767714930,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-matrix-sum": {
+      "last_submission_id": "1874845384",
+      "last_timestamp": 1767586036,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "largest-even-number": {
+      "last_submission_id": "1874169964",
+      "last_timestamp": 1767528808,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "four-divisors": {
+      "last_submission_id": "1873643860",
+      "last_timestamp": 1767485051,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "reverse-string-prefix": {
+      "last_submission_id": "1873241817",
+      "last_timestamp": 1767453282,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "number-of-ways-to-paint-n-3-grid": {
+      "last_submission_id": "1872862417",
+      "last_timestamp": 1767428942,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "n-repeated-element-in-size-2n-array": {
+      "last_submission_id": "1872201552",
+      "last_timestamp": 1767368748,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "plus-one": {
+      "last_submission_id": "1870617747",
+      "last_timestamp": 1767227496,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "count-negative-numbers-in-a-sorted-matrix": {
+      "last_submission_id": "1867442126",
+      "last_timestamp": 1766914336,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "4sum": {
+      "last_submission_id": "1866527796",
+      "last_timestamp": 1766829147,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-penalty-for-a-shop": {
+      "last_submission_id": "1866462567",
+      "last_timestamp": 1766823216,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximize-happiness-of-selected-children": {
+      "last_submission_id": "1865066762",
+      "last_timestamp": 1766673700,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "apple-redistribution-into-boxes": {
+      "last_submission_id": "1864065590",
+      "last_timestamp": 1766569156,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-deletion-cost-to-make-all-characters-equal": {
+      "last_submission_id": "1863351034",
+      "last_timestamp": 1766498201,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-score-after-binary-swaps": {
+      "last_submission_id": "1860781175",
+      "last_timestamp": 1766245767,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "last-remaining-integer-after-alternating-deletion-operations": {
+      "last_submission_id": "1860778031",
+      "last_timestamp": 1766245641,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "delete-columns-to-make-sorted": {
+      "last_submission_id": "1860480670",
+      "last_timestamp": 1766225548,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "wiggle-sort-ii": {
+      "last_submission_id": "1859701162",
+      "last_timestamp": 1766140938,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "absolute-difference-between-maximum-and-minimum-k-elements": {
+      "last_submission_id": "1856297261",
+      "last_timestamp": 1765808163,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-the-index-of-the-first-occurrence-in-a-string": {
+      "last_submission_id": "1854510298",
+      "last_timestamp": 1765631097,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "count-the-number-of-computer-unlocking-permutations": {
+      "last_submission_id": "1851664814",
+      "last_timestamp": 1765341967,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "shortest-path-in-binary-matrix": {
+      "last_submission_id": "1850052349",
+      "last_timestamp": 1765189769,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "count-square-sum-triples": {
+      "last_submission_id": "1849766324",
+      "last_timestamp": 1765165239,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "count-odd-numbers-in-an-interval-range": {
+      "last_submission_id": "1848984528",
+      "last_timestamp": 1765085165,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "longest-subsequence-with-non-zero-bitwise-xor": {
+      "last_submission_id": "1848195568",
+      "last_timestamp": 1765011850,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "compute-alternating-sum": {
+      "last_submission_id": "1848189683",
+      "last_timestamp": 1765011191,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "restore-finishing-order": {
+      "last_submission_id": "1848186414",
+      "last_timestamp": 1765010813,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "smallest-missing-multiple-of-k": {
+      "last_submission_id": "1847391703",
+      "last_timestamp": 1764917586,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "count-partitions-with-even-sum-difference": {
+      "last_submission_id": "1847385252",
+      "last_timestamp": 1764917043,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "surrounded-regions": {
+      "last_submission_id": "1847288651",
+      "last_timestamp": 1764908933,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "count-elements-with-at-least-k-greater-values": {
+      "last_submission_id": "1846914918",
+      "last_timestamp": 1764864644,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "unique-paths-iii": {
+      "last_submission_id": "1841687379",
+      "last_timestamp": 1764325937,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "profitable-schemes": {
+      "last_submission_id": "1841571459",
+      "last_timestamp": 1764312893,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-number-of-refueling-stops": {
+      "last_submission_id": "1841570821",
+      "last_timestamp": 1764312831,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "shortest-subarray-with-sum-at-least-k": {
+      "last_submission_id": "1841570609",
+      "last_timestamp": 1764312810,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-cost-to-hire-k-workers": {
+      "last_submission_id": "1841570119",
+      "last_timestamp": 1764312762,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "loud-and-rich": {
+      "last_submission_id": "1841569715",
+      "last_timestamp": 1764312724,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "shifting-letters": {
+      "last_submission_id": "1841568937",
+      "last_timestamp": 1764312646,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "binary-trees-with-factors": {
+      "last_submission_id": "1841568106",
+      "last_timestamp": 1764312565,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "bus-routes": {
+      "last_submission_id": "1841567779",
+      "last_timestamp": 1764312532,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "chalkboard-xor-game": {
+      "last_submission_id": "1841567047",
+      "last_timestamp": 1764312465,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "bricks-falling-when-hit": {
+      "last_submission_id": "1841565360",
+      "last_timestamp": 1764312301,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "valid-tic-tac-toe-state": {
+      "last_submission_id": "1841564749",
+      "last_timestamp": 1764312247,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "sliding-puzzle": {
+      "last_submission_id": "1841564105",
+      "last_timestamp": 1764312188,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "open-the-lock": {
+      "last_submission_id": "1841563412",
+      "last_timestamp": 1764312128,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "delete-and-earn": {
+      "last_submission_id": "1841562987",
+      "last_timestamp": 1764312085,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "my-calendar-ii": {
+      "last_submission_id": "1841562366",
+      "last_timestamp": 1764312028,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "accounts-merge": {
+      "last_submission_id": "1841560599",
+      "last_timestamp": 1764311862,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "random-pick-with-blacklist": {
+      "last_submission_id": "1841560132",
+      "last_timestamp": 1764311822,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "falling-squares": {
+      "last_submission_id": "1841559432",
+      "last_timestamp": 1764311758,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "split-array-into-consecutive-subsequences": {
+      "last_submission_id": "1841558598",
+      "last_timestamp": 1764311680,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "replace-words": {
+      "last_submission_id": "1841557514",
+      "last_timestamp": 1764311574,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "exclusive-time-of-functions": {
+      "last_submission_id": "1841556985",
+      "last_timestamp": 1764311520,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "shortest-unsorted-continuous-subarray": {
+      "last_submission_id": "1841556360",
+      "last_timestamp": 1764311460,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "brick-wall": {
+      "last_submission_id": "1841555826",
+      "last_timestamp": 1764311413,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "array-nesting": {
+      "last_submission_id": "1841554450",
+      "last_timestamp": 1764311288,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "remove-boxes": {
+      "last_submission_id": "1841554032",
+      "last_timestamp": 1764311246,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-time-difference": {
+      "last_submission_id": "1841553686",
+      "last_timestamp": 1764311214,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "random-pick-with-weight": {
+      "last_submission_id": "1841552791",
+      "last_timestamp": 1764311133,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "contiguous-array": {
+      "last_submission_id": "1841552298",
+      "last_timestamp": 1764311087,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "continuous-subarray-sum": {
+      "last_submission_id": "1841549426",
+      "last_timestamp": 1764310830,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "diagonal-traverse": {
+      "last_submission_id": "1841541230",
+      "last_timestamp": 1764310086,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "predict-the-winner": {
+      "last_submission_id": "1841537373",
+      "last_timestamp": 1764309733,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "number-of-boomerangs": {
+      "last_submission_id": "1841519454",
+      "last_timestamp": 1764307980,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "subsets-ii": {
+      "last_submission_id": "1840032686",
+      "last_timestamp": 1764140246,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "combination-sum-ii": {
+      "last_submission_id": "1839328190",
+      "last_timestamp": 1764068266,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "combination-sum": {
+      "last_submission_id": "1839322116",
+      "last_timestamp": 1764067712,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "smallest-integer-divisible-by-k": {
+      "last_submission_id": "1839179241",
+      "last_timestamp": 1764053919,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "lucky-numbers-in-a-matrix": {
+      "last_submission_id": "1838647146",
+      "last_timestamp": 1763999657,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "binary-prefix-divisible-by-5": {
+      "last_submission_id": "1838337397",
+      "last_timestamp": 1763972381,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-minimum-operations-to-make-all-elements-divisible-by-three": {
+      "last_submission_id": "1837602498",
+      "last_timestamp": 1763896906,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-product-of-word-lengths": {
+      "last_submission_id": "1835939851",
+      "last_timestamp": 1763723438,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-xor-beauty-of-array": {
+      "last_submission_id": "1835798061",
+      "last_timestamp": 1763708170,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "two-out-of-three": {
+      "last_submission_id": "1835791288",
+      "last_timestamp": 1763707570,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "bitwise-and-of-numbers-range": {
+      "last_submission_id": "1835010086",
+      "last_timestamp": 1763630710,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-the-xor-of-numbers-which-appear-twice": {
+      "last_submission_id": "1835006448",
+      "last_timestamp": 1763630372,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "single-number-iii": {
+      "last_submission_id": "1834984137",
+      "last_timestamp": 1763628080,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "single-number": {
+      "last_submission_id": "1834981011",
+      "last_timestamp": 1763627737,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-bit-flips-to-convert-number": {
+      "last_submission_id": "1834912377",
+      "last_timestamp": 1763621155,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "candy": {
+      "last_submission_id": "1834840567",
+      "last_timestamp": 1763615159,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "largest-number-at-least-twice-of-others": {
+      "last_submission_id": "1834811157",
+      "last_timestamp": 1763612420,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "string-without-aaa-or-bbb": {
+      "last_submission_id": "1834140809",
+      "last_timestamp": 1763549931,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "count-days-without-meetings": {
+      "last_submission_id": "1834064335",
+      "last_timestamp": 1763543302,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "assign-cookies": {
+      "last_submission_id": "1833956606",
+      "last_timestamp": 1763534441,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "keep-multiplying-found-values-by-two": {
+      "last_submission_id": "1833863329",
+      "last_timestamp": 1763527919,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "mean-of-array-after-removing-some-elements": {
+      "last_submission_id": "1833229498",
+      "last_timestamp": 1763462982,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-difference-between-largest-and-smallest-value-in-three-moves": {
+      "last_submission_id": "1833222270",
+      "last_timestamp": 1763462336,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "removing-minimum-and-maximum-from-array": {
+      "last_submission_id": "1833158206",
+      "last_timestamp": 1763456961,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-operations-to-make-the-array-increasing": {
+      "last_submission_id": "1833136424",
+      "last_timestamp": 1763455051,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-increment-to-make-array-unique": {
+      "last_submission_id": "1833128688",
+      "last_timestamp": 1763454312,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "1-bit-and-2-bit-characters": {
+      "last_submission_id": "1833054426",
+      "last_timestamp": 1763448122,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "check-if-all-1s-are-at-least-length-k-places-away": {
+      "last_submission_id": "1832107121",
+      "last_timestamp": 1763367706,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-string-length-after-balanced-removals": {
+      "last_submission_id": "1831326974",
+      "last_timestamp": 1763297548,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximize-expression-of-three-elements": {
+      "last_submission_id": "1831324329",
+      "last_timestamp": 1763297332,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-words-that-can-be-formed-by-characters": {
+      "last_submission_id": "1831236598",
+      "last_timestamp": 1763289543,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-the-most-common-response": {
+      "last_submission_id": "1830398864",
+      "last_timestamp": 1763215002,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "tuple-with-same-product": {
+      "last_submission_id": "1830357935",
+      "last_timestamp": 1763211258,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "most-frequent-even-element": {
+      "last_submission_id": "1829392866",
+      "last_timestamp": 1763103412,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "intersection-of-multiple-arrays": {
+      "last_submission_id": "1829382347",
+      "last_timestamp": 1763102500,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-rounds-to-complete-all-tasks": {
+      "last_submission_id": "1829374308",
+      "last_timestamp": 1763101832,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "most-frequent-number-following-key-in-an-array": {
+      "last_submission_id": "1829362100",
+      "last_timestamp": 1763100806,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "long-pressed-name": {
+      "last_submission_id": "1828586599",
+      "last_timestamp": 1763024527,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "reverse-only-letters": {
+      "last_submission_id": "1828571710",
+      "last_timestamp": 1763023061,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-missing-elements": {
+      "last_submission_id": "1828449923",
+      "last_timestamp": 1763012565,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "asteroid-collision": {
+      "last_submission_id": "1828422917",
+      "last_timestamp": 1763010265,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-number-of-operations-to-make-array-empty": {
+      "last_submission_id": "1827517770",
+      "last_timestamp": 1762924091,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "number-of-distinct-averages": {
+      "last_submission_id": "1827065546",
+      "last_timestamp": 1762878576,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "number-of-unequal-triplets-in-array": {
+      "last_submission_id": "1827048277",
+      "last_timestamp": 1762877474,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "determine-if-two-strings-are-close": {
+      "last_submission_id": "1826819509",
+      "last_timestamp": 1762858567,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "least-number-of-unique-integers-after-k-removals": {
+      "last_submission_id": "1826810140",
+      "last_timestamp": 1762857591,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-operations-to-convert-all-elements-to-zero": {
+      "last_submission_id": "1826303820",
+      "last_timestamp": 1762802763,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "sort-characters-by-frequency": {
+      "last_submission_id": "1825735867",
+      "last_timestamp": 1762756663,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-deletions-for-at-most-k-distinct-characters": {
+      "last_submission_id": "1825678209",
+      "last_timestamp": 1762751585,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "count-operations-to-obtain-zero": {
+      "last_submission_id": "1824955435",
+      "last_timestamp": 1762679286,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-moves-to-equal-array-elements": {
+      "last_submission_id": "1824278260",
+      "last_timestamp": 1762617723,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-moves-to-equal-array-elements-iii": {
+      "last_submission_id": "1824267796",
+      "last_timestamp": 1762617266,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "longest-non-decreasing-subarray-after-replacing-at-most-one-element": {
+      "last_submission_id": "1824257998",
+      "last_timestamp": 1762616837,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "count-number-of-nice-subarrays": {
+      "last_submission_id": "1824205013",
+      "last_timestamp": 1762614791,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "binary-subarrays-with-sum": {
+      "last_submission_id": "1823040829",
+      "last_timestamp": 1762495542,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-center-of-star-graph": {
+      "last_submission_id": "1823003433",
+      "last_timestamp": 1762492184,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "number-of-provinces": {
+      "last_submission_id": "1822974980",
+      "last_timestamp": 1762489404,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "fruit-into-baskets": {
+      "last_submission_id": "1822150066",
+      "last_timestamp": 1762408726,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "max-consecutive-ones-iii": {
+      "last_submission_id": "1821858965",
+      "last_timestamp": 1762372682,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "longest-substring-without-repeating-characters": {
+      "last_submission_id": "1821778646",
+      "last_timestamp": 1762366618,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-points-you-can-obtain-from-cards": {
+      "last_submission_id": "1820904789",
+      "last_timestamp": 1762287904,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-x-sum-of-all-k-long-subarrays-i": {
+      "last_submission_id": "1820801908",
+      "last_timestamp": 1762279875,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-if-path-exists-in-graph": {
+      "last_submission_id": "1819461607",
+      "last_timestamp": 1762167142,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-matching-of-players-with-trainers": {
+      "last_submission_id": "1819376119",
+      "last_timestamp": 1762159921,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "merge-similar-items": {
+      "last_submission_id": "1819366908",
+      "last_timestamp": 1762159078,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-time-to-make-rope-colorful": {
+      "last_submission_id": "1819304760",
+      "last_timestamp": 1762153160,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "count-unguarded-cells-in-the-grid": {
+      "last_submission_id": "1818628575",
+      "last_timestamp": 1762088342,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "delete-nodes-from-linked-list-present-in-array": {
+      "last_submission_id": "1817906484",
+      "last_timestamp": 1762018994,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-largest-value-in-each-tree-row": {
+      "last_submission_id": "1816781735",
+      "last_timestamp": 1761909331,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-number-of-arrows-to-burst-balloons": {
+      "last_submission_id": "1816760280",
+      "last_timestamp": 1761907183,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "populating-next-right-pointers-in-each-node": {
+      "last_submission_id": "1816531874",
+      "last_timestamp": 1761886021,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "merge-intervals": {
+      "last_submission_id": "1815720142",
+      "last_timestamp": 1761807533,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "smallest-absent-positive-greater-than-average": {
+      "last_submission_id": "1815679269",
+      "last_timestamp": 1761804119,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "earliest-time-to-finish-one-task": {
+      "last_submission_id": "1815659299",
+      "last_timestamp": 1761802401,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "rabbits-in-forest": {
+      "last_submission_id": "1814861469",
+      "last_timestamp": 1761728628,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "construct-string-with-repeat-limit": {
+      "last_submission_id": "1814827634",
+      "last_timestamp": 1761725397,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "smallest-number-with-all-set-bits": {
+      "last_submission_id": "1814650222",
+      "last_timestamp": 1761711189,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-first-palindromic-string-in-the-array": {
+      "last_submission_id": "1813950097",
+      "last_timestamp": 1761647546,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "check-completeness-of-a-binary-tree": {
+      "last_submission_id": "1813876575",
+      "last_timestamp": 1761641131,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "cousins-in-binary-tree": {
+      "last_submission_id": "1813074133",
+      "last_timestamp": 1761563374,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-depth-of-binary-tree": {
+      "last_submission_id": "1813050720",
+      "last_timestamp": 1761561200,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "valid-palindrome-ii": {
+      "last_submission_id": "1812792077",
+      "last_timestamp": 1761538930,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "sum-root-to-leaf-numbers": {
+      "last_submission_id": "1812239931",
+      "last_timestamp": 1761485122,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "recover-binary-search-tree": {
+      "last_submission_id": "1811041381",
+      "last_timestamp": 1761383651,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "permutations": {
+      "last_submission_id": "1810187325",
+      "last_timestamp": 1761296182,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "swap-nodes-in-pairs": {
+      "last_submission_id": "1809408410",
+      "last_timestamp": 1761222451,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "search-a-2d-matrix": {
+      "last_submission_id": "1808436096",
+      "last_timestamp": 1761130788,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "k-closest-points-to-origin": {
+      "last_submission_id": "1807604024",
+      "last_timestamp": 1761053794,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "valid-parentheses": {
+      "last_submission_id": "1806733425",
+      "last_timestamp": 1760965440,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "same-tree": {
+      "last_submission_id": "1805865429",
+      "last_timestamp": 1760875594,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-depth-of-binary-tree": {
+      "last_submission_id": "1803936198",
+      "last_timestamp": 1760676641,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "binary-search-tree-to-greater-sum-tree": {
+      "last_submission_id": "1803911625",
+      "last_timestamp": 1760674407,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "boats-to-save-people": {
+      "last_submission_id": "1803078200",
+      "last_timestamp": 1760593898,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-units-on-a-truck": {
+      "last_submission_id": "1803031486",
+      "last_timestamp": 1760590280,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximize-sum-of-array-after-k-negations": {
+      "last_submission_id": "1802151023",
+      "last_timestamp": 1760510245,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "range-sum-of-bst": {
+      "last_submission_id": "1801017754",
+      "last_timestamp": 1760418089,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-absolute-difference-in-bst": {
+      "last_submission_id": "1801002862",
+      "last_timestamp": 1760417109,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-distance-between-bst-nodes": {
+      "last_submission_id": "1800984264",
+      "last_timestamp": 1760415800,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "last-stone-weight": {
+      "last_submission_id": "1800198540",
+      "last_timestamp": 1760350896,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "sum-of-elements-with-frequency-divisible-by-k": {
+      "last_submission_id": "1799969693",
+      "last_timestamp": 1760331925,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-resultant-array-after-removing-anagrams": {
+      "last_submission_id": "1799954171",
+      "last_timestamp": 1760330760,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "number-of-changing-keys": {
+      "last_submission_id": "1799436242",
+      "last_timestamp": 1760280637,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "difference-between-element-sum-and-digit-sum-of-an-array": {
+      "last_submission_id": "1799425275",
+      "last_timestamp": 1760279783,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "baseball-game": {
+      "last_submission_id": "1799412092",
+      "last_timestamp": 1760278813,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "number-of-employees-who-met-the-target": {
+      "last_submission_id": "1799394596",
+      "last_timestamp": 1760277558,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "sum-multiples": {
+      "last_submission_id": "1799394261",
+      "last_timestamp": 1760277535,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-number-of-words-found-in-sentences": {
+      "last_submission_id": "1799384673",
+      "last_timestamp": 1760276861,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-number-game": {
+      "last_submission_id": "1799371376",
+      "last_timestamp": 1760275871,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "richest-customer-wealth": {
+      "last_submission_id": "1799363469",
+      "last_timestamp": 1760275275,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-if-digit-game-can-be-won": {
+      "last_submission_id": "1799354308",
+      "last_timestamp": 1760274541,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "count-the-digits-that-divide-a-number": {
+      "last_submission_id": "1799329189",
+      "last_timestamp": 1760272446,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-k-closest-elements": {
+      "last_submission_id": "1798140415",
+      "last_timestamp": 1760178384,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "sort-array-by-increasing-frequency": {
+      "last_submission_id": "1798068349",
+      "last_timestamp": 1760172465,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "top-k-frequent-elements": {
+      "last_submission_id": "1798053824",
+      "last_timestamp": 1760171210,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "kth-largest-element-in-an-array": {
+      "last_submission_id": "1797948872",
+      "last_timestamp": 1760162729,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "vertical-order-traversal-of-a-binary-tree": {
+      "last_submission_id": "1797882832",
+      "last_timestamp": 1760157133,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "group-anagrams": {
+      "last_submission_id": "1797171951",
+      "last_timestamp": 1760086797,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "amount-of-time-for-binary-tree-to-be-infected": {
+      "last_submission_id": "1797077725",
+      "last_timestamp": 1760078213,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "binary-tree-level-order-traversal-ii": {
+      "last_submission_id": "1796986868",
+      "last_timestamp": 1760071625,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "binary-tree-level-order-traversal": {
+      "last_submission_id": "1796982339",
+      "last_timestamp": 1760071300,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "subarray-sum-equals-k": {
+      "last_submission_id": "1796235768",
+      "last_timestamp": 1760004971,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "copy-list-with-random-pointer": {
+      "last_submission_id": "1796156107",
+      "last_timestamp": 1759998470,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "count-nice-pairs-in-an-array": {
+      "last_submission_id": "1796004810",
+      "last_timestamp": 1759986406,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "factorial-trailing-zeroes": {
+      "last_submission_id": "1795967873",
+      "last_timestamp": 1759983466,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "finding-3-digit-even-numbers": {
+      "last_submission_id": "1794995548",
+      "last_timestamp": 1759904371,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "unique-number-of-occurrences": {
+      "last_submission_id": "1794915256",
+      "last_timestamp": 1759899433,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "valid-anagram": {
+      "last_submission_id": "1794899430",
+      "last_timestamp": 1759898410,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-maximum-number-of-string-pairs": {
+      "last_submission_id": "1794607016",
+      "last_timestamp": 1759865601,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "count-number-of-distinct-integers-after-reverse-operations": {
+      "last_submission_id": "1794582401",
+      "last_timestamp": 1759863779,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-absolute-difference": {
+      "last_submission_id": "1794291933",
+      "last_timestamp": 1759848189,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-closest-number-to-zero": {
+      "last_submission_id": "1793426438",
+      "last_timestamp": 1759773453,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "number-of-arithmetic-triplets": {
+      "last_submission_id": "1793054075",
+      "last_timestamp": 1759749255,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "sum-of-squares-of-special-elements": {
+      "last_submission_id": "1792757518",
+      "last_timestamp": 1759724194,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "bitwise-or-of-even-numbers-in-an-array": {
+      "last_submission_id": "1792262358",
+      "last_timestamp": 1759676107,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "water-bottles-ii": {
+      "last_submission_id": "1789753565",
+      "last_timestamp": 1759460866,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "water-bottles": {
+      "last_submission_id": "1788423144",
+      "last_timestamp": 1759337320,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-triangular-sum-of-an-array": {
+      "last_submission_id": "1787668122",
+      "last_timestamp": 1759269142,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-mode-in-binary-search-tree": {
+      "last_submission_id": "1786873761",
+      "last_timestamp": 1759206513,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "insert-greatest-common-divisors-in-linked-list": {
+      "last_submission_id": "1786424136",
+      "last_timestamp": 1759162973,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "count-elements-with-maximum-frequency": {
+      "last_submission_id": "1785234593",
+      "last_timestamp": 1759057169,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "majority-frequency-characters": {
+      "last_submission_id": "1784310147",
+      "last_timestamp": 1758985312,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "element-appearing-more-than-25-in-sorted-array": {
+      "last_submission_id": "1784096990",
+      "last_timestamp": 1758969078,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "all-elements-in-two-binary-search-trees": {
+      "last_submission_id": "1782951988",
+      "last_timestamp": 1758863020,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "goal-parser-interpretation": {
+      "last_submission_id": "1780528640",
+      "last_timestamp": 1758652593,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "percentage-of-letter-in-string": {
+      "last_submission_id": "1780503097",
+      "last_timestamp": 1758651199,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "sort-list": {
+      "last_submission_id": "1779804504",
+      "last_timestamp": 1758604375,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "trim-a-binary-search-tree": {
+      "last_submission_id": "1779795951",
+      "last_timestamp": 1758603809,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "convert-sorted-list-to-binary-search-tree": {
+      "last_submission_id": "1779743067",
+      "last_timestamp": 1758600340,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "remove-nodes-from-linked-list": {
+      "last_submission_id": "1779130140",
+      "last_timestamp": 1758549094,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "non-overlapping-intervals": {
+      "last_submission_id": "1777860380",
+      "last_timestamp": 1758441543,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "count-number-of-teams": {
+      "last_submission_id": "1777224459",
+      "last_timestamp": 1758388031,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "create-target-array-in-the-given-order": {
+      "last_submission_id": "1777201053",
+      "last_timestamp": 1758386638,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "second-minimum-node-in-a-binary-tree": {
+      "last_submission_id": "1777147376",
+      "last_timestamp": 1758383076,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "merge-in-between-linked-lists": {
+      "last_submission_id": "1775948716",
+      "last_timestamp": 1758277216,
+      "languages": [
+        "java"
+      ]
+    },
+    "reorder-list": {
+      "last_submission_id": "1775902403",
+      "last_timestamp": 1758273755,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "swapping-nodes-in-a-linked-list": {
+      "last_submission_id": "1775869227",
+      "last_timestamp": 1758271334,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "check-if-it-is-a-good-array": {
+      "last_submission_id": "1775784064",
+      "last_timestamp": 1758264274,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "binary-tree-pruning": {
+      "last_submission_id": "1775695751",
+      "last_timestamp": 1758258746,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-players-with-zero-or-one-losses": {
+      "last_submission_id": "1775660341",
+      "last_timestamp": 1758256450,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "to-lower-case": {
+      "last_submission_id": "1773876452",
+      "last_timestamp": 1758114566,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "task-scheduler": {
+      "last_submission_id": "1772782770",
+      "last_timestamp": 1758030794,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "insert-interval": {
+      "last_submission_id": "1772747874",
+      "last_timestamp": 1758028787,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "transpose-matrix": {
+      "last_submission_id": "1772636113",
+      "last_timestamp": 1758020367,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "toeplitz-matrix": {
+      "last_submission_id": "1772621856",
+      "last_timestamp": 1758019267,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "kth-smallest-element-in-a-sorted-matrix": {
+      "last_submission_id": "1772602848",
+      "last_timestamp": 1758017915,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "merge-strings-alternately": {
+      "last_submission_id": "1772536553",
+      "last_timestamp": 1758013371,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "max-number-of-k-sum-pairs": {
+      "last_submission_id": "1772527316",
+      "last_timestamp": 1758012762,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "replace-non-coprime-numbers-in-array": {
+      "last_submission_id": "1772392090",
+      "last_timestamp": 1758003036,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "single-threaded-cpu": {
+      "last_submission_id": "1771925619",
+      "last_timestamp": 1757959723,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-number-of-words-you-can-type": {
+      "last_submission_id": "1771162908",
+      "last_timestamp": 1757911558,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-three-consecutive-integers-that-sum-to-a-given-number": {
+      "last_submission_id": "1770378466",
+      "last_timestamp": 1757844321,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "count-integers-with-even-digit-sum": {
+      "last_submission_id": "1769131412",
+      "last_timestamp": 1757757596,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "count-equal-and-divisible-pairs-in-an-array": {
+      "last_submission_id": "1768977858",
+      "last_timestamp": 1757745817,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "type-of-triangle": {
+      "last_submission_id": "1768971333",
+      "last_timestamp": 1757745395,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-words-containing-character": {
+      "last_submission_id": "1768948914",
+      "last_timestamp": 1757743967,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "divisible-and-non-divisible-sums-difference": {
+      "last_submission_id": "1768943647",
+      "last_timestamp": 1757743632,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-difference-between-adjacent-elements-in-a-circular-array": {
+      "last_submission_id": "1768919151",
+      "last_timestamp": 1757741997,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-difference-between-increasing-elements": {
+      "last_submission_id": "1768907814",
+      "last_timestamp": 1757741185,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-n-unique-integers-sum-up-to-zero": {
+      "last_submission_id": "1768888493",
+      "last_timestamp": 1757739718,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-most-frequent-vowel-and-consonant": {
+      "last_submission_id": "1768879898",
+      "last_timestamp": 1757739047,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "count-distinct-numbers-on-board": {
+      "last_submission_id": "1768084212",
+      "last_timestamp": 1757667972,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-the-maximum-achievable-number": {
+      "last_submission_id": "1768059161",
+      "last_timestamp": 1757666108,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "binary-tree-cameras": {
+      "last_submission_id": "1767869773",
+      "last_timestamp": 1757652804,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "the-kth-factor-of-n": {
+      "last_submission_id": "1767837323",
+      "last_timestamp": 1757650598,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "kth-smallest-element-in-a-bst": {
+      "last_submission_id": "1767831397",
+      "last_timestamp": 1757650161,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "vowels-game-in-a-string": {
+      "last_submission_id": "1767818121",
+      "last_timestamp": 1757649157,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "airplane-seat-assignment-probability": {
+      "last_submission_id": "1767239518",
+      "last_timestamp": 1757600434,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-the-kth-largest-integer-in-the-array": {
+      "last_submission_id": "1767225689",
+      "last_timestamp": 1757599596,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-all-lonely-numbers-in-the-array": {
+      "last_submission_id": "1767187110",
+      "last_timestamp": 1757597318,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-lucky-integer-in-an-array": {
+      "last_submission_id": "1767154202",
+      "last_timestamp": 1757595101,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "x-of-a-kind-in-a-deck-of-cards": {
+      "last_submission_id": "1767137222",
+      "last_timestamp": 1757593807,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "number-of-beautiful-pairs": {
+      "last_submission_id": "1767076213",
+      "last_timestamp": 1757588718,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "number-of-common-factors": {
+      "last_submission_id": "1767064735",
+      "last_timestamp": 1757587803,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "smallest-even-multiple": {
+      "last_submission_id": "1767060495",
+      "last_timestamp": 1757587475,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "simplified-fractions": {
+      "last_submission_id": "1767047853",
+      "last_timestamp": 1757586500,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "final-value-of-variable-after-performing-operations": {
+      "last_submission_id": "1767037668",
+      "last_timestamp": 1757585734,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "three-divisors": {
+      "last_submission_id": "1766866748",
+      "last_timestamp": 1757573263,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "mirror-reflection": {
+      "last_submission_id": "1766845319",
+      "last_timestamp": 1757571955,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-cuts-to-divide-a-circle": {
+      "last_submission_id": "1766823355",
+      "last_timestamp": 1757570657,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-the-winning-player-in-coin-game": {
+      "last_submission_id": "1766766464",
+      "last_timestamp": 1757567071,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "stone-game": {
+      "last_submission_id": "1766734024",
+      "last_timestamp": 1757565034,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "nim-game": {
+      "last_submission_id": "1766727858",
+      "last_timestamp": 1757564633,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "divisor-game": {
+      "last_submission_id": "1766708166",
+      "last_timestamp": 1757563242,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "harshad-number": {
+      "last_submission_id": "1765989942",
+      "last_timestamp": 1757505908,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "sum-of-square-numbers": {
+      "last_submission_id": "1764599889",
+      "last_timestamp": 1757398103,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "optimal-division": {
+      "last_submission_id": "1764587371",
+      "last_timestamp": 1757397286,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "convert-bst-to-greater-tree": {
+      "last_submission_id": "1764544910",
+      "last_timestamp": 1757394410,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "merge-two-binary-trees": {
+      "last_submission_id": "1764507631",
+      "last_timestamp": 1757391747,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-greatest-common-divisor-of-array": {
+      "last_submission_id": "1763878712",
+      "last_timestamp": 1757342418,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "sign-of-the-product-of-an-array": {
+      "last_submission_id": "1763864746",
+      "last_timestamp": 1757341667,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "number-of-steps-to-reduce-a-number-to-zero": {
+      "last_submission_id": "1763841471",
+      "last_timestamp": 1757340452,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "subtract-the-product-and-sum-of-digits-of-an-integer": {
+      "last_submission_id": "1763837604",
+      "last_timestamp": 1757340242,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "fizz-buzz": {
+      "last_submission_id": "1763811825",
+      "last_timestamp": 1757338842,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "convert-integer-to-the-sum-of-two-no-zero-integers": {
+      "last_submission_id": "1763790951",
+      "last_timestamp": 1757337680,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "integer-replacement": {
+      "last_submission_id": "1763439366",
+      "last_timestamp": 1757312491,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "fair-candy-swap": {
+      "last_submission_id": "1762689371",
+      "last_timestamp": 1757251577,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "final-prices-with-a-special-discount-in-a-shop": {
+      "last_submission_id": "1761297564",
+      "last_timestamp": 1757149949,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "subarrays-with-k-different-integers": {
+      "last_submission_id": "1761254004",
+      "last_timestamp": 1757146473,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "count-subarrays-where-max-element-appears-at-least-k-times": {
+      "last_submission_id": "1761179117",
+      "last_timestamp": 1757141001,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "length-of-longest-subarray-with-at-most-k-frequency": {
+      "last_submission_id": "1761147080",
+      "last_timestamp": 1757138888,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-window-substring": {
+      "last_submission_id": "1761124162",
+      "last_timestamp": 1757137344,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-the-maximum-number-of-marked-indices": {
+      "last_submission_id": "1760521703",
+      "last_timestamp": 1757081073,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-all-k-distant-indices-in-an-array": {
+      "last_submission_id": "1760490636",
+      "last_timestamp": 1757079049,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "sort-even-and-odd-indices-independently": {
+      "last_submission_id": "1760486765",
+      "last_timestamp": 1757078789,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-indices-with-index-and-value-difference-i": {
+      "last_submission_id": "1760466013",
+      "last_timestamp": 1757077352,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "smallest-index-with-digit-sum-equal-to-index": {
+      "last_submission_id": "1760449633",
+      "last_timestamp": 1757076120,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-the-middle-index-in-array": {
+      "last_submission_id": "1760439776",
+      "last_timestamp": 1757075347,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "smallest-index-with-equal-value": {
+      "last_submission_id": "1760436842",
+      "last_timestamp": 1757075113,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-pivot-index": {
+      "last_submission_id": "1760431573",
+      "last_timestamp": 1757074702,
+      "languages": [
+        "cpp",
+        "java"
+      ]
+    },
+    "h-index-ii": {
+      "last_submission_id": "1760375439",
+      "last_timestamp": 1757070400,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "h-index": {
+      "last_submission_id": "1760372754",
+      "last_timestamp": 1757070213,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "invert-binary-tree": {
+      "last_submission_id": "1760067460",
+      "last_timestamp": 1757048487,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "increasing-order-search-tree": {
+      "last_submission_id": "1760043882",
+      "last_timestamp": 1757046638,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-size-subarray-sum": {
+      "last_submission_id": "1759442446",
+      "last_timestamp": 1756995670,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "count-subarrays-with-score-less-than-k": {
+      "last_submission_id": "1759416364",
+      "last_timestamp": 1756994157,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "subarray-product-less-than-k": {
+      "last_submission_id": "1759388487",
+      "last_timestamp": 1756992417,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "subarray-sums-divisible-by-k": {
+      "last_submission_id": "1759355234",
+      "last_timestamp": 1756990185,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-closest-person": {
+      "last_submission_id": "1758988222",
+      "last_timestamp": 1756964146,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "construct-target-array-with-multiple-sums": {
+      "last_submission_id": "1758298645",
+      "last_timestamp": 1756909603,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "smallest-range-covering-elements-from-k-lists": {
+      "last_submission_id": "1758253824",
+      "last_timestamp": 1756906976,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "binary-tree-zigzag-level-order-traversal": {
+      "last_submission_id": "1756583157",
+      "last_timestamp": 1756787070,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "capacity-to-ship-packages-within-d-days": {
+      "last_submission_id": "1755883380",
+      "last_timestamp": 1756734516,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "sum-of-two-integers": {
+      "last_submission_id": "1755741461",
+      "last_timestamp": 1756724623,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "alice-and-bob-playing-flower-game": {
+      "last_submission_id": "1755695313",
+      "last_timestamp": 1756721392,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "merge-k-sorted-lists": {
+      "last_submission_id": "1755141926",
+      "last_timestamp": 1756667640,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "koko-eating-bananas": {
+      "last_submission_id": "1754973638",
+      "last_timestamp": 1756658033,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "roman-to-integer": {
+      "last_submission_id": "1754578775",
+      "last_timestamp": 1756632394,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "strictly-palindromic-number": {
+      "last_submission_id": "1753310773",
+      "last_timestamp": 1756545346,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "first-missing-positive": {
+      "last_submission_id": "1752293936",
+      "last_timestamp": 1756462803,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-all-numbers-disappeared-in-an-array": {
+      "last_submission_id": "1752285748",
+      "last_timestamp": 1756462250,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "linked-list-cycle-ii": {
+      "last_submission_id": "1751987816",
+      "last_timestamp": 1756441190,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "monotonic-array": {
+      "last_submission_id": "1751336418",
+      "last_timestamp": 1756388237,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "longest-consecutive-sequence": {
+      "last_submission_id": "1751317435",
+      "last_timestamp": 1756387097,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "special-array-with-x-elements-greater-than-or-equal-x": {
+      "last_submission_id": "1750939537",
+      "last_timestamp": 1756360450,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "xor-operation-in-an-array": {
+      "last_submission_id": "1749826586",
+      "last_timestamp": 1756275438,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-product-of-two-elements-in-an-array": {
+      "last_submission_id": "1749814266",
+      "last_timestamp": 1756274637,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "non-decreasing-array": {
+      "last_submission_id": "1748998705",
+      "last_timestamp": 1756213065,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "insertion-sort-list": {
+      "last_submission_id": "1748512216",
+      "last_timestamp": 1756182361,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "set-mismatch": {
+      "last_submission_id": "1748476344",
+      "last_timestamp": 1756180062,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-the-array-concatenation-value": {
+      "last_submission_id": "1747553261",
+      "last_timestamp": 1756114087,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "neither-minimum-nor-maximum": {
+      "last_submission_id": "1746719301",
+      "last_timestamp": 1756046327,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "largest-positive-integer-that-exists-with-its-negative": {
+      "last_submission_id": "1746513873",
+      "last_timestamp": 1756033306,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "apply-operations-to-an-array": {
+      "last_submission_id": "1746496529",
+      "last_timestamp": 1756032188,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "check-if-all-characters-have-equal-number-of-occurrences": {
+      "last_submission_id": "1745380250",
+      "last_timestamp": 1755952887,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "check-balanced-string": {
+      "last_submission_id": "1745366723",
+      "last_timestamp": 1755951916,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "first-letter-to-appear-twice": {
+      "last_submission_id": "1745318491",
+      "last_timestamp": 1755948395,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "count-special-quadruplets": {
+      "last_submission_id": "1744236905",
+      "last_timestamp": 1755859892,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "concatenation-of-array": {
+      "last_submission_id": "1744227297",
+      "last_timestamp": 1755859175,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "check-if-two-string-arrays-are-equivalent": {
+      "last_submission_id": "1744201174",
+      "last_timestamp": 1755857269,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "three-consecutive-odds": {
+      "last_submission_id": "1744194875",
+      "last_timestamp": 1755856815,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "how-many-numbers-are-smaller-than-the-current-number": {
+      "last_submission_id": "1744167751",
+      "last_timestamp": 1755854948,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "count-good-triplets": {
+      "last_submission_id": "1744158895",
+      "last_timestamp": 1755854352,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "number-of-good-pairs": {
+      "last_submission_id": "1744149414",
+      "last_timestamp": 1755853753,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-numbers-with-even-number-of-digits": {
+      "last_submission_id": "1744143766",
+      "last_timestamp": 1755853374,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "relative-sort-array": {
+      "last_submission_id": "1744117473",
+      "last_timestamp": 1755851506,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "number-of-students-unable-to-eat-lunch": {
+      "last_submission_id": "1743938129",
+      "last_timestamp": 1755839112,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "product-of-the-last-k-numbers": {
+      "last_submission_id": "1743888091",
+      "last_timestamp": 1755835538,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-the-duplicate-number": {
+      "last_submission_id": "1742879181",
+      "last_timestamp": 1755757750,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-number-of-operations-to-make-elements-in-array-distinct": {
+      "last_submission_id": "1742862002",
+      "last_timestamp": 1755756734,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "number-of-zero-filled-subarrays": {
+      "last_submission_id": "1740725811",
+      "last_timestamp": 1755600625,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "design-circular-queue": {
+      "last_submission_id": "1740404744",
+      "last_timestamp": 1755579990,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "validate-stack-sequences": {
+      "last_submission_id": "1740367855",
+      "last_timestamp": 1755577756,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "single-number-ii": {
+      "last_submission_id": "1739492627",
+      "last_timestamp": 1755513056,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "new-21-game": {
+      "last_submission_id": "1738549600",
+      "last_timestamp": 1755437087,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-69-number": {
+      "last_submission_id": "1737072537",
+      "last_timestamp": 1755336122,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "sort-an-array": {
+      "last_submission_id": "1736534298",
+      "last_timestamp": 1755284807,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "lowest-common-ancestor-of-a-binary-tree": {
+      "last_submission_id": "1736426384",
+      "last_timestamp": 1755279132,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "lowest-common-ancestor-of-a-binary-search-tree": {
+      "last_submission_id": "1736419985",
+      "last_timestamp": 1755278823,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "power-of-four": {
+      "last_submission_id": "1735920164",
+      "last_timestamp": 1755250506,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "longest-harmonious-subsequence": {
+      "last_submission_id": "1734619874",
+      "last_timestamp": 1755153925,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "third-maximum-number": {
+      "last_submission_id": "1734582732",
+      "last_timestamp": 1755151862,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "largest-3-same-digit-number-in-string": {
+      "last_submission_id": "1734481939",
+      "last_timestamp": 1755145842,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "construct-binary-search-tree-from-preorder-traversal": {
+      "last_submission_id": "1733943138",
+      "last_timestamp": 1755101272,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "search-in-a-binary-search-tree": {
+      "last_submission_id": "1733483177",
+      "last_timestamp": 1755074306,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "delete-node-in-a-bst": {
+      "last_submission_id": "1732676793",
+      "last_timestamp": 1755015747,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "trapping-rain-water": {
+      "last_submission_id": "1731973900",
+      "last_timestamp": 1754972738,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "binary-tree-maximum-path-sum": {
+      "last_submission_id": "1731631460",
+      "last_timestamp": 1754937331,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "ugly-number": {
+      "last_submission_id": "1730919736",
+      "last_timestamp": 1754895750,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "perfect-number": {
+      "last_submission_id": "1730898202",
+      "last_timestamp": 1754894423,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "flatten-binary-tree-to-linked-list": {
+      "last_submission_id": "1730549694",
+      "last_timestamp": 1754857670,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "reordered-power-of-2": {
+      "last_submission_id": "1730365315",
+      "last_timestamp": 1754845581,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "univalued-binary-tree": {
+      "last_submission_id": "1730266368",
+      "last_timestamp": 1754839913,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "diameter-of-binary-tree": {
+      "last_submission_id": "1730250731",
+      "last_timestamp": 1754838893,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "construct-binary-tree-from-inorder-and-postorder-traversal": {
+      "last_submission_id": "1729263206",
+      "last_timestamp": 1754762561,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "merge-two-sorted-lists": {
+      "last_submission_id": "1729198925",
+      "last_timestamp": 1754759166,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "construct-binary-tree-from-preorder-and-inorder-traversal": {
+      "last_submission_id": "1729130851",
+      "last_timestamp": 1754755284,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "largest-odd-number-in-string": {
+      "last_submission_id": "1728612604",
+      "last_timestamp": 1754717769,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "jump-game": {
+      "last_submission_id": "1727867824",
+      "last_timestamp": 1754650900,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "remove-duplicates-from-sorted-list-ii": {
+      "last_submission_id": "1727787461",
+      "last_timestamp": 1754644960,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "sum-of-unique-elements": {
+      "last_submission_id": "1727574136",
+      "last_timestamp": 1754629622,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "isomorphic-strings": {
+      "last_submission_id": "1726673100",
+      "last_timestamp": 1754558845,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "search-insert-position": {
+      "last_submission_id": "1726649252",
+      "last_timestamp": 1754557319,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "binary-tree-right-side-view": {
+      "last_submission_id": "1725834168",
+      "last_timestamp": 1754494919,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "convert-sorted-array-to-binary-search-tree": {
+      "last_submission_id": "1724550142",
+      "last_timestamp": 1754407798,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "path-sum-ii": {
+      "last_submission_id": "1721869035",
+      "last_timestamp": 1754224681,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "sum-of-distances-in-tree": {
+      "last_submission_id": "1720712207",
+      "last_timestamp": 1754145519,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "serialize-and-deserialize-binary-tree": {
+      "last_submission_id": "1719607549",
+      "last_timestamp": 1754058780,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "validate-binary-search-tree": {
+      "last_submission_id": "1717218809",
+      "last_timestamp": 1753886807,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "closest-nodes-queries-in-a-binary-search-tree": {
+      "last_submission_id": "1715950842",
+      "last_timestamp": 1753801646,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "convert-a-number-to-hexadecimal": {
+      "last_submission_id": "1714761767",
+      "last_timestamp": 1753719309,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "array-partition": {
+      "last_submission_id": "1713739271",
+      "last_timestamp": 1753641265,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "increasing-triplet-subsequence": {
+      "last_submission_id": "1711652260",
+      "last_timestamp": 1753501882,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "can-place-flowers": {
+      "last_submission_id": "1710782564",
+      "last_timestamp": 1753435522,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "max-consecutive-ones": {
+      "last_submission_id": "1710249551",
+      "last_timestamp": 1753393435,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "remove-duplicates-from-sorted-array-ii": {
+      "last_submission_id": "1709205370",
+      "last_timestamp": 1753329430,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "consecutive-characters": {
+      "last_submission_id": "1708266589",
+      "last_timestamp": 1753261079,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "detect-capital": {
+      "last_submission_id": "1707805120",
+      "last_timestamp": 1753222395,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-gap": {
+      "last_submission_id": "1707787382",
+      "last_timestamp": 1753220045,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "contains-duplicate-ii": {
+      "last_submission_id": "1707198099",
+      "last_timestamp": 1753187367,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "largest-number": {
+      "last_submission_id": "1707128035",
+      "last_timestamp": 1753182707,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-depth-of-n-ary-tree": {
+      "last_submission_id": "1705472652",
+      "last_timestamp": 1753074009,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "sum-of-left-leaves": {
+      "last_submission_id": "1705395042",
+      "last_timestamp": 1753068309,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "root-equals-sum-of-children": {
+      "last_submission_id": "1705382941",
+      "last_timestamp": 1753067103,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "path-sum": {
+      "last_submission_id": "1703823199",
+      "last_timestamp": 1752944233,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "symmetric-tree": {
+      "last_submission_id": "1703365486",
+      "last_timestamp": 1752921226,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "count-complete-tree-nodes": {
+      "last_submission_id": "1702829650",
+      "last_timestamp": 1752868480,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "binary-tree-postorder-traversal": {
+      "last_submission_id": "1702820252",
+      "last_timestamp": 1752867657,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "binary-tree-preorder-traversal": {
+      "last_submission_id": "1702818868",
+      "last_timestamp": 1752867540,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "binary-tree-inorder-traversal": {
+      "last_submission_id": "1702782942",
+      "last_timestamp": 1752864742,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-number-of-k-consecutive-bit-flips": {
+      "last_submission_id": "1701698786",
+      "last_timestamp": 1752779244,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "sliding-window-maximum": {
+      "last_submission_id": "1701508890",
+      "last_timestamp": 1752769727,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "ransom-note": {
+      "last_submission_id": "1700095298",
+      "last_timestamp": 1752672381,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "count-pairs-whose-sum-is-less-than-target": {
+      "last_submission_id": "1698635137",
+      "last_timestamp": 1752573613,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "duplicate-zeros": {
+      "last_submission_id": "1695024501",
+      "last_timestamp": 1752307736,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "divide-two-integers": {
+      "last_submission_id": "1694640713",
+      "last_timestamp": 1752263110,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "longest-common-prefix": {
+      "last_submission_id": "1694611201",
+      "last_timestamp": 1752260683,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "sort-array-by-parity-ii": {
+      "last_submission_id": "1694422902",
+      "last_timestamp": 1752249692,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "sort-colors": {
+      "last_submission_id": "1692691926",
+      "last_timestamp": 1752121327,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "average-salary-excluding-the-minimum-and-maximum-salary": {
+      "last_submission_id": "1690258914",
+      "last_timestamp": 1751946229,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-count-of-positive-integer-and-negative-integer": {
+      "last_submission_id": "1688217640",
+      "last_timestamp": 1751792430,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "check-if-n-and-its-double-exist": {
+      "last_submission_id": "1688212004",
+      "last_timestamp": 1751792014,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "reverse-string-ii": {
+      "last_submission_id": "1688049112",
+      "last_timestamp": 1751781069,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "sort-array-by-parity": {
+      "last_submission_id": "1687678722",
+      "last_timestamp": 1751745304,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-product-of-three-numbers": {
+      "last_submission_id": "1687205475",
+      "last_timestamp": 1751718973,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "intersection-of-two-arrays": {
+      "last_submission_id": "1687200941",
+      "last_timestamp": 1751718633,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-target-indices-after-sorting-array": {
+      "last_submission_id": "1686960866",
+      "last_timestamp": 1751701911,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "arranging-coins": {
+      "last_submission_id": "1686471745",
+      "last_timestamp": 1751652998,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "guess-number-higher-or-lower": {
+      "last_submission_id": "1686362652",
+      "last_timestamp": 1751647053,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "valid-perfect-square": {
+      "last_submission_id": "1686304303",
+      "last_timestamp": 1751643505,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "first-bad-version": {
+      "last_submission_id": "1686291051",
+      "last_timestamp": 1751642655,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "kth-missing-positive-number": {
+      "last_submission_id": "1686121889",
+      "last_timestamp": 1751630951,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-first-and-last-position-of-element-in-sorted-array": {
+      "last_submission_id": "1686080219",
+      "last_timestamp": 1751627808,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "implement-stack-using-queues": {
+      "last_submission_id": "1684896321",
+      "last_timestamp": 1751537458,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "implement-queue-using-stacks": {
+      "last_submission_id": "1684848655",
+      "last_timestamp": 1751534464,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "time-needed-to-buy-tickets": {
+      "last_submission_id": "1683938435",
+      "last_timestamp": 1751466012,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "number-of-segments-in-a-string": {
+      "last_submission_id": "1677230503",
+      "last_timestamp": 1750943203,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "intersection-of-two-arrays-ii": {
+      "last_submission_id": "1676398761",
+      "last_timestamp": 1750875868,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "contains-duplicate": {
+      "last_submission_id": "1657735709",
+      "last_timestamp": 1749393241,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "is-subsequence": {
+      "last_submission_id": "1656449938",
+      "last_timestamp": 1749290701,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-the-difference": {
+      "last_submission_id": "1656443381",
+      "last_timestamp": 1749290149,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "first-unique-character-in-a-string": {
+      "last_submission_id": "1656439729",
+      "last_timestamp": 1749289838,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "sorting-the-sentence": {
+      "last_submission_id": "1656423566",
+      "last_timestamp": 1749288483,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "longest-palindrome": {
+      "last_submission_id": "1655995733",
+      "last_timestamp": 1749238419,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "defanging-an-ip-address": {
+      "last_submission_id": "1655965508",
+      "last_timestamp": 1749235696,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "check-if-the-sentence-is-pangram": {
+      "last_submission_id": "1655944833",
+      "last_timestamp": 1749234183,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "largest-rectangle-in-histogram": {
+      "last_submission_id": "1654926119",
+      "last_timestamp": 1749142417,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "next-greater-element-ii": {
+      "last_submission_id": "1654070699",
+      "last_timestamp": 1749064073,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "3sum": {
+      "last_submission_id": "1654060999",
+      "last_timestamp": 1749063365,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "next-greater-element-i": {
+      "last_submission_id": "1651974281",
+      "last_timestamp": 1748887275,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "shuffle-string": {
+      "last_submission_id": "1650806411",
+      "last_timestamp": 1748789404,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "happy-number": {
+      "last_submission_id": "1648751965",
+      "last_timestamp": 1748597005,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "backspace-string-compare": {
+      "last_submission_id": "1647302229",
+      "last_timestamp": 1748457259,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "minimum-add-to-make-parentheses-valid": {
+      "last_submission_id": "1646924049",
+      "last_timestamp": 1748430119,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "reverse-string": {
+      "last_submission_id": "1646338503",
+      "last_timestamp": 1748371749,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "peak-index-in-a-mountain-array": {
+      "last_submission_id": "1645642735",
+      "last_timestamp": 1748322594,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "convert-binary-number-in-a-linked-list-to-integer": {
+      "last_submission_id": "1645627300",
+      "last_timestamp": 1748321477,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "intersection-of-two-linked-lists": {
+      "last_submission_id": "1645122567",
+      "last_timestamp": 1748274510,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "remove-linked-list-elements": {
+      "last_submission_id": "1645111282",
+      "last_timestamp": 1748273718,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "odd-even-linked-list": {
+      "last_submission_id": "1633602171",
+      "last_timestamp": 1747214934,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "linked-list-cycle": {
+      "last_submission_id": "1631741504",
+      "last_timestamp": 1747040283,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "number-complement": {
+      "last_submission_id": "1630958782",
+      "last_timestamp": 1746960517,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "power-of-three": {
+      "last_submission_id": "1630938005",
+      "last_timestamp": 1746958585,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "missing-number": {
+      "last_submission_id": "1630010185",
+      "last_timestamp": 1746875769,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "remove-duplicates-from-sorted-list": {
+      "last_submission_id": "1629967308",
+      "last_timestamp": 1746871597,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "palindrome-linked-list": {
+      "last_submission_id": "1629933925",
+      "last_timestamp": 1746868333,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "remove-nth-node-from-end-of-list": {
+      "last_submission_id": "1629481767",
+      "last_timestamp": 1746811341,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "middle-of-the-linked-list": {
+      "last_submission_id": "1628892444",
+      "last_timestamp": 1746738632,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "reverse-linked-list": {
+      "last_submission_id": "1628868731",
+      "last_timestamp": 1746735384,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "delete-node-in-a-linked-list": {
+      "last_submission_id": "1628792539",
+      "last_timestamp": 1746727383,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "number-of-1-bits": {
+      "last_submission_id": "1627571325",
+      "last_timestamp": 1746597659,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "palindrome-number": {
+      "last_submission_id": "1623333176",
+      "last_timestamp": 1746162256,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "sqrtx": {
+      "last_submission_id": "1623323824",
+      "last_timestamp": 1746161336,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "reverse-integer": {
+      "last_submission_id": "1623310385",
+      "last_timestamp": 1746159936,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "add-digits": {
+      "last_submission_id": "1623117442",
+      "last_timestamp": 1746130554,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "length-of-last-word": {
+      "last_submission_id": "1622233605",
+      "last_timestamp": 1746040267,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "letter-combinations-of-a-phone-number": {
+      "last_submission_id": "1620072215",
+      "last_timestamp": 1745832157,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "subsets": {
+      "last_submission_id": "1619172741",
+      "last_timestamp": 1745744092,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "count-primes": {
+      "last_submission_id": "1612787593",
+      "last_timestamp": 1745173309,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "search-a-2d-matrix-ii": {
+      "last_submission_id": "1612736673",
+      "last_timestamp": 1745170067,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "spiral-matrix": {
+      "last_submission_id": "1611878950",
+      "last_timestamp": 1745098482,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "string-compression": {
+      "last_submission_id": "1610124593",
+      "last_timestamp": 1744952738,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "remove-all-adjacent-duplicates-in-string": {
+      "last_submission_id": "1610114640",
+      "last_timestamp": 1744951931,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "permutation-in-string": {
+      "last_submission_id": "1610087716",
+      "last_timestamp": 1744949571,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "remove-all-occurrences-of-a-substring": {
+      "last_submission_id": "1609886792",
+      "last_timestamp": 1744921109,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "reverse-words-in-a-string": {
+      "last_submission_id": "1609154792",
+      "last_timestamp": 1744864047,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "valid-palindrome": {
+      "last_submission_id": "1608674835",
+      "last_timestamp": 1744818705,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "rotate-array": {
+      "last_submission_id": "1607901995",
+      "last_timestamp": 1744745397,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "find-peak-element": {
+      "last_submission_id": "1602048383",
+      "last_timestamp": 1744227751,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "power-of-two": {
+      "last_submission_id": "1596179708",
+      "last_timestamp": 1743738394,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "best-time-to-buy-and-sell-stock-ii": {
+      "last_submission_id": "1595259604",
+      "last_timestamp": 1743661125,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "best-time-to-buy-and-sell-stock": {
+      "last_submission_id": "1595142381",
+      "last_timestamp": 1743653133,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "powx-n": {
+      "last_submission_id": "1594790267",
+      "last_timestamp": 1743619659,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-subarray": {
+      "last_submission_id": "1594162131",
+      "last_timestamp": 1743582708,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "add-two-numbers": {
+      "last_submission_id": "1476401005",
+      "last_timestamp": 1733943234,
+      "languages": [
+        "cpp",
+        "c"
+      ]
+    },
+    "reverse-vowels-of-a-string": {
+      "last_submission_id": "1468056636",
+      "last_timestamp": 1733120727,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "binary-search": {
+      "last_submission_id": "1449340310",
+      "last_timestamp": 1731307031,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "zigzag-conversion": {
+      "last_submission_id": "1449313228",
+      "last_timestamp": 1731304893,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "median-of-two-sorted-arrays": {
+      "last_submission_id": "1449311089",
+      "last_timestamp": 1731304725,
       "languages": [
         "cpp"
       ]

@@ -1,0 +1,17 @@
+{
+  "id": "143",
+  "title": "Reorder List",
+  "url": "https://leetcode.com/problems/reorder-list/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Linked List",
+    "Two Pointers",
+    "Stack",
+    "Recursion"
+  ],
+  "solved_date": "2025-09-19",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "3370",
+  "title": "Smallest Number With All Set Bits",
+  "url": "https://leetcode.com/problems/smallest-number-with-all-set-bits/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Math",
+    "Bit Manipulation"
+  ],
+  "solved_date": "2025-10-29",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "1636",
+  "title": "Sort Array by Increasing Frequency",
+  "url": "https://leetcode.com/problems/sort-array-by-increasing-frequency/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ],
+  "solved_date": "2025-10-11",
+  "languages": [
+    "cpp"
+  ]
+}

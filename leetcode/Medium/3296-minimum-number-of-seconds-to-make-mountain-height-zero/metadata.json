@@ -1,0 +1,18 @@
+{
+  "id": "3296",
+  "title": "Minimum Number of Seconds to Make Mountain Height Zero",
+  "url": "https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Math",
+    "Binary Search",
+    "Greedy",
+    "Heap (Priority Queue)"
+  ],
+  "solved_date": "2026-03-13",
+  "languages": [
+    "cpp"
+  ]
+}

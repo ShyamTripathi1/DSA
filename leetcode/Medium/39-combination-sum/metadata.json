@@ -1,0 +1,15 @@
+{
+  "id": "39",
+  "title": "Combination Sum",
+  "url": "https://leetcode.com/problems/combination-sum/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Backtracking"
+  ],
+  "solved_date": "2025-11-25",
+  "languages": [
+    "cpp"
+  ]
+}

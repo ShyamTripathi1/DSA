@@ -1,0 +1,16 @@
+{
+  "id": "1436",
+  "title": "Destination City",
+  "url": "https://leetcode.com/problems/destination-city/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "String"
+  ],
+  "solved_date": "2026-02-09",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "242",
+  "title": "Valid Anagram",
+  "url": "https://leetcode.com/problems/valid-anagram/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Hash Table",
+    "String",
+    "Sorting"
+  ],
+  "solved_date": "2025-10-08",
+  "languages": [
+    "cpp"
+  ]
+}

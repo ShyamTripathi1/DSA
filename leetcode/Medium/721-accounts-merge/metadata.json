@@ -1,0 +1,20 @@
+{
+  "id": "721",
+  "title": "Accounts Merge",
+  "url": "https://leetcode.com/problems/accounts-merge/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Sorting"
+  ],
+  "solved_date": "2025-11-28",
+  "languages": [
+    "cpp"
+  ]
+}

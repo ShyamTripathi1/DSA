@@ -1,0 +1,18 @@
+{
+  "id": "239",
+  "title": "Sliding Window Maximum",
+  "url": "https://leetcode.com/problems/sliding-window-maximum/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Queue",
+    "Sliding Window",
+    "Heap (Priority Queue)",
+    "Monotonic Queue"
+  ],
+  "solved_date": "2025-07-17",
+  "languages": [
+    "cpp"
+  ]
+}

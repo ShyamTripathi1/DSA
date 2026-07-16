@@ -1,0 +1,16 @@
+{
+  "id": "815",
+  "title": "Bus Routes",
+  "url": "https://leetcode.com/problems/bus-routes/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Breadth-First Search"
+  ],
+  "solved_date": "2025-11-28",
+  "languages": [
+    "cpp"
+  ]
+}

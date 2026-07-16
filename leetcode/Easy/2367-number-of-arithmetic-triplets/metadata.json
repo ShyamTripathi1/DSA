@@ -1,0 +1,17 @@
+{
+  "id": "2367",
+  "title": "Number of Arithmetic Triplets",
+  "url": "https://leetcode.com/problems/number-of-arithmetic-triplets/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Two Pointers",
+    "Enumeration"
+  ],
+  "solved_date": "2025-10-06",
+  "languages": [
+    "cpp"
+  ]
+}

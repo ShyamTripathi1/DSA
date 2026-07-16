@@ -1,0 +1,16 @@
+{
+  "id": "1834",
+  "title": "Single-Threaded CPU",
+  "url": "https://leetcode.com/problems/single-threaded-cpu/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Sorting",
+    "Heap (Priority Queue)"
+  ],
+  "solved_date": "2025-09-15",
+  "languages": [
+    "cpp"
+  ]
+}

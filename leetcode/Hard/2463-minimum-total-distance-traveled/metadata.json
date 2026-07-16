@@ -1,0 +1,16 @@
+{
+  "id": "2463",
+  "title": "Minimum Total Distance Traveled",
+  "url": "https://leetcode.com/problems/minimum-total-distance-traveled/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Sorting"
+  ],
+  "solved_date": "2026-04-14",
+  "languages": [
+    "cpp"
+  ]
+}

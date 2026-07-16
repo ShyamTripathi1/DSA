@@ -1,0 +1,17 @@
+{
+  "id": "3634",
+  "title": "Minimum Removals to Balance Array",
+  "url": "https://leetcode.com/problems/minimum-removals-to-balance-array/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Binary Search",
+    "Sliding Window",
+    "Sorting"
+  ],
+  "solved_date": "2026-02-06",
+  "languages": [
+    "cpp"
+  ]
+}

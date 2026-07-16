@@ -1,0 +1,16 @@
+{
+  "id": "735",
+  "title": "Asteroid Collision",
+  "url": "https://leetcode.com/problems/asteroid-collision/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Stack",
+    "Simulation"
+  ],
+  "solved_date": "2025-11-13",
+  "languages": [
+    "cpp"
+  ]
+}

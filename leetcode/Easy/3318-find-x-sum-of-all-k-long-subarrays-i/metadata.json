@@ -1,0 +1,17 @@
+{
+  "id": "3318",
+  "title": "Find X-Sum of All K-Long Subarrays I",
+  "url": "https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Sliding Window",
+    "Heap (Priority Queue)"
+  ],
+  "solved_date": "2025-11-04",
+  "languages": [
+    "cpp"
+  ]
+}

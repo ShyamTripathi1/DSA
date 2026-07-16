@@ -1,0 +1,15 @@
+{
+  "id": "3232",
+  "title": "Find if Digit Game Can Be Won",
+  "url": "https://leetcode.com/problems/find-if-digit-game-can-be-won/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Math"
+  ],
+  "solved_date": "2025-10-12",
+  "languages": [
+    "cpp"
+  ]
+}

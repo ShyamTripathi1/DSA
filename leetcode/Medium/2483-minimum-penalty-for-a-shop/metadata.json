@@ -1,0 +1,15 @@
+{
+  "id": "2483",
+  "title": "Minimum Penalty for a Shop",
+  "url": "https://leetcode.com/problems/minimum-penalty-for-a-shop/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "String",
+    "Prefix Sum"
+  ],
+  "solved_date": "2025-12-27",
+  "languages": [
+    "cpp"
+  ]
+}

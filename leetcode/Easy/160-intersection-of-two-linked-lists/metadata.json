@@ -1,0 +1,16 @@
+{
+  "id": "160",
+  "title": "Intersection of Two Linked Lists",
+  "url": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Hash Table",
+    "Linked List",
+    "Two Pointers"
+  ],
+  "solved_date": "2025-05-26",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "911",
+  "title": "Online Election",
+  "url": "https://leetcode.com/problems/online-election/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Binary Search",
+    "Design"
+  ],
+  "solved_date": "2026-02-09",
+  "languages": [
+    "cpp"
+  ]
+}

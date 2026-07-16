@@ -1,0 +1,16 @@
+{
+  "id": "1748",
+  "title": "Sum of Unique Elements",
+  "url": "https://leetcode.com/problems/sum-of-unique-elements/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Counting"
+  ],
+  "solved_date": "2025-08-08",
+  "languages": [
+    "cpp"
+  ]
+}

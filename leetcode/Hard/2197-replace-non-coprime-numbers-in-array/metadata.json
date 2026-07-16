@@ -1,0 +1,17 @@
+{
+  "id": "2197",
+  "title": "Replace Non-Coprime Numbers in Array",
+  "url": "https://leetcode.com/problems/replace-non-coprime-numbers-in-array/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Math",
+    "Stack",
+    "Number Theory"
+  ],
+  "solved_date": "2025-09-16",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "498",
+  "title": "Diagonal Traverse",
+  "url": "https://leetcode.com/problems/diagonal-traverse/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Matrix",
+    "Simulation"
+  ],
+  "solved_date": "2025-11-28",
+  "languages": [
+    "cpp"
+  ]
+}

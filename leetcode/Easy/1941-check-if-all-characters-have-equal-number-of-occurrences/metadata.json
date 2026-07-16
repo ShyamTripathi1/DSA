@@ -1,0 +1,16 @@
+{
+  "id": "1941",
+  "title": "Check if All Characters Have Equal Number of Occurrences",
+  "url": "https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Hash Table",
+    "String",
+    "Counting"
+  ],
+  "solved_date": "2025-08-23",
+  "languages": [
+    "cpp"
+  ]
+}

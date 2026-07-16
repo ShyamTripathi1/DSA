@@ -1,0 +1,16 @@
+{
+  "id": "3020",
+  "title": "Find the Maximum Number of Elements in Subset",
+  "url": "https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Enumeration"
+  ],
+  "solved_date": "2026-06-27",
+  "languages": [
+    "cpp"
+  ]
+}

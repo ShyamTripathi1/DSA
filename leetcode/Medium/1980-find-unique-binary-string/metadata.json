@@ -1,0 +1,17 @@
+{
+  "id": "1980",
+  "title": "Find Unique Binary String",
+  "url": "https://leetcode.com/problems/find-unique-binary-string/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Backtracking"
+  ],
+  "solved_date": "2026-03-08",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "350",
+  "title": "Intersection of Two Arrays II",
+  "url": "https://leetcode.com/problems/intersection-of-two-arrays-ii/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Two Pointers",
+    "Binary Search",
+    "Sorting"
+  ],
+  "solved_date": "2025-06-25",
+  "languages": [
+    "cpp"
+  ]
+}

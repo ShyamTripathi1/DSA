@@ -1,0 +1,17 @@
+{
+  "id": "2492",
+  "title": "Minimum Score of a Path Between Two Cities",
+  "url": "https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory"
+  ],
+  "solved_date": "2026-07-04",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "3823",
+  "title": "Reverse Letters Then Special Characters in a String",
+  "url": "https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Two Pointers",
+    "String",
+    "Simulation"
+  ],
+  "solved_date": "2026-01-31",
+  "languages": [
+    "java"
+  ]
+}

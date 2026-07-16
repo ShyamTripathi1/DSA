@@ -1,0 +1,16 @@
+{
+  "id": "18",
+  "title": "4Sum",
+  "url": "https://leetcode.com/problems/4sum/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "solved_date": "2025-12-27",
+  "languages": [
+    "cpp"
+  ]
+}

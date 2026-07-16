@@ -1,0 +1,17 @@
+{
+  "id": "2244",
+  "title": "Minimum Rounds to Complete All Tasks",
+  "url": "https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Greedy",
+    "Counting"
+  ],
+  "solved_date": "2025-11-14",
+  "languages": [
+    "cpp"
+  ]
+}

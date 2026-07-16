@@ -1,0 +1,17 @@
+{
+  "id": "1622",
+  "title": "Fancy Sequence",
+  "url": "https://leetcode.com/problems/fancy-sequence/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Math",
+    "Design",
+    "Segment Tree",
+    "Number Theory"
+  ],
+  "solved_date": "2026-03-15",
+  "languages": [
+    "cpp"
+  ]
+}

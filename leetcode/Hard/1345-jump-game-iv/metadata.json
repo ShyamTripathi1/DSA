@@ -1,0 +1,16 @@
+{
+  "id": "1345",
+  "title": "Jump Game IV",
+  "url": "https://leetcode.com/problems/jump-game-iv/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Breadth-First Search"
+  ],
+  "solved_date": "2026-05-18",
+  "languages": [
+    "cpp"
+  ]
+}

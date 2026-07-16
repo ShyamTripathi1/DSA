@@ -1,0 +1,16 @@
+{
+  "id": "2460",
+  "title": "Apply Operations to an Array",
+  "url": "https://leetcode.com/problems/apply-operations-to-an-array/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "Simulation"
+  ],
+  "solved_date": "2025-08-24",
+  "languages": [
+    "cpp"
+  ]
+}

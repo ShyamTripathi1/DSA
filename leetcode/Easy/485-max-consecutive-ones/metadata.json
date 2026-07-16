@@ -1,0 +1,14 @@
+{
+  "id": "485",
+  "title": "Max Consecutive Ones",
+  "url": "https://leetcode.com/problems/max-consecutive-ones/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array"
+  ],
+  "solved_date": "2025-07-24",
+  "languages": [
+    "cpp"
+  ]
+}

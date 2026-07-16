@@ -1,0 +1,17 @@
+{
+  "id": "1700",
+  "title": "Number of Students Unable to Eat Lunch",
+  "url": "https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Stack",
+    "Queue",
+    "Simulation"
+  ],
+  "solved_date": "2025-08-22",
+  "languages": [
+    "cpp"
+  ]
+}

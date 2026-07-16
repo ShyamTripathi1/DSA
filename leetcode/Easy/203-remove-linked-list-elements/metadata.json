@@ -1,0 +1,15 @@
+{
+  "id": "203",
+  "title": "Remove Linked List Elements",
+  "url": "https://leetcode.com/problems/remove-linked-list-elements/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Linked List",
+    "Recursion"
+  ],
+  "solved_date": "2025-05-26",
+  "languages": [
+    "cpp"
+  ]
+}

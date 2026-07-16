@@ -1,0 +1,19 @@
+{
+  "id": "654",
+  "title": "Maximum Binary Tree",
+  "url": "https://leetcode.com/problems/maximum-binary-tree/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Divide and Conquer",
+    "Stack",
+    "Tree",
+    "Monotonic Stack",
+    "Binary Tree"
+  ],
+  "solved_date": "2026-04-13",
+  "languages": [
+    "cpp"
+  ]
+}

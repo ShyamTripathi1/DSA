@@ -1,0 +1,15 @@
+{
+  "id": "155",
+  "title": "Min Stack",
+  "url": "https://leetcode.com/problems/min-stack/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Stack",
+    "Design"
+  ],
+  "solved_date": "2026-02-11",
+  "languages": [
+    "cpp"
+  ]
+}

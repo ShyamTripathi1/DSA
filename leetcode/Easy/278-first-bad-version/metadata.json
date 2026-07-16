@@ -1,0 +1,15 @@
+{
+  "id": "278",
+  "title": "First Bad Version",
+  "url": "https://leetcode.com/problems/first-bad-version/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Binary Search",
+    "Interactive"
+  ],
+  "solved_date": "2025-07-04",
+  "languages": [
+    "cpp"
+  ]
+}

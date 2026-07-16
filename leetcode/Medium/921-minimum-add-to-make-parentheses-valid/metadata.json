@@ -1,0 +1,16 @@
+{
+  "id": "921",
+  "title": "Minimum Add to Make Parentheses Valid",
+  "url": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "String",
+    "Stack",
+    "Greedy"
+  ],
+  "solved_date": "2025-05-28",
+  "languages": [
+    "cpp"
+  ]
+}

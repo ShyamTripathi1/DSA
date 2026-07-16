@@ -1,0 +1,14 @@
+{
+  "id": "182",
+  "title": "Duplicate Emails",
+  "url": "https://leetcode.com/problems/duplicate-emails/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Database"
+  ],
+  "solved_date": "2026-06-10",
+  "languages": [
+    "mysql"
+  ]
+}

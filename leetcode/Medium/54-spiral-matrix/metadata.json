@@ -1,0 +1,16 @@
+{
+  "id": "54",
+  "title": "Spiral Matrix",
+  "url": "https://leetcode.com/problems/spiral-matrix/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Matrix",
+    "Simulation"
+  ],
+  "solved_date": "2025-04-19",
+  "languages": [
+    "cpp"
+  ]
+}

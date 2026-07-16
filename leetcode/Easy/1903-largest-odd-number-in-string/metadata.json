@@ -1,0 +1,16 @@
+{
+  "id": "1903",
+  "title": "Largest Odd Number in String",
+  "url": "https://leetcode.com/problems/largest-odd-number-in-string/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Math",
+    "String",
+    "Greedy"
+  ],
+  "solved_date": "2025-08-09",
+  "languages": [
+    "cpp"
+  ]
+}

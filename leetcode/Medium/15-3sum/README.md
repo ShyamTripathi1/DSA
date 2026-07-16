@@ -1,27 +1,26 @@
-# 3Sum
+# 15. 3Sum
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-yellow?style=flat-square)
-[![Platform: LeetCode](https://img.shields.io/badge/Platform-LeetCode-blue?style=flat-square)](https://leetcode.com/problems/3sum/)
+[![Platform: LeetCode](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/problems/3sum/)
 
 ## 📝 Problem Description
 
-Given an integer array nums, return all the triplets `[nums[i], nums[j], nums[k]]` such that `i != j`, `i != k`, and `j != k`, and `nums[i] + nums[j] + nums[k] == 0`.
+[View on LeetCode](https://leetcode.com/problems/3sum/)
+
+## 🏷️ Tags
+
+`Array`, `Two Pointers`, `Sorting`
 
 ## 💡 Solution Approach
 
-Implemented using optimal data structures and tracking state.
-
-### Complexity Analysis
-
-- **Time Complexity:** $O(N)$
-- **Space Complexity:** $O(N)$
+*Automatically synced from LeetCode accepted submissions.*
 
 ---
 
 ## 💻 Code Implementations
 
-### PYTHON
+### CPP
 
-``` python
-// Refer to solution.py for the full implementation
+```cpp
+// Refer to solution.cpp for the full implementation
 ```

@@ -1,0 +1,16 @@
+{
+  "id": "36",
+  "title": "Valid Sudoku",
+  "url": "https://leetcode.com/problems/valid-sudoku/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Matrix"
+  ],
+  "solved_date": "2026-02-24",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "3702",
+  "title": "Longest Subsequence With Non-Zero Bitwise XOR",
+  "url": "https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Bit Manipulation"
+  ],
+  "solved_date": "2025-12-06",
+  "languages": [
+    "cpp"
+  ]
+}

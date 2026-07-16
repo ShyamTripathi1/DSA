@@ -1,0 +1,16 @@
+{
+  "id": "128",
+  "title": "Longest Consecutive Sequence",
+  "url": "https://leetcode.com/problems/longest-consecutive-sequence/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Union-Find"
+  ],
+  "solved_date": "2025-08-28",
+  "languages": [
+    "cpp"
+  ]
+}

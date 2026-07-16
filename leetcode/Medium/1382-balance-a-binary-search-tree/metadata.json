@@ -1,0 +1,19 @@
+{
+  "id": "1382",
+  "title": "Balance a Binary Search Tree",
+  "url": "https://leetcode.com/problems/balance-a-binary-search-tree/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Divide and Conquer",
+    "Greedy",
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "solved_date": "2026-02-09",
+  "languages": [
+    "cpp"
+  ]
+}

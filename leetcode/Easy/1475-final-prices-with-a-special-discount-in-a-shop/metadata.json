@@ -1,0 +1,16 @@
+{
+  "id": "1475",
+  "title": "Final Prices With a Special Discount in a Shop",
+  "url": "https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Stack",
+    "Monotonic Stack"
+  ],
+  "solved_date": "2025-09-06",
+  "languages": [
+    "cpp"
+  ]
+}

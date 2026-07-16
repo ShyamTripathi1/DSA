@@ -1,0 +1,14 @@
+{
+  "id": "520",
+  "title": "Detect Capital",
+  "url": "https://leetcode.com/problems/detect-capital/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "String"
+  ],
+  "solved_date": "2025-07-22",
+  "languages": [
+    "cpp"
+  ]
+}

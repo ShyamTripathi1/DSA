@@ -1,0 +1,15 @@
+{
+  "id": "3794",
+  "title": "Reverse String Prefix",
+  "url": "https://leetcode.com/problems/reverse-string-prefix/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Two Pointers",
+    "String"
+  ],
+  "solved_date": "2026-01-03",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "888",
+  "title": "Fair Candy Swap",
+  "url": "https://leetcode.com/problems/fair-candy-swap/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Binary Search",
+    "Sorting"
+  ],
+  "solved_date": "2025-09-07",
+  "languages": [
+    "cpp"
+  ]
+}

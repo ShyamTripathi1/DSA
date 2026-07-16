@@ -1,0 +1,17 @@
+{
+  "id": "397",
+  "title": "Integer Replacement",
+  "url": "https://leetcode.com/problems/integer-replacement/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Dynamic Programming",
+    "Greedy",
+    "Bit Manipulation",
+    "Memoization"
+  ],
+  "solved_date": "2025-09-08",
+  "languages": [
+    "cpp"
+  ]
+}

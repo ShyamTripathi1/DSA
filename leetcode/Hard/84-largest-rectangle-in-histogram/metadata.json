@@ -1,0 +1,16 @@
+{
+  "id": "84",
+  "title": "Largest Rectangle in Histogram",
+  "url": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Stack",
+    "Monotonic Stack"
+  ],
+  "solved_date": "2025-06-05",
+  "languages": [
+    "cpp"
+  ]
+}

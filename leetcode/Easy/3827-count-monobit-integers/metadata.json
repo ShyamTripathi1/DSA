@@ -1,0 +1,15 @@
+{
+  "id": "3827",
+  "title": "Count Monobit Integers",
+  "url": "https://leetcode.com/problems/count-monobit-integers/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Bit Manipulation",
+    "Enumeration"
+  ],
+  "solved_date": "2026-02-01",
+  "languages": [
+    "cpp"
+  ]
+}

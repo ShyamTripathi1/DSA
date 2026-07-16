@@ -1,0 +1,17 @@
+{
+  "id": "2225",
+  "title": "Find Players With Zero or One Losses",
+  "url": "https://leetcode.com/problems/find-players-with-zero-or-one-losses/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Sorting",
+    "Counting"
+  ],
+  "solved_date": "2025-09-19",
+  "languages": [
+    "cpp"
+  ]
+}

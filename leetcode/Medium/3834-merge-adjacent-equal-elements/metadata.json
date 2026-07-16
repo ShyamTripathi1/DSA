@@ -1,0 +1,16 @@
+{
+  "id": "3834",
+  "title": "Merge Adjacent Equal Elements",
+  "url": "https://leetcode.com/problems/merge-adjacent-equal-elements/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Stack",
+    "Simulation"
+  ],
+  "solved_date": "2026-02-11",
+  "languages": [
+    "cpp"
+  ]
+}

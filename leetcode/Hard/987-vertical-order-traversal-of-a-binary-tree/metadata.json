@@ -1,0 +1,19 @@
+{
+  "id": "987",
+  "title": "Vertical Order Traversal of a Binary Tree",
+  "url": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Hash Table",
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Sorting",
+    "Binary Tree"
+  ],
+  "solved_date": "2025-10-11",
+  "languages": [
+    "cpp"
+  ]
+}

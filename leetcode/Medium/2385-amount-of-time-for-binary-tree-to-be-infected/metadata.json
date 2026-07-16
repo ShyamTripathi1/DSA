@@ -1,0 +1,18 @@
+{
+  "id": "2385",
+  "title": "Amount of Time for Binary Tree to Be Infected",
+  "url": "https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Hash Table",
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "solved_date": "2025-10-10",
+  "languages": [
+    "cpp"
+  ]
+}

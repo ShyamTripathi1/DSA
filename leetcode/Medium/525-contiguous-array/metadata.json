@@ -1,0 +1,16 @@
+{
+  "id": "525",
+  "title": "Contiguous Array",
+  "url": "https://leetcode.com/problems/contiguous-array/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Prefix Sum"
+  ],
+  "solved_date": "2025-11-28",
+  "languages": [
+    "cpp"
+  ]
+}

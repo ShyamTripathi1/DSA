@@ -1,0 +1,18 @@
+{
+  "id": "3666",
+  "title": "Minimum Operations to Equalize Binary String",
+  "url": "https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Math",
+    "String",
+    "Breadth-First Search",
+    "Union-Find",
+    "Ordered Set"
+  ],
+  "solved_date": "2026-02-27",
+  "languages": [
+    "cpp"
+  ]
+}

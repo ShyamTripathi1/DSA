@@ -1,0 +1,15 @@
+{
+  "id": "2164",
+  "title": "Sort Even and Odd Indices Independently",
+  "url": "https://leetcode.com/problems/sort-even-and-odd-indices-independently/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Sorting"
+  ],
+  "solved_date": "2025-09-05",
+  "languages": [
+    "cpp"
+  ]
+}

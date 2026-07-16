@@ -1,0 +1,17 @@
+{
+  "id": "210",
+  "title": "Course Schedule II",
+  "url": "https://leetcode.com/problems/course-schedule-ii/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory",
+    "Topological Sort"
+  ],
+  "solved_date": "2026-02-06",
+  "languages": [
+    "cpp"
+  ]
+}

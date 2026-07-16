@@ -1,0 +1,15 @@
+{
+  "id": "636",
+  "title": "Exclusive Time of Functions",
+  "url": "https://leetcode.com/problems/exclusive-time-of-functions/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Stack"
+  ],
+  "solved_date": "2025-11-28",
+  "languages": [
+    "cpp"
+  ]
+}

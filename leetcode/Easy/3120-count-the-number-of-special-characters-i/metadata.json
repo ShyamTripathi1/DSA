@@ -1,0 +1,15 @@
+{
+  "id": "3120",
+  "title": "Count the Number of Special Characters I",
+  "url": "https://leetcode.com/problems/count-the-number-of-special-characters-i/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Hash Table",
+    "String"
+  ],
+  "solved_date": "2026-05-26",
+  "languages": [
+    "cpp"
+  ]
+}

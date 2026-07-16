@@ -1,0 +1,14 @@
+{
+  "id": "799",
+  "title": "Champagne Tower",
+  "url": "https://leetcode.com/problems/champagne-tower/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Dynamic Programming"
+  ],
+  "solved_date": "2026-02-14",
+  "languages": [
+    "cpp"
+  ]
+}

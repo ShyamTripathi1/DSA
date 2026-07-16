@@ -1,0 +1,17 @@
+{
+  "id": "3653",
+  "title": "XOR After Range Multiplication Queries I",
+  "url": "https://leetcode.com/problems/xor-after-range-multiplication-queries-i/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Divide and Conquer",
+    "Simulation",
+    "Prefix Sum"
+  ],
+  "solved_date": "2026-04-08",
+  "languages": [
+    "cpp"
+  ]
+}

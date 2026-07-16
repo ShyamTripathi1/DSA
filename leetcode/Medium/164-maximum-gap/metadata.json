@@ -1,0 +1,17 @@
+{
+  "id": "164",
+  "title": "Maximum Gap",
+  "url": "https://leetcode.com/problems/maximum-gap/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Sorting",
+    "Bucket Sort",
+    "Radix Sort"
+  ],
+  "solved_date": "2025-07-22",
+  "languages": [
+    "cpp"
+  ]
+}

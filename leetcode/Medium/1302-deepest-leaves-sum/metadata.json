@@ -1,0 +1,17 @@
+{
+  "id": "1302",
+  "title": "Deepest Leaves Sum",
+  "url": "https://leetcode.com/problems/deepest-leaves-sum/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "solved_date": "2026-01-28",
+  "languages": [
+    "cpp"
+  ]
+}

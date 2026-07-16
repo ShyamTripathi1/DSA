@@ -1,0 +1,19 @@
+{
+  "id": "731",
+  "title": "My Calendar II",
+  "url": "https://leetcode.com/problems/my-calendar-ii/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Binary Search",
+    "Design",
+    "Segment Tree",
+    "Prefix Sum",
+    "Ordered Set"
+  ],
+  "solved_date": "2025-11-28",
+  "languages": [
+    "cpp"
+  ]
+}

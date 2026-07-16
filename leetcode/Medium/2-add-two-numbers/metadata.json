@@ -1,0 +1,17 @@
+{
+  "id": "2",
+  "title": "Add Two Numbers",
+  "url": "https://leetcode.com/problems/add-two-numbers/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Linked List",
+    "Math",
+    "Recursion"
+  ],
+  "solved_date": "2024-11-11",
+  "languages": [
+    "cpp",
+    "c"
+  ]
+}

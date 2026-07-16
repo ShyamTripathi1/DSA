@@ -1,0 +1,15 @@
+{
+  "id": "46",
+  "title": "Permutations",
+  "url": "https://leetcode.com/problems/permutations/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Backtracking"
+  ],
+  "solved_date": "2025-10-24",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "386",
+  "title": "Lexicographical Numbers",
+  "url": "https://leetcode.com/problems/lexicographical-numbers/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Depth-First Search",
+    "Trie"
+  ],
+  "solved_date": "2026-01-28",
+  "languages": [
+    "cpp"
+  ]
+}

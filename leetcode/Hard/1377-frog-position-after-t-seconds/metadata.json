@@ -1,0 +1,17 @@
+{
+  "id": "1377",
+  "title": "Frog Position After T Seconds",
+  "url": "https://leetcode.com/problems/frog-position-after-t-seconds/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory"
+  ],
+  "solved_date": "2026-03-16",
+  "languages": [
+    "cpp"
+  ]
+}

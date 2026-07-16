@@ -1,0 +1,14 @@
+{
+  "id": "2057",
+  "title": "Smallest Index With Equal Value",
+  "url": "https://leetcode.com/problems/smallest-index-with-equal-value/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array"
+  ],
+  "solved_date": "2025-09-05",
+  "languages": [
+    "cpp"
+  ]
+}

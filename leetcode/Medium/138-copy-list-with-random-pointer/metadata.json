@@ -1,0 +1,15 @@
+{
+  "id": "138",
+  "title": "Copy List with Random Pointer",
+  "url": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Hash Table",
+    "Linked List"
+  ],
+  "solved_date": "2025-10-09",
+  "languages": [
+    "cpp"
+  ]
+}

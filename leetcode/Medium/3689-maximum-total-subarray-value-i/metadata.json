@@ -1,0 +1,15 @@
+{
+  "id": "3689",
+  "title": "Maximum Total Subarray Value I",
+  "url": "https://leetcode.com/problems/maximum-total-subarray-value-i/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Greedy"
+  ],
+  "solved_date": "2026-06-09",
+  "languages": [
+    "cpp"
+  ]
+}

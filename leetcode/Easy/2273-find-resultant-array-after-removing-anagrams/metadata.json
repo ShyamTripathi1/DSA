@@ -1,0 +1,17 @@
+{
+  "id": "2273",
+  "title": "Find Resultant Array After Removing Anagrams",
+  "url": "https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Sorting"
+  ],
+  "solved_date": "2025-10-13",
+  "languages": [
+    "cpp"
+  ]
+}

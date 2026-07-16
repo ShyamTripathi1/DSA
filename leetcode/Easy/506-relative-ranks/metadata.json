@@ -1,0 +1,16 @@
+{
+  "id": "506",
+  "title": "Relative Ranks",
+  "url": "https://leetcode.com/problems/relative-ranks/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Sorting",
+    "Heap (Priority Queue)"
+  ],
+  "solved_date": "2026-02-06",
+  "languages": [
+    "cpp"
+  ]
+}

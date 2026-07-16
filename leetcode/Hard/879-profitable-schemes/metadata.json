@@ -1,0 +1,15 @@
+{
+  "id": "879",
+  "title": "Profitable Schemes",
+  "url": "https://leetcode.com/problems/profitable-schemes/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "solved_date": "2025-11-28",
+  "languages": [
+    "cpp"
+  ]
+}

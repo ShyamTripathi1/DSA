@@ -1,0 +1,16 @@
+{
+  "id": "3954",
+  "title": "Sum of Compatible Numbers in Range I",
+  "url": "https://leetcode.com/problems/sum-of-compatible-numbers-in-range-i/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Dynamic Programming",
+    "Bit Manipulation",
+    "Enumeration"
+  ],
+  "solved_date": "2026-06-14",
+  "languages": [
+    "cpp"
+  ]
+}

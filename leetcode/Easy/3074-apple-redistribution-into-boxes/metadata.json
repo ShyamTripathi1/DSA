@@ -1,0 +1,16 @@
+{
+  "id": "3074",
+  "title": "Apple Redistribution into Boxes",
+  "url": "https://leetcode.com/problems/apple-redistribution-into-boxes/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
+  "solved_date": "2025-12-24",
+  "languages": [
+    "cpp"
+  ]
+}

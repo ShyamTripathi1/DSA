@@ -1,0 +1,17 @@
+{
+  "id": "337",
+  "title": "House Robber III",
+  "url": "https://leetcode.com/problems/house-robber-iii/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Dynamic Programming",
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "solved_date": "2026-07-01",
+  "languages": [
+    "cpp"
+  ]
+}

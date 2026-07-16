@@ -1,0 +1,15 @@
+{
+  "id": "998",
+  "title": "Maximum Binary Tree II",
+  "url": "https://leetcode.com/problems/maximum-binary-tree-ii/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Tree",
+    "Binary Tree"
+  ],
+  "solved_date": "2026-04-13",
+  "languages": [
+    "cpp"
+  ]
+}

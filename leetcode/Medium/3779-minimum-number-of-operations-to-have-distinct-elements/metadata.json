@@ -1,0 +1,15 @@
+{
+  "id": "3779",
+  "title": "Minimum Number of Operations to Have Distinct Elements",
+  "url": "https://leetcode.com/problems/minimum-number-of-operations-to-have-distinct-elements/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table"
+  ],
+  "solved_date": "2026-02-05",
+  "languages": [
+    "cpp"
+  ]
+}

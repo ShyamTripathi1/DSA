@@ -7,10 +7,11 @@
   "tags": [
     "Array",
     "Two Pointers",
+    "Dynamic Programming",
     "Stack",
-    "Dynamic Programming"
+    "Monotonic Stack"
   ],
-  "solved_date": "2026-07-15",
+  "solved_date": "2025-08-12",
   "languages": [
     "cpp"
   ]

@@ -1,0 +1,14 @@
+{
+  "id": "2220",
+  "title": "Minimum Bit Flips to Convert Number",
+  "url": "https://leetcode.com/problems/minimum-bit-flips-to-convert-number/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Bit Manipulation"
+  ],
+  "solved_date": "2025-11-20",
+  "languages": [
+    "cpp"
+  ]
+}

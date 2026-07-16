@@ -1,0 +1,18 @@
+{
+  "id": "3850",
+  "title": "Count Sequences to K",
+  "url": "https://leetcode.com/problems/count-sequences-to-k/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Memoization",
+    "Number Theory"
+  ],
+  "solved_date": "2026-02-22",
+  "languages": [
+    "cpp"
+  ]
+}

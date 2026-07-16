@@ -1,0 +1,15 @@
+{
+  "id": "3169",
+  "title": "Count Days Without Meetings",
+  "url": "https://leetcode.com/problems/count-days-without-meetings/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Sorting"
+  ],
+  "solved_date": "2025-11-19",
+  "languages": [
+    "cpp"
+  ]
+}

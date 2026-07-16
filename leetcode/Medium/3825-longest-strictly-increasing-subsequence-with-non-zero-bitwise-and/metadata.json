@@ -1,0 +1,17 @@
+{
+  "id": "3825",
+  "title": "Longest Strictly Increasing Subsequence With Non-Zero Bitwise AND",
+  "url": "https://leetcode.com/problems/longest-strictly-increasing-subsequence-with-non-zero-bitwise-and/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Binary Search",
+    "Bit Manipulation",
+    "Enumeration"
+  ],
+  "solved_date": "2026-01-31",
+  "languages": [
+    "cpp"
+  ]
+}

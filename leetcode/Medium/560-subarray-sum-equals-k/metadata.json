@@ -1,0 +1,16 @@
+{
+  "id": "560",
+  "title": "Subarray Sum Equals K",
+  "url": "https://leetcode.com/problems/subarray-sum-equals-k/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Prefix Sum"
+  ],
+  "solved_date": "2025-10-09",
+  "languages": [
+    "cpp"
+  ]
+}

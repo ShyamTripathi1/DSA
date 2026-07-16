@@ -1,0 +1,15 @@
+{
+  "id": "3847",
+  "title": "Find the Score Difference in a Game",
+  "url": "https://leetcode.com/problems/find-the-score-difference-in-a-game/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Simulation"
+  ],
+  "solved_date": "2026-02-22",
+  "languages": [
+    "cpp"
+  ]
+}

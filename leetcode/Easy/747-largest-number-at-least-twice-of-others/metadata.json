@@ -1,0 +1,15 @@
+{
+  "id": "747",
+  "title": "Largest Number At Least Twice of Others",
+  "url": "https://leetcode.com/problems/largest-number-at-least-twice-of-others/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Sorting"
+  ],
+  "solved_date": "2025-11-20",
+  "languages": [
+    "cpp"
+  ]
+}

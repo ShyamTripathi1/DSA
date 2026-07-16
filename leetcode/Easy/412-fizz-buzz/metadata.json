@@ -1,0 +1,16 @@
+{
+  "id": "412",
+  "title": "Fizz Buzz",
+  "url": "https://leetcode.com/problems/fizz-buzz/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Math",
+    "String",
+    "Simulation"
+  ],
+  "solved_date": "2025-09-08",
+  "languages": [
+    "cpp"
+  ]
+}

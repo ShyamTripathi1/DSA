@@ -1,0 +1,16 @@
+{
+  "id": "2404",
+  "title": "Most Frequent Even Element",
+  "url": "https://leetcode.com/problems/most-frequent-even-element/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Counting"
+  ],
+  "solved_date": "2025-11-14",
+  "languages": [
+    "cpp"
+  ]
+}

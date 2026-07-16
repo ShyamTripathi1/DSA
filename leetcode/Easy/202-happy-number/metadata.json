@@ -1,0 +1,16 @@
+{
+  "id": "202",
+  "title": "Happy Number",
+  "url": "https://leetcode.com/problems/happy-number/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Hash Table",
+    "Math",
+    "Two Pointers"
+  ],
+  "solved_date": "2025-05-30",
+  "languages": [
+    "cpp"
+  ]
+}

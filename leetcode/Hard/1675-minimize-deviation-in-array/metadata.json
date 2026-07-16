@@ -1,0 +1,17 @@
+{
+  "id": "1675",
+  "title": "Minimize Deviation in Array",
+  "url": "https://leetcode.com/problems/minimize-deviation-in-array/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Greedy",
+    "Heap (Priority Queue)",
+    "Ordered Set"
+  ],
+  "solved_date": "2026-02-06",
+  "languages": [
+    "cpp"
+  ]
+}

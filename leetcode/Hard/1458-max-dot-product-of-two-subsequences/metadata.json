@@ -1,0 +1,15 @@
+{
+  "id": "1458",
+  "title": "Max Dot Product of Two Subsequences",
+  "url": "https://leetcode.com/problems/max-dot-product-of-two-subsequences/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "solved_date": "2026-01-08",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "2032",
+  "title": "Two Out of Three",
+  "url": "https://leetcode.com/problems/two-out-of-three/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Bit Manipulation"
+  ],
+  "solved_date": "2025-11-21",
+  "languages": [
+    "cpp"
+  ]
+}

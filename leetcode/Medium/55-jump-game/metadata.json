@@ -1,0 +1,16 @@
+{
+  "id": "55",
+  "title": "Jump Game",
+  "url": "https://leetcode.com/problems/jump-game/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "solved_date": "2025-08-08",
+  "languages": [
+    "cpp"
+  ]
+}

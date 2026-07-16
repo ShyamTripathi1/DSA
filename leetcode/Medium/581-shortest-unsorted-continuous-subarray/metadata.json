@@ -1,0 +1,19 @@
+{
+  "id": "581",
+  "title": "Shortest Unsorted Continuous Subarray",
+  "url": "https://leetcode.com/problems/shortest-unsorted-continuous-subarray/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "Stack",
+    "Greedy",
+    "Sorting",
+    "Monotonic Stack"
+  ],
+  "solved_date": "2025-11-28",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "1108",
+  "title": "Defanging an IP Address",
+  "url": "https://leetcode.com/problems/defanging-an-ip-address/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "String"
+  ],
+  "solved_date": "2025-06-06",
+  "languages": [
+    "cpp"
+  ]
+}

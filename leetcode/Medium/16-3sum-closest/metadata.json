@@ -1,0 +1,16 @@
+{
+  "id": "16",
+  "title": "3Sum Closest",
+  "url": "https://leetcode.com/problems/3sum-closest/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "solved_date": "2026-04-13",
+  "languages": [
+    "cpp"
+  ]
+}

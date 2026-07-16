@@ -1,0 +1,16 @@
+{
+  "id": "1423",
+  "title": "Maximum Points You Can Obtain from Cards",
+  "url": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Sliding Window",
+    "Prefix Sum"
+  ],
+  "solved_date": "2025-11-04",
+  "languages": [
+    "cpp"
+  ]
+}

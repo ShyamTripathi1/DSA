@@ -1,0 +1,18 @@
+{
+  "id": "114",
+  "title": "Flatten Binary Tree to Linked List",
+  "url": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Linked List",
+    "Stack",
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "solved_date": "2025-08-10",
+  "languages": [
+    "cpp"
+  ]
+}

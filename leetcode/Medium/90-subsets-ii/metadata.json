@@ -1,0 +1,16 @@
+{
+  "id": "90",
+  "title": "Subsets II",
+  "url": "https://leetcode.com/problems/subsets-ii/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Backtracking",
+    "Bit Manipulation"
+  ],
+  "solved_date": "2025-11-26",
+  "languages": [
+    "cpp"
+  ]
+}

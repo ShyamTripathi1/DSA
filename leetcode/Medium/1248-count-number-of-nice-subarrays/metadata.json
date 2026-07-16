@@ -1,0 +1,18 @@
+{
+  "id": "1248",
+  "title": "Count Number of Nice Subarrays",
+  "url": "https://leetcode.com/problems/count-number-of-nice-subarrays/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Sliding Window",
+    "Prefix Sum"
+  ],
+  "solved_date": "2025-11-08",
+  "languages": [
+    "cpp"
+  ]
+}

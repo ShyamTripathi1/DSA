@@ -1,0 +1,15 @@
+{
+  "id": "136",
+  "title": "Single Number",
+  "url": "https://leetcode.com/problems/single-number/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Bit Manipulation"
+  ],
+  "solved_date": "2025-11-20",
+  "languages": [
+    "cpp"
+  ]
+}

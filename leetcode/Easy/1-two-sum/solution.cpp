@@ -1,20 +1,18 @@
-// Time Complexity: O(N)
-// Space Complexity: O(N)
-#include <vector>
-#include <unordered_map>
-using namespace std;
-
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        unordered_map<int, int> numMap;
-        for (int i = 0; i < nums.size(); ++i) {
-            int complement = target - nums[i];
-            if (numMap.count(complement)) {
-                return {numMap[complement], i};
-            }
-            numMap[nums[i]] = i;
+        int n=nums.size();
+        vector<int> ans;
+       unordered_map<int,int> m;
+       for(int i=0;i<n;i++){
+        int rem = target-nums[i];
+        if(m.find(rem) != m.end()){
+            ans.push_back(m[rem]);
+            ans.push_back(i);
         }
-        return {};
+        else m[nums[i]] = i;
+       }
+        return ans;
     }
 };
+      

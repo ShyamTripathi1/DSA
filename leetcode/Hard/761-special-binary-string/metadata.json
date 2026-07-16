@@ -1,0 +1,16 @@
+{
+  "id": "761",
+  "title": "Special Binary String",
+  "url": "https://leetcode.com/problems/special-binary-string/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "String",
+    "Divide and Conquer",
+    "Sorting"
+  ],
+  "solved_date": "2026-02-20",
+  "languages": [
+    "cpp"
+  ]
+}

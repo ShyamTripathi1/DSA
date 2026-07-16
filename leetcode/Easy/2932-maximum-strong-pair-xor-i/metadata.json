@@ -1,0 +1,18 @@
+{
+  "id": "2932",
+  "title": "Maximum Strong Pair XOR I",
+  "url": "https://leetcode.com/problems/maximum-strong-pair-xor-i/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Bit Manipulation",
+    "Trie",
+    "Sliding Window"
+  ],
+  "solved_date": "2026-03-08",
+  "languages": [
+    "cpp"
+  ]
+}

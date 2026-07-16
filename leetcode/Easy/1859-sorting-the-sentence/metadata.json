@@ -1,0 +1,15 @@
+{
+  "id": "1859",
+  "title": "Sorting the Sentence",
+  "url": "https://leetcode.com/problems/sorting-the-sentence/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "String",
+    "Sorting"
+  ],
+  "solved_date": "2025-06-07",
+  "languages": [
+    "cpp"
+  ]
+}

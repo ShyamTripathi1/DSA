@@ -1,0 +1,15 @@
+{
+  "id": "1015",
+  "title": "Smallest Integer Divisible by K",
+  "url": "https://leetcode.com/problems/smallest-integer-divisible-by-k/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Hash Table",
+    "Math"
+  ],
+  "solved_date": "2025-11-25",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "66",
+  "title": "Plus One",
+  "url": "https://leetcode.com/problems/plus-one/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Math"
+  ],
+  "solved_date": "2026-01-01",
+  "languages": [
+    "cpp"
+  ]
+}

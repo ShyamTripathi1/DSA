@@ -1,0 +1,16 @@
+{
+  "id": "141",
+  "title": "Linked List Cycle",
+  "url": "https://leetcode.com/problems/linked-list-cycle/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Hash Table",
+    "Linked List",
+    "Two Pointers"
+  ],
+  "solved_date": "2025-05-12",
+  "languages": [
+    "cpp"
+  ]
+}

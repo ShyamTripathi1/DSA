@@ -1,0 +1,19 @@
+{
+  "id": "1054",
+  "title": "Distant Barcodes",
+  "url": "https://leetcode.com/problems/distant-barcodes/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Greedy",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Counting"
+  ],
+  "solved_date": "2026-02-07",
+  "languages": [
+    "cpp"
+  ]
+}

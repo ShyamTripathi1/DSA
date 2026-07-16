@@ -1,0 +1,18 @@
+{
+  "id": "869",
+  "title": "Reordered Power of 2",
+  "url": "https://leetcode.com/problems/reordered-power-of-2/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Hash Table",
+    "Math",
+    "Sorting",
+    "Counting",
+    "Enumeration"
+  ],
+  "solved_date": "2025-08-10",
+  "languages": [
+    "cpp"
+  ]
+}

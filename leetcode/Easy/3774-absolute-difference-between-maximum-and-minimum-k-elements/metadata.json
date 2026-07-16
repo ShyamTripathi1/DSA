@@ -1,0 +1,15 @@
+{
+  "id": "3774",
+  "title": "Absolute Difference Between Maximum and Minimum K Elements",
+  "url": "https://leetcode.com/problems/absolute-difference-between-maximum-and-minimum-k-elements/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Sorting"
+  ],
+  "solved_date": "2025-12-15",
+  "languages": [
+    "cpp"
+  ]
+}

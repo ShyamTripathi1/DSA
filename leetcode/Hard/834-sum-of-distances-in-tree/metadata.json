@@ -1,0 +1,17 @@
+{
+  "id": "834",
+  "title": "Sum of Distances in Tree",
+  "url": "https://leetcode.com/problems/sum-of-distances-in-tree/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Dynamic Programming",
+    "Tree",
+    "Depth-First Search",
+    "Graph Theory"
+  ],
+  "solved_date": "2025-08-02",
+  "languages": [
+    "cpp"
+  ]
+}

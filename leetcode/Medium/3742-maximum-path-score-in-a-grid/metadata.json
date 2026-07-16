@@ -1,0 +1,16 @@
+{
+  "id": "3742",
+  "title": "Maximum Path Score in a Grid",
+  "url": "https://leetcode.com/problems/maximum-path-score-in-a-grid/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix"
+  ],
+  "solved_date": "2026-04-30",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "1267",
+  "title": "Count Servers that Communicate",
+  "url": "https://leetcode.com/problems/count-servers-that-communicate/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Matrix",
+    "Counting"
+  ],
+  "solved_date": "2026-02-21",
+  "languages": [
+    "cpp"
+  ]
+}

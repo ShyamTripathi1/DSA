@@ -1,0 +1,16 @@
+{
+  "id": "3746",
+  "title": "Minimum String Length After Balanced Removals",
+  "url": "https://leetcode.com/problems/minimum-string-length-after-balanced-removals/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "String",
+    "Stack",
+    "Counting"
+  ],
+  "solved_date": "2025-11-16",
+  "languages": [
+    "cpp"
+  ]
+}

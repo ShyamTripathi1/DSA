@@ -1,0 +1,15 @@
+{
+  "id": "2833",
+  "title": "Furthest Point From Origin",
+  "url": "https://leetcode.com/problems/furthest-point-from-origin/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "String",
+    "Counting"
+  ],
+  "solved_date": "2026-04-24",
+  "languages": [
+    "cpp"
+  ]
+}

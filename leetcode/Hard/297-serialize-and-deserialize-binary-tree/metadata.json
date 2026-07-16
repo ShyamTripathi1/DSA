@@ -1,0 +1,19 @@
+{
+  "id": "297",
+  "title": "Serialize and Deserialize Binary Tree",
+  "url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "String",
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Design",
+    "Binary Tree"
+  ],
+  "solved_date": "2025-08-01",
+  "languages": [
+    "cpp"
+  ]
+}

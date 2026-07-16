@@ -1,0 +1,17 @@
+{
+  "id": "669",
+  "title": "Trim a Binary Search Tree",
+  "url": "https://leetcode.com/problems/trim-a-binary-search-tree/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "solved_date": "2025-09-23",
+  "languages": [
+    "cpp"
+  ]
+}

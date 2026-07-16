@@ -1,0 +1,15 @@
+{
+  "id": "206",
+  "title": "Reverse Linked List",
+  "url": "https://leetcode.com/problems/reverse-linked-list/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Linked List",
+    "Recursion"
+  ],
+  "solved_date": "2025-05-08",
+  "languages": [
+    "cpp"
+  ]
+}

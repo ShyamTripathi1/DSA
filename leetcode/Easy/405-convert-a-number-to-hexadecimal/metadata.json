@@ -1,0 +1,16 @@
+{
+  "id": "405",
+  "title": "Convert a Number to Hexadecimal",
+  "url": "https://leetcode.com/problems/convert-a-number-to-hexadecimal/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Math",
+    "String",
+    "Bit Manipulation"
+  ],
+  "solved_date": "2025-07-28",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "3546",
+  "title": "Equal Sum Grid Partition I",
+  "url": "https://leetcode.com/problems/equal-sum-grid-partition-i/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Matrix",
+    "Enumeration",
+    "Prefix Sum"
+  ],
+  "solved_date": "2026-03-25",
+  "languages": [
+    "cpp"
+  ]
+}

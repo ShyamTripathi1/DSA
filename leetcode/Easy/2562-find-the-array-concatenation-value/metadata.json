@@ -1,0 +1,16 @@
+{
+  "id": "2562",
+  "title": "Find the Array Concatenation Value",
+  "url": "https://leetcode.com/problems/find-the-array-concatenation-value/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "Simulation"
+  ],
+  "solved_date": "2025-08-25",
+  "languages": [
+    "cpp"
+  ]
+}

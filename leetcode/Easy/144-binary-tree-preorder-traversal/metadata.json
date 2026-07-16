@@ -1,0 +1,17 @@
+{
+  "id": "144",
+  "title": "Binary Tree Preorder Traversal",
+  "url": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Stack",
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "solved_date": "2025-07-18",
+  "languages": [
+    "cpp"
+  ]
+}

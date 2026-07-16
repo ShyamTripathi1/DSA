@@ -1,0 +1,15 @@
+{
+  "id": "657",
+  "title": "Robot Return to Origin",
+  "url": "https://leetcode.com/problems/robot-return-to-origin/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "String",
+    "Simulation"
+  ],
+  "solved_date": "2026-04-05",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "53",
+  "title": "Maximum Subarray",
+  "url": "https://leetcode.com/problems/maximum-subarray/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Divide and Conquer",
+    "Dynamic Programming"
+  ],
+  "solved_date": "2025-04-02",
+  "languages": [
+    "cpp"
+  ]
+}

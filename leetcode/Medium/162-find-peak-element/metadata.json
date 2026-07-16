@@ -1,0 +1,15 @@
+{
+  "id": "162",
+  "title": "Find Peak Element",
+  "url": "https://leetcode.com/problems/find-peak-element/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Binary Search"
+  ],
+  "solved_date": "2025-04-09",
+  "languages": [
+    "cpp"
+  ]
+}

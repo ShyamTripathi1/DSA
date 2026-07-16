@@ -1,0 +1,17 @@
+{
+  "id": "1025",
+  "title": "Divisor Game",
+  "url": "https://leetcode.com/problems/divisor-game/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Math",
+    "Dynamic Programming",
+    "Brainteaser",
+    "Game Theory"
+  ],
+  "solved_date": "2025-09-11",
+  "languages": [
+    "cpp"
+  ]
+}

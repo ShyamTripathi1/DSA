@@ -1,0 +1,17 @@
+{
+  "id": "240",
+  "title": "Search a 2D Matrix II",
+  "url": "https://leetcode.com/problems/search-a-2d-matrix-ii/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Binary Search",
+    "Divide and Conquer",
+    "Matrix"
+  ],
+  "solved_date": "2025-04-20",
+  "languages": [
+    "cpp"
+  ]
+}

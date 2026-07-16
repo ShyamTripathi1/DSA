@@ -1,0 +1,18 @@
+{
+  "id": "3545",
+  "title": "Minimum Deletions for At Most K Distinct Characters",
+  "url": "https://leetcode.com/problems/minimum-deletions-for-at-most-k-distinct-characters/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Hash Table",
+    "String",
+    "Greedy",
+    "Sorting",
+    "Counting"
+  ],
+  "solved_date": "2025-11-10",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "754",
+  "title": "Reach a Number",
+  "url": "https://leetcode.com/problems/reach-a-number/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Math",
+    "Binary Search"
+  ],
+  "solved_date": "2026-04-13",
+  "languages": [
+    "cpp"
+  ]
+}

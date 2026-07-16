@@ -1,0 +1,17 @@
+{
+  "id": "2363",
+  "title": "Merge Similar Items",
+  "url": "https://leetcode.com/problems/merge-similar-items/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Sorting",
+    "Ordered Set"
+  ],
+  "solved_date": "2025-11-03",
+  "languages": [
+    "cpp"
+  ]
+}
