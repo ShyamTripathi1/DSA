@@ -1,0 +1,53 @@
+name: LeetCode Sync
+
+on:
+  schedule:
+    # Run daily at midnight IST (18:30 UTC)
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+    # Allow manual trigger from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    name: Sync LeetCode Solutions
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Sync LeetCode solutions
+        run: python scripts/sync_leetcode.py
+        env:
+          LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
+          LEETCODE_USERNAME: ShyamTripathi12
+
+      - name: Update README stats
+        run: python scripts/sync_readme.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          # Only commit if there are staged changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "🔄 sync: LeetCode solutions [$(date -u +%Y-%m-%d)]"
+            git push
+            echo "Changes committed and pushed."
+          fi

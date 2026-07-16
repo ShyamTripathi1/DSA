@@ -8,6 +8,7 @@ Welcome to my central repository for Data Structures, Algorithms, and coding cha
 
 ## 📊 Performance Statistics
 
+<!--START_SECTION:leetcode-stats-->
 | Platform | Progress Bar | Solved | Easy | Medium | Hard |
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | **LeetCode** | `██████████░░░░░░░░░░` | **3** | 1 | 1 | 1 |
@@ -17,6 +18,7 @@ Welcome to my central repository for Data Structures, Algorithms, and coding cha
 | **Total Progress** | `████████████████████` | **6** | **3** | **2** | **1** |
 
 **Languages Used:** `PYTHON (3)`, `CPP (2)`, `JAVA (1)`, `JAVASCRIPT (1)`
+<!--END_SECTION:leetcode-stats-->
 
 > [!TIP]
 > **📈 Interactive Dashboard:** Open the [dashboard/index.html](file:///C:/Users/ASUS/OneDrive/Projects/DSA/dashboard/index.html) in your browser to view interactive visual charts of my stats and filter/search solved problems!
@@ -29,6 +31,7 @@ This repository is equipped with automation tools to make solving and logging pr
 
 - **Add a new solution:** Run `python scripts/add_solution.py` from the root directory. It will interactively ask for the platform, problem title, link, difficulty, and create the directories, boilerplate code files, and custom READMEs.
 - **Sync Stats:** The add script automatically calls `python scripts/sync_readme.py` to regenerate the tables above and the data file for the local web dashboard. You can also run it manually at any time.
+- **LeetCode Auto-Sync:** A GitHub Actions workflow runs daily to fetch new accepted LeetCode submissions and sync them into the repo. See `.github/workflows/leetcode-sync.yml`.
 
 ---
 
@@ -36,6 +39,7 @@ This repository is equipped with automation tools to make solving and logging pr
 
 Below are the solved problems categorized by platform.
 
+<!--START_SECTION:problem-index-->
 ### ⏱️ Recently Solved
 
 | Date | Platform | Problem | Difficulty | Languages | Link | 
@@ -78,3 +82,4 @@ Below are the solved problems categorized by platform.
 |  | Simple Array Sum | 🟢 Easy | [`JAVASCRIPT`](./hackerrank/Easy/simple-array-sum) | [Problem Description](./hackerrank/Easy/simple-array-sum/README.md) | [External Link](https://www.hackerrank.com/challenges/simple-array-sum/problem) |
 
 </details>
+<!--END_SECTION:problem-index-->
