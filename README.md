@@ -11,13 +11,13 @@ Welcome to my central repository for Data Structures, Algorithms, and coding cha
 <!--START_SECTION:leetcode-stats-->
 | Platform | Progress Bar | Solved | Easy | Medium | Hard |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| **LeetCode** | `████████████████████` | **806** | 354 | 368 | 84 |
+| **LeetCode** | `████████████████████` | **807** | 354 | 369 | 84 |
 | **GeeksforGeeks** | `░░░░░░░░░░░░░░░░░░░░` | **2** | 1 | 1 | 0 |
 | **HackerRank** | `░░░░░░░░░░░░░░░░░░░░` | **1** | 1 | 0 | 0 |
 | **Topic-wise / Custom** | - | **0** | 0 | 0 | 0 |
-| **Total Progress** | `████████████████████` | **809** | **356** | **369** | **84** |
+| **Total Progress** | `████████████████████` | **810** | **356** | **370** | **84** |
 
-**Languages Used:** `CPP (790)`, `MYSQL (9)`, `JAVASCRIPT (6)`, `JAVA (4)`, `C (2)`, `PYTHON (1)`
+**Languages Used:** `CPP (791)`, `MYSQL (9)`, `JAVASCRIPT (6)`, `JAVA (4)`, `C (2)`, `PYTHON (1)`
 
 **LeetCode Ranking:** #62,301 · **Contest Rating:** 1449.4 · **Contests Attended:** 9 · **Top:** 62.71%
 <!--END_SECTION:leetcode-stats-->
@@ -47,6 +47,7 @@ Below are the solved problems categorized by platform.
 | Date | Platform | Problem | Difficulty | Languages | Link | 
 | :---: | :--- | :--- | :---: | :---: | :---: |
 | 2026-07-16 | LeetCode | 3867. Sum of GCD of Formed Pairs | 🟡 Medium | CPP | [Solution](./leetcode/Medium/3867-sum-of-gcd-of-formed-pairs) / [Problem Link](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) |
+| 2026-07-16 | LeetCode | 47. Permutations II | 🟡 Medium | CPP | [Solution](./leetcode/Medium/47-permutations-ii) / [Problem Link](https://leetcode.com/problems/permutations-ii/) |
 | 2026-07-16 | LeetCode | 3658. GCD of Odd and Even Sums | 🟢 Easy | CPP | [Solution](./leetcode/Easy/3658-gcd-of-odd-and-even-sums) / [Problem Link](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) |
 | 2026-07-14 | LeetCode | 300. Longest Increasing Subsequence | 🟡 Medium | CPP | [Solution](./leetcode/Medium/300-longest-increasing-subsequence) / [Problem Link](https://leetcode.com/problems/longest-increasing-subsequence/) |
 | 2026-07-14 | LeetCode | 3336. Find the Number of Subsequences With Equal GCD | 🔴 Hard | CPP | [Solution](./leetcode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd) / [Problem Link](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/) |
@@ -55,12 +56,11 @@ Below are the solved problems categorized by platform.
 | 2026-07-12 | LeetCode | 68. Text Justification | 🔴 Hard | CPP | [Solution](./leetcode/Hard/68-text-justification) / [Problem Link](https://leetcode.com/problems/text-justification/) |
 | 2026-07-12 | LeetCode | 87. Scramble String | 🔴 Hard | CPP | [Solution](./leetcode/Hard/87-scramble-string) / [Problem Link](https://leetcode.com/problems/scramble-string/) |
 | 2026-07-12 | LeetCode | 1331. Rank Transform of an Array | 🟢 Easy | CPP | [Solution](./leetcode/Easy/1331-rank-transform-of-an-array) / [Problem Link](https://leetcode.com/problems/rank-transform-of-an-array/) |
-| 2026-07-12 | LeetCode | 85. Maximal Rectangle | 🔴 Hard | CPP | [Solution](./leetcode/Hard/85-maximal-rectangle) / [Problem Link](https://leetcode.com/problems/maximal-rectangle/) |
 
 ---
 
 <details>
-<summary><b>📂 LeetCode Solutions (806)</b></summary>
+<summary><b>📂 LeetCode Solutions (807)</b></summary>
 
 | ID | Problem Title | Difficulty | Languages | Solutions |
 | :---: | :--- | :---: | :---: | :--- |
@@ -101,6 +101,7 @@ Below are the solved problems categorized by platform.
 | 41 | First Missing Positive | 🔴 Hard | [`CPP`](./leetcode/Hard/41-first-missing-positive) | [Problem Description](./leetcode/Hard/41-first-missing-positive/README.md) | [External Link](https://leetcode.com/problems/first-missing-positive/) |
 | 42 | Trapping Rain Water | 🔴 Hard | [`CPP`](./leetcode/Hard/42-trapping-rain-water) | [Problem Description](./leetcode/Hard/42-trapping-rain-water/README.md) | [External Link](https://leetcode.com/problems/trapping-rain-water/) |
 | 46 | Permutations | 🟡 Medium | [`CPP`](./leetcode/Medium/46-permutations) | [Problem Description](./leetcode/Medium/46-permutations/README.md) | [External Link](https://leetcode.com/problems/permutations/) |
+| 47 | Permutations II | 🟡 Medium | [`CPP`](./leetcode/Medium/47-permutations-ii) | [Problem Description](./leetcode/Medium/47-permutations-ii/README.md) | [External Link](https://leetcode.com/problems/permutations-ii/) |
 | 48 | Rotate Image | 🟡 Medium | [`CPP`](./leetcode/Medium/48-rotate-image) | [Problem Description](./leetcode/Medium/48-rotate-image/README.md) | [External Link](https://leetcode.com/problems/rotate-image/) |
 | 49 | Group Anagrams | 🟡 Medium | [`CPP`](./leetcode/Medium/49-group-anagrams) | [Problem Description](./leetcode/Medium/49-group-anagrams/README.md) | [External Link](https://leetcode.com/problems/group-anagrams/) |
 | 50 | Pow(x, n) | 🟡 Medium | [`CPP`](./leetcode/Medium/50-powx-n) | [Problem Description](./leetcode/Medium/50-powx-n/README.md) | [External Link](https://leetcode.com/problems/powx-n/) |

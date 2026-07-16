@@ -1,10 +1,10 @@
 const dashboardData = {
   "stats": {
-    "total": 809,
+    "total": 810,
     "leetcode": {
-      "total": 806,
+      "total": 807,
       "Easy": 354,
-      "Medium": 368,
+      "Medium": 369,
       "Hard": 84
     },
     "geeksforgeeks": {
@@ -26,7 +26,7 @@ const dashboardData = {
       "Hard": 0
     },
     "languages": {
-      "cpp": 790,
+      "cpp": 791,
       "java": 4,
       "python": 1,
       "javascript": 6,
@@ -54,6 +54,23 @@ const dashboardData = {
         "cpp"
       ],
       "path": "leetcode/Medium/3867-sum-of-gcd-of-formed-pairs"
+    },
+    {
+      "id": "47",
+      "title": "Permutations II",
+      "url": "https://leetcode.com/problems/permutations-ii/",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Backtracking",
+        "Sorting"
+      ],
+      "solved_date": "2026-07-16",
+      "languages": [
+        "cpp"
+      ],
+      "path": "leetcode/Medium/47-permutations-ii"
     },
     {
       "id": "3658",
@@ -13834,5 +13851,5 @@ const dashboardData = {
       "path": "leetcode/Medium/2-add-two-numbers"
     }
   ],
-  "last_updated": "2026-07-16 18:31:41"
+  "last_updated": "2026-07-16 18:54:34"
 };

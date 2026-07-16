@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-07-16T18:31:41.516525+00:00",
+  "last_sync": "2026-07-16T18:54:34.636761+00:00",
   "problems": {
     "sum-of-gcd-of-formed-pairs": {
       "last_submission_id": "2069644085",
@@ -5645,15 +5645,22 @@
       "languages": [
         "cpp"
       ]
+    },
+    "permutations-ii": {
+      "last_submission_id": "2070323323",
+      "last_timestamp": 1784227632,
+      "languages": [
+        "cpp"
+      ]
     }
   },
   "profile": {
     "username": "ShyamTripathi12",
     "ranking": 62301,
     "solved_stats": {
-      "All": 806,
+      "All": 807,
       "Easy": 354,
-      "Medium": 368,
+      "Medium": 369,
       "Hard": 84
     },
     "contest": {

@@ -1,0 +1,16 @@
+{
+  "id": "47",
+  "title": "Permutations II",
+  "url": "https://leetcode.com/problems/permutations-ii/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Backtracking",
+    "Sorting"
+  ],
+  "solved_date": "2026-07-16",
+  "languages": [
+    "cpp"
+  ]
+}
