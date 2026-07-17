@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-07-16T19:41:15.798673+00:00",
+  "last_sync": "2026-07-17T19:40:23.433580+00:00",
   "problems": {
     "sum-of-gcd-of-formed-pairs": {
       "last_submission_id": "2069644085",
@@ -5656,7 +5656,7 @@
   },
   "profile": {
     "username": "ShyamTripathi12",
-    "ranking": 62301,
+    "ranking": 62146,
     "solved_stats": {
       "All": 807,
       "Easy": 354,
