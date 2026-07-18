@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-07-17T19:40:23.433580+00:00",
+  "last_sync": "2026-07-18T19:41:40.021577+00:00",
   "problems": {
     "sum-of-gcd-of-formed-pairs": {
       "last_submission_id": "2069644085",
@@ -4105,8 +4105,8 @@
       ]
     },
     "find-greatest-common-divisor-of-array": {
-      "last_submission_id": "1763878712",
-      "last_timestamp": 1757342418,
+      "last_submission_id": "2072551902",
+      "last_timestamp": 1784392080,
       "languages": [
         "cpp"
       ]
@@ -4281,8 +4281,8 @@
       ]
     },
     "minimum-size-subarray-sum": {
-      "last_submission_id": "1759442446",
-      "last_timestamp": 1756995670,
+      "last_submission_id": "2072741369",
+      "last_timestamp": 1784402495,
       "languages": [
         "cpp"
       ]
@@ -5652,16 +5652,23 @@
       "languages": [
         "cpp"
       ]
+    },
+    "sorted-gcd-pair-queries": {
+      "last_submission_id": "2071542366",
+      "last_timestamp": 1784317733,
+      "languages": [
+        "cpp"
+      ]
     }
   },
   "profile": {
     "username": "ShyamTripathi12",
-    "ranking": 62146,
+    "ranking": 61983,
     "solved_stats": {
-      "All": 807,
+      "All": 808,
       "Easy": 354,
       "Medium": 369,
-      "Hard": 84
+      "Hard": 85
     },
     "contest": {
       "rating": 1449.4,

@@ -11,15 +11,15 @@ Welcome to my central repository for Data Structures, Algorithms, and coding cha
 <!--START_SECTION:leetcode-stats-->
 | Platform | Progress Bar | Solved | Easy | Medium | Hard |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| **LeetCode** | `████████████████████` | **807** | 354 | 369 | 84 |
+| **LeetCode** | `████████████████████` | **808** | 354 | 369 | 85 |
 | **GeeksforGeeks** | `░░░░░░░░░░░░░░░░░░░░` | **2** | 1 | 1 | 0 |
 | **HackerRank** | `░░░░░░░░░░░░░░░░░░░░` | **1** | 1 | 0 | 0 |
 | **Topic-wise / Custom** | - | **0** | 0 | 0 | 0 |
-| **Total Progress** | `████████████████████` | **810** | **356** | **370** | **84** |
+| **Total Progress** | `████████████████████` | **811** | **356** | **370** | **85** |
 
-**Languages Used:** `CPP (791)`, `MYSQL (9)`, `JAVASCRIPT (6)`, `JAVA (4)`, `C (2)`, `PYTHON (1)`
+**Languages Used:** `CPP (792)`, `MYSQL (9)`, `JAVASCRIPT (6)`, `JAVA (4)`, `C (2)`, `PYTHON (1)`
 
-**LeetCode Ranking:** #62,146 · **Contest Rating:** 1449.4 · **Contests Attended:** 9 · **Top:** 62.71%
+**LeetCode Ranking:** #61,983 · **Contest Rating:** 1449.4 · **Contests Attended:** 9 · **Top:** 62.71%
 <!--END_SECTION:leetcode-stats-->
 
 > [!TIP]
@@ -46,6 +46,9 @@ Below are the solved problems categorized by platform.
 
 | Date | Platform | Problem | Difficulty | Languages | Link | 
 | :---: | :--- | :--- | :---: | :---: | :---: |
+| 2026-07-18 | LeetCode | 209. Minimum Size Subarray Sum | 🟡 Medium | CPP | [Solution](./leetcode/Medium/209-minimum-size-subarray-sum) / [Problem Link](https://leetcode.com/problems/minimum-size-subarray-sum/) |
+| 2026-07-18 | LeetCode | 1979. Find Greatest Common Divisor of Array | 🟢 Easy | CPP | [Solution](./leetcode/Easy/1979-find-greatest-common-divisor-of-array) / [Problem Link](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) |
+| 2026-07-17 | LeetCode | 3312. Sorted GCD Pair Queries | 🔴 Hard | CPP | [Solution](./leetcode/Hard/3312-sorted-gcd-pair-queries) / [Problem Link](https://leetcode.com/problems/sorted-gcd-pair-queries/) |
 | 2026-07-16 | LeetCode | 3867. Sum of GCD of Formed Pairs | 🟡 Medium | CPP | [Solution](./leetcode/Medium/3867-sum-of-gcd-of-formed-pairs) / [Problem Link](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) |
 | 2026-07-16 | LeetCode | 47. Permutations II | 🟡 Medium | CPP | [Solution](./leetcode/Medium/47-permutations-ii) / [Problem Link](https://leetcode.com/problems/permutations-ii/) |
 | 2026-07-16 | LeetCode | 3658. GCD of Odd and Even Sums | 🟢 Easy | CPP | [Solution](./leetcode/Easy/3658-gcd-of-odd-and-even-sums) / [Problem Link](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) |
@@ -53,14 +56,11 @@ Below are the solved problems categorized by platform.
 | 2026-07-14 | LeetCode | 3336. Find the Number of Subsequences With Equal GCD | 🔴 Hard | CPP | [Solution](./leetcode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd) / [Problem Link](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/) |
 | 2026-07-14 | GeeksforGeeks | Subarray with given sum | 🟡 Medium | JAVA | [Solution](./geeksforgeeks/Medium/subarray-with-given-sum) / [Problem Link](https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1) |
 | 2026-07-13 | LeetCode | 1291. Sequential Digits | 🟡 Medium | CPP | [Solution](./leetcode/Medium/1291-sequential-digits) / [Problem Link](https://leetcode.com/problems/sequential-digits/) |
-| 2026-07-12 | LeetCode | 68. Text Justification | 🔴 Hard | CPP | [Solution](./leetcode/Hard/68-text-justification) / [Problem Link](https://leetcode.com/problems/text-justification/) |
-| 2026-07-12 | LeetCode | 87. Scramble String | 🔴 Hard | CPP | [Solution](./leetcode/Hard/87-scramble-string) / [Problem Link](https://leetcode.com/problems/scramble-string/) |
-| 2026-07-12 | LeetCode | 1331. Rank Transform of an Array | 🟢 Easy | CPP | [Solution](./leetcode/Easy/1331-rank-transform-of-an-array) / [Problem Link](https://leetcode.com/problems/rank-transform-of-an-array/) |
 
 ---
 
 <details>
-<summary><b>📂 LeetCode Solutions (807)</b></summary>
+<summary><b>📂 LeetCode Solutions (808)</b></summary>
 
 | ID | Problem Title | Difficulty | Languages | Solutions |
 | :---: | :--- | :---: | :---: | :--- |
@@ -766,6 +766,7 @@ Below are the solved problems categorized by platform.
 | 3286 | Find a Safe Walk Through a Grid | 🟡 Medium | [`CPP`](./leetcode/Medium/3286-find-a-safe-walk-through-a-grid) | [Problem Description](./leetcode/Medium/3286-find-a-safe-walk-through-a-grid/README.md) | [External Link](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) |
 | 3296 | Minimum Number of Seconds to Make Mountain Height Zero | 🟡 Medium | [`CPP`](./leetcode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero) | [Problem Description](./leetcode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/README.md) | [External Link](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/) |
 | 3300 | Minimum Element After Replacement With Digit Sum | 🟢 Easy | [`CPP`](./leetcode/Easy/3300-minimum-element-after-replacement-with-digit-sum) | [Problem Description](./leetcode/Easy/3300-minimum-element-after-replacement-with-digit-sum/README.md) | [External Link](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) |
+| 3312 | Sorted GCD Pair Queries | 🔴 Hard | [`CPP`](./leetcode/Hard/3312-sorted-gcd-pair-queries) | [Problem Description](./leetcode/Hard/3312-sorted-gcd-pair-queries/README.md) | [External Link](https://leetcode.com/problems/sorted-gcd-pair-queries/) |
 | 3318 | Find X-Sum of All K-Long Subarrays I | 🟢 Easy | [`CPP`](./leetcode/Easy/3318-find-x-sum-of-all-k-long-subarrays-i) | [Problem Description](./leetcode/Easy/3318-find-x-sum-of-all-k-long-subarrays-i/README.md) | [External Link](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/) |
 | 3336 | Find the Number of Subsequences With Equal GCD | 🔴 Hard | [`CPP`](./leetcode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd) | [Problem Description](./leetcode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/README.md) | [External Link](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/) |
 | 3340 | Check Balanced String | 🟢 Easy | [`CPP`](./leetcode/Easy/3340-check-balanced-string) | [Problem Description](./leetcode/Easy/3340-check-balanced-string/README.md) | [External Link](https://leetcode.com/problems/check-balanced-string/) |

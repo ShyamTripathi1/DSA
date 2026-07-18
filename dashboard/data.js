@@ -1,11 +1,11 @@
 const dashboardData = {
   "stats": {
-    "total": 810,
+    "total": 811,
     "leetcode": {
-      "total": 807,
+      "total": 808,
       "Easy": 354,
       "Medium": 369,
-      "Hard": 84
+      "Hard": 85
     },
     "geeksforgeeks": {
       "total": 2,
@@ -26,7 +26,7 @@ const dashboardData = {
       "Hard": 0
     },
     "languages": {
-      "cpp": 791,
+      "cpp": 792,
       "java": 4,
       "python": 1,
       "javascript": 6,
@@ -35,6 +35,63 @@ const dashboardData = {
     }
   },
   "problems": [
+    {
+      "id": "209",
+      "title": "Minimum Size Subarray Sum",
+      "url": "https://leetcode.com/problems/minimum-size-subarray-sum/",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Binary Search",
+        "Sliding Window",
+        "Prefix Sum"
+      ],
+      "solved_date": "2026-07-18",
+      "languages": [
+        "cpp"
+      ],
+      "path": "leetcode/Medium/209-minimum-size-subarray-sum"
+    },
+    {
+      "id": "1979",
+      "title": "Find Greatest Common Divisor of Array",
+      "url": "https://leetcode.com/problems/find-greatest-common-divisor-of-array/",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Math",
+        "Number Theory"
+      ],
+      "solved_date": "2026-07-18",
+      "languages": [
+        "cpp"
+      ],
+      "path": "leetcode/Easy/1979-find-greatest-common-divisor-of-array"
+    },
+    {
+      "id": "3312",
+      "title": "Sorted GCD Pair Queries",
+      "url": "https://leetcode.com/problems/sorted-gcd-pair-queries/",
+      "platform": "LeetCode",
+      "difficulty": "Hard",
+      "tags": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Binary Search",
+        "Combinatorics",
+        "Counting",
+        "Number Theory",
+        "Prefix Sum"
+      ],
+      "solved_date": "2026-07-17",
+      "languages": [
+        "cpp"
+      ],
+      "path": "leetcode/Hard/3312-sorted-gcd-pair-queries"
+    },
     {
       "id": "3867",
       "title": "Sum of GCD of Formed Pairs",
@@ -10198,23 +10255,6 @@ const dashboardData = {
       "path": "leetcode/Easy/412-fizz-buzz"
     },
     {
-      "id": "1979",
-      "title": "Find Greatest Common Divisor of Array",
-      "url": "https://leetcode.com/problems/find-greatest-common-divisor-of-array/",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "tags": [
-        "Array",
-        "Math",
-        "Number Theory"
-      ],
-      "solved_date": "2025-09-08",
-      "languages": [
-        "cpp"
-      ],
-      "path": "leetcode/Easy/1979-find-greatest-common-divisor-of-array"
-    },
-    {
       "id": "1317",
       "title": "Convert Integer to the Sum of Two No-Zero Integers",
       "url": "https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/",
@@ -10567,24 +10607,6 @@ const dashboardData = {
         "cpp"
       ],
       "path": "leetcode/Medium/713-subarray-product-less-than-k"
-    },
-    {
-      "id": "209",
-      "title": "Minimum Size Subarray Sum",
-      "url": "https://leetcode.com/problems/minimum-size-subarray-sum/",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "tags": [
-        "Array",
-        "Binary Search",
-        "Sliding Window",
-        "Prefix Sum"
-      ],
-      "solved_date": "2025-09-04",
-      "languages": [
-        "cpp"
-      ],
-      "path": "leetcode/Medium/209-minimum-size-subarray-sum"
     },
     {
       "id": "3516",
@@ -13851,5 +13873,5 @@ const dashboardData = {
       "path": "leetcode/Medium/2-add-two-numbers"
     }
   ],
-  "last_updated": "2026-07-17 19:40:23"
+  "last_updated": "2026-07-18 19:41:40"
 };
