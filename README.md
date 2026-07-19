@@ -17,7 +17,7 @@ Welcome to my central repository for Data Structures, Algorithms, and coding cha
 
 **Languages Used:** `CPP (792)`, `MYSQL (9)`, `JAVASCRIPT (6)`, `JAVA (4)`, `C (2)`, `PYTHON (1)`
 
-**LeetCode Ranking:** #62,055 · **Contest Rating:** 1489 · **Contests Attended:** 9 · **Top:** 62.71%
+**LeetCode Ranking:** 62,055 · **Contest Rating:** 1489 · **Contests Attended:** 9 · **Top:** 62.71%
 <!--END_SECTION:leetcode-stats-->
 
 > [!TIP]
