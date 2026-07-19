@@ -13,9 +13,7 @@ Welcome to my central repository for Data Structures, Algorithms, and coding cha
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | **LeetCode** | `████████████████████` | **809** | 354 | 370 | 85 |
 | **GeeksforGeeks** | `░░░░░░░░░░░░░░░░░░░░` | **117** | 53 | 55 | 9 |
-| **HackerRank** | `░░░░░░░░░░░░░░░░░░░░` | **1** | 1 | 0 | 0 |
-| **Topic-wise / Custom** | - | **0** | 0 | 0 | 0 |
-| **Total Progress** | `████████████████████` | **811** | **356** | **370** | **85** |
+| **Total Progress** | `████████████████████` | **926** | **407** | **425** | **94** |
 
 **Languages Used:** `CPP (792)`, `MYSQL (9)`, `JAVASCRIPT (6)`, `JAVA (4)`, `C (2)`, `PYTHON (1)`
 
