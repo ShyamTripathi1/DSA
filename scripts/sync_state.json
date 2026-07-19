@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-07-18T19:41:40.021577+00:00",
+  "last_sync": "2026-07-19T19:40:30.818125+00:00",
   "problems": {
     "sum-of-gcd-of-formed-pairs": {
       "last_submission_id": "2069644085",
@@ -3048,8 +3048,8 @@
       ]
     },
     "fruit-into-baskets": {
-      "last_submission_id": "1822150066",
-      "last_timestamp": 1762408726,
+      "last_submission_id": "2073811489",
+      "last_timestamp": 1784485418,
       "languages": [
         "cpp"
       ]
@@ -5659,15 +5659,22 @@
       "languages": [
         "cpp"
       ]
+    },
+    "smallest-subsequence-of-distinct-characters": {
+      "last_submission_id": "2073555439",
+      "last_timestamp": 1784470987,
+      "languages": [
+        "cpp"
+      ]
     }
   },
   "profile": {
     "username": "ShyamTripathi12",
-    "ranking": 61983,
+    "ranking": 62055,
     "solved_stats": {
-      "All": 808,
+      "All": 809,
       "Easy": 354,
-      "Medium": 369,
+      "Medium": 370,
       "Hard": 85
     },
     "contest": {

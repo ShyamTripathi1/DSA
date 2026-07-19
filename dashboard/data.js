@@ -1,10 +1,10 @@
 const dashboardData = {
   "stats": {
-    "total": 811,
+    "total": 812,
     "leetcode": {
-      "total": 808,
+      "total": 809,
       "Easy": 354,
-      "Medium": 369,
+      "Medium": 370,
       "Hard": 85
     },
     "geeksforgeeks": {
@@ -26,7 +26,7 @@ const dashboardData = {
       "Hard": 0
     },
     "languages": {
-      "cpp": 792,
+      "cpp": 793,
       "java": 4,
       "python": 1,
       "javascript": 6,
@@ -35,6 +35,41 @@ const dashboardData = {
     }
   },
   "problems": [
+    {
+      "id": "1081",
+      "title": "Smallest Subsequence of Distinct Characters",
+      "url": "https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "tags": [
+        "String",
+        "Stack",
+        "Greedy",
+        "Monotonic Stack"
+      ],
+      "solved_date": "2026-07-19",
+      "languages": [
+        "cpp"
+      ],
+      "path": "leetcode/Medium/1081-smallest-subsequence-of-distinct-characters"
+    },
+    {
+      "id": "904",
+      "title": "Fruit Into Baskets",
+      "url": "https://leetcode.com/problems/fruit-into-baskets/",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Hash Table",
+        "Sliding Window"
+      ],
+      "solved_date": "2026-07-19",
+      "languages": [
+        "cpp"
+      ],
+      "path": "leetcode/Medium/904-fruit-into-baskets"
+    },
     {
       "id": "209",
       "title": "Minimum Size Subarray Sum",
@@ -7583,23 +7618,6 @@ const dashboardData = {
       "path": "leetcode/Medium/930-binary-subarrays-with-sum"
     },
     {
-      "id": "904",
-      "title": "Fruit Into Baskets",
-      "url": "https://leetcode.com/problems/fruit-into-baskets/",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "tags": [
-        "Array",
-        "Hash Table",
-        "Sliding Window"
-      ],
-      "solved_date": "2025-11-06",
-      "languages": [
-        "cpp"
-      ],
-      "path": "leetcode/Medium/904-fruit-into-baskets"
-    },
-    {
       "id": "1004",
       "title": "Max Consecutive Ones III",
       "url": "https://leetcode.com/problems/max-consecutive-ones-iii/",
@@ -13873,5 +13891,5 @@ const dashboardData = {
       "path": "leetcode/Medium/2-add-two-numbers"
     }
   ],
-  "last_updated": "2026-07-18 19:41:40"
+  "last_updated": "2026-07-19 19:40:30"
 };

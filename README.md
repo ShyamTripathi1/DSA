@@ -12,12 +12,14 @@ Welcome to my central repository for Data Structures, Algorithms, and coding cha
 | Platform | Progress Bar | Solved | Easy | Medium | Hard |
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | **LeetCode** | `████████████████████` | **809** | 354 | 370 | 85 |
-| **GeeksforGeeks** | `░░░░░░░░░░░░░░░░░░░░` | **117** | 53 | 55 | 9 |
-| **Total Progress** | `████████████████████` | **926** | **407** | **425** | **94** |
+| **GeeksforGeeks** | `░░░░░░░░░░░░░░░░░░░░` | **2** | 1 | 1 | 0 |
+| **HackerRank** | `░░░░░░░░░░░░░░░░░░░░` | **1** | 1 | 0 | 0 |
+| **Topic-wise / Custom** | - | **0** | 0 | 0 | 0 |
+| **Total Progress** | `████████████████████` | **812** | **356** | **371** | **85** |
 
-**Languages Used:** `CPP (792)`, `MYSQL (9)`, `JAVASCRIPT (6)`, `JAVA (4)`, `C (2)`, `PYTHON (1)`
+**Languages Used:** `CPP (793)`, `MYSQL (9)`, `JAVASCRIPT (6)`, `JAVA (4)`, `C (2)`, `PYTHON (1)`
 
-**LeetCode Ranking:** 62,055 · **Contest Rating:** 1489 · **Contests Attended:** 9 · **Top:** 62.71%
+**LeetCode Ranking:** #62,055 · **Contest Rating:** 1449.4 · **Contests Attended:** 9 · **Top:** 62.71%
 <!--END_SECTION:leetcode-stats-->
 
 > [!TIP]
@@ -44,6 +46,8 @@ Below are the solved problems categorized by platform.
 
 | Date | Platform | Problem | Difficulty | Languages | Link | 
 | :---: | :--- | :--- | :---: | :---: | :---: |
+| 2026-07-19 | LeetCode | 1081. Smallest Subsequence of Distinct Characters | 🟡 Medium | CPP | [Solution](./leetcode/Medium/1081-smallest-subsequence-of-distinct-characters) / [Problem Link](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) |
+| 2026-07-19 | LeetCode | 904. Fruit Into Baskets | 🟡 Medium | CPP | [Solution](./leetcode/Medium/904-fruit-into-baskets) / [Problem Link](https://leetcode.com/problems/fruit-into-baskets/) |
 | 2026-07-18 | LeetCode | 209. Minimum Size Subarray Sum | 🟡 Medium | CPP | [Solution](./leetcode/Medium/209-minimum-size-subarray-sum) / [Problem Link](https://leetcode.com/problems/minimum-size-subarray-sum/) |
 | 2026-07-18 | LeetCode | 1979. Find Greatest Common Divisor of Array | 🟢 Easy | CPP | [Solution](./leetcode/Easy/1979-find-greatest-common-divisor-of-array) / [Problem Link](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) |
 | 2026-07-17 | LeetCode | 3312. Sorted GCD Pair Queries | 🔴 Hard | CPP | [Solution](./leetcode/Hard/3312-sorted-gcd-pair-queries) / [Problem Link](https://leetcode.com/problems/sorted-gcd-pair-queries/) |
@@ -52,8 +56,6 @@ Below are the solved problems categorized by platform.
 | 2026-07-16 | LeetCode | 3658. GCD of Odd and Even Sums | 🟢 Easy | CPP | [Solution](./leetcode/Easy/3658-gcd-of-odd-and-even-sums) / [Problem Link](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) |
 | 2026-07-14 | LeetCode | 300. Longest Increasing Subsequence | 🟡 Medium | CPP | [Solution](./leetcode/Medium/300-longest-increasing-subsequence) / [Problem Link](https://leetcode.com/problems/longest-increasing-subsequence/) |
 | 2026-07-14 | LeetCode | 3336. Find the Number of Subsequences With Equal GCD | 🔴 Hard | CPP | [Solution](./leetcode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd) / [Problem Link](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/) |
-| 2026-07-14 | GeeksforGeeks | Subarray with given sum | 🟡 Medium | JAVA | [Solution](./geeksforgeeks/Medium/subarray-with-given-sum) / [Problem Link](https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1) |
-| 2026-07-13 | LeetCode | 1291. Sequential Digits | 🟡 Medium | CPP | [Solution](./leetcode/Medium/1291-sequential-digits) / [Problem Link](https://leetcode.com/problems/sequential-digits/) |
 
 ---
 
@@ -462,6 +464,7 @@ Below are the solved problems categorized by platform.
 | 1046 | Last Stone Weight | 🟢 Easy | [`CPP`](./leetcode/Easy/1046-last-stone-weight) | [Problem Description](./leetcode/Easy/1046-last-stone-weight/README.md) | [External Link](https://leetcode.com/problems/last-stone-weight/) |
 | 1047 | Remove All Adjacent Duplicates In String | 🟢 Easy | [`CPP`](./leetcode/Easy/1047-remove-all-adjacent-duplicates-in-string) | [Problem Description](./leetcode/Easy/1047-remove-all-adjacent-duplicates-in-string/README.md) | [External Link](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) |
 | 1054 | Distant Barcodes | 🟡 Medium | [`CPP`](./leetcode/Medium/1054-distant-barcodes) | [Problem Description](./leetcode/Medium/1054-distant-barcodes/README.md) | [External Link](https://leetcode.com/problems/distant-barcodes/) |
+| 1081 | Smallest Subsequence of Distinct Characters | 🟡 Medium | [`CPP`](./leetcode/Medium/1081-smallest-subsequence-of-distinct-characters) | [Problem Description](./leetcode/Medium/1081-smallest-subsequence-of-distinct-characters/README.md) | [External Link](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) |
 | 1089 | Duplicate Zeros | 🟢 Easy | [`CPP`](./leetcode/Easy/1089-duplicate-zeros) | [Problem Description](./leetcode/Easy/1089-duplicate-zeros/README.md) | [External Link](https://leetcode.com/problems/duplicate-zeros/) |
 | 1091 | Shortest Path in Binary Matrix | 🟡 Medium | [`CPP`](./leetcode/Medium/1091-shortest-path-in-binary-matrix) | [Problem Description](./leetcode/Medium/1091-shortest-path-in-binary-matrix/README.md) | [External Link](https://leetcode.com/problems/shortest-path-in-binary-matrix/) |
 | 1108 | Defanging an IP Address | 🟢 Easy | [`CPP`](./leetcode/Easy/1108-defanging-an-ip-address) | [Problem Description](./leetcode/Easy/1108-defanging-an-ip-address/README.md) | [External Link](https://leetcode.com/problems/defanging-an-ip-address/) |
@@ -874,7 +877,7 @@ Below are the solved problems categorized by platform.
 </details>
 
 <details>
-<summary><b>📂 GeeksforGeeks Solutions (117)</b></summary>
+<summary><b>📂 GeeksforGeeks Solutions (2)</b></summary>
 
 | ID | Problem Title | Difficulty | Languages | Solutions |
 | :---: | :--- | :---: | :---: | :--- |
@@ -884,7 +887,7 @@ Below are the solved problems categorized by platform.
 </details>
 
 <details>
-
+<summary><b>📂 HackerRank Solutions (1)</b></summary>
 
 | ID | Problem Title | Difficulty | Languages | Solutions |
 | :---: | :--- | :---: | :---: | :--- |
