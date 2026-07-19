@@ -874,7 +874,7 @@ Below are the solved problems categorized by platform.
 </details>
 
 <details>
-<summary><b>📂 GeeksforGeeks Solutions (2)</b></summary>
+<summary><b>📂 GeeksforGeeks Solutions (117)</b></summary>
 
 | ID | Problem Title | Difficulty | Languages | Solutions |
 | :---: | :--- | :---: | :---: | :--- |
@@ -884,7 +884,7 @@ Below are the solved problems categorized by platform.
 </details>
 
 <details>
-<summary><b>📂 HackerRank Solutions (1)</b></summary>
+
 
 | ID | Problem Title | Difficulty | Languages | Solutions |
 | :---: | :--- | :---: | :---: | :--- |
