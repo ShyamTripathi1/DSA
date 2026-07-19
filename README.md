@@ -58,7 +58,7 @@ Below are the solved problems categorized by platform.
 ---
 
 <details>
-<summary><b>📂 LeetCode Solutions (808)</b></summary>
+<summary><b>📂 LeetCode Solutions (809)</b></summary>
 
 | ID | Problem Title | Difficulty | Languages | Solutions |
 | :---: | :--- | :---: | :---: | :--- |
