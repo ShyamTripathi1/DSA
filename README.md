@@ -11,15 +11,15 @@ Welcome to my central repository for Data Structures, Algorithms, and coding cha
 <!--START_SECTION:leetcode-stats-->
 | Platform | Progress Bar | Solved | Easy | Medium | Hard |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| **LeetCode** | `████████████████████` | **809** | 354 | 370 | 85 |
+| **LeetCode** | `████████████████████` | **810** | 355 | 370 | 85 |
 | **GeeksforGeeks** | `░░░░░░░░░░░░░░░░░░░░` | **2** | 1 | 1 | 0 |
 | **HackerRank** | `░░░░░░░░░░░░░░░░░░░░` | **1** | 1 | 0 | 0 |
 | **Topic-wise / Custom** | - | **0** | 0 | 0 | 0 |
-| **Total Progress** | `████████████████████` | **812** | **356** | **371** | **85** |
+| **Total Progress** | `████████████████████` | **813** | **357** | **371** | **85** |
 
-**Languages Used:** `CPP (793)`, `MYSQL (9)`, `JAVASCRIPT (6)`, `JAVA (4)`, `C (2)`, `PYTHON (1)`
+**Languages Used:** `CPP (794)`, `MYSQL (9)`, `JAVASCRIPT (6)`, `JAVA (4)`, `C (2)`, `PYTHON (1)`
 
-**LeetCode Ranking:** #62,055 · **Contest Rating:** 1449.4 · **Contests Attended:** 9 · **Top:** 62.71%
+**LeetCode Ranking:** #61,678 · **Contest Rating:** 1449.4 · **Contests Attended:** 9 · **Top:** 62.71%
 <!--END_SECTION:leetcode-stats-->
 
 > [!TIP]
@@ -46,21 +46,21 @@ Below are the solved problems categorized by platform.
 
 | Date | Platform | Problem | Difficulty | Languages | Link | 
 | :---: | :--- | :--- | :---: | :---: | :---: |
+| 2026-07-20 | LeetCode | 1260. Shift 2D Grid | 🟢 Easy | CPP | [Solution](./leetcode/Easy/1260-shift-2d-grid) / [Problem Link](https://leetcode.com/problems/shift-2d-grid/) |
+| 2026-07-20 | LeetCode | 209. Minimum Size Subarray Sum | 🟡 Medium | CPP | [Solution](./leetcode/Medium/209-minimum-size-subarray-sum) / [Problem Link](https://leetcode.com/problems/minimum-size-subarray-sum/) |
+| 2026-07-20 | LeetCode | 532. K-diff Pairs in an Array | 🟡 Medium | CPP | [Solution](./leetcode/Medium/532-k-diff-pairs-in-an-array) / [Problem Link](https://leetcode.com/problems/k-diff-pairs-in-an-array/) |
 | 2026-07-19 | LeetCode | 1081. Smallest Subsequence of Distinct Characters | 🟡 Medium | CPP | [Solution](./leetcode/Medium/1081-smallest-subsequence-of-distinct-characters) / [Problem Link](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) |
 | 2026-07-19 | LeetCode | 904. Fruit Into Baskets | 🟡 Medium | CPP | [Solution](./leetcode/Medium/904-fruit-into-baskets) / [Problem Link](https://leetcode.com/problems/fruit-into-baskets/) |
-| 2026-07-18 | LeetCode | 209. Minimum Size Subarray Sum | 🟡 Medium | CPP | [Solution](./leetcode/Medium/209-minimum-size-subarray-sum) / [Problem Link](https://leetcode.com/problems/minimum-size-subarray-sum/) |
 | 2026-07-18 | LeetCode | 1979. Find Greatest Common Divisor of Array | 🟢 Easy | CPP | [Solution](./leetcode/Easy/1979-find-greatest-common-divisor-of-array) / [Problem Link](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) |
 | 2026-07-17 | LeetCode | 3312. Sorted GCD Pair Queries | 🔴 Hard | CPP | [Solution](./leetcode/Hard/3312-sorted-gcd-pair-queries) / [Problem Link](https://leetcode.com/problems/sorted-gcd-pair-queries/) |
 | 2026-07-16 | LeetCode | 3867. Sum of GCD of Formed Pairs | 🟡 Medium | CPP | [Solution](./leetcode/Medium/3867-sum-of-gcd-of-formed-pairs) / [Problem Link](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) |
 | 2026-07-16 | LeetCode | 47. Permutations II | 🟡 Medium | CPP | [Solution](./leetcode/Medium/47-permutations-ii) / [Problem Link](https://leetcode.com/problems/permutations-ii/) |
 | 2026-07-16 | LeetCode | 3658. GCD of Odd and Even Sums | 🟢 Easy | CPP | [Solution](./leetcode/Easy/3658-gcd-of-odd-and-even-sums) / [Problem Link](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) |
-| 2026-07-14 | LeetCode | 300. Longest Increasing Subsequence | 🟡 Medium | CPP | [Solution](./leetcode/Medium/300-longest-increasing-subsequence) / [Problem Link](https://leetcode.com/problems/longest-increasing-subsequence/) |
-| 2026-07-14 | LeetCode | 3336. Find the Number of Subsequences With Equal GCD | 🔴 Hard | CPP | [Solution](./leetcode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd) / [Problem Link](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/) |
 
 ---
 
 <details>
-<summary><b>📂 LeetCode Solutions (809)</b></summary>
+<summary><b>📂 LeetCode Solutions (810)</b></summary>
 
 | ID | Problem Title | Difficulty | Languages | Solutions |
 | :---: | :--- | :---: | :---: | :--- |
@@ -479,6 +479,7 @@ Below are the solved problems categorized by platform.
 | 1248 | Count Number of Nice Subarrays | 🟡 Medium | [`CPP`](./leetcode/Medium/1248-count-number-of-nice-subarrays) | [Problem Description](./leetcode/Medium/1248-count-number-of-nice-subarrays/README.md) | [External Link](https://leetcode.com/problems/count-number-of-nice-subarrays/) |
 | 1250 | Check If It Is a Good Array | 🔴 Hard | [`CPP`](./leetcode/Hard/1250-check-if-it-is-a-good-array) | [Problem Description](./leetcode/Hard/1250-check-if-it-is-a-good-array/README.md) | [External Link](https://leetcode.com/problems/check-if-it-is-a-good-array/) |
 | 1254 | Number of Closed Islands | 🟡 Medium | [`CPP`](./leetcode/Medium/1254-number-of-closed-islands) | [Problem Description](./leetcode/Medium/1254-number-of-closed-islands/README.md) | [External Link](https://leetcode.com/problems/number-of-closed-islands/) |
+| 1260 | Shift 2D Grid | 🟢 Easy | [`CPP`](./leetcode/Easy/1260-shift-2d-grid) | [Problem Description](./leetcode/Easy/1260-shift-2d-grid/README.md) | [External Link](https://leetcode.com/problems/shift-2d-grid/) |
 | 1266 | Minimum Time Visiting All Points | 🟢 Easy | [`CPP`](./leetcode/Easy/1266-minimum-time-visiting-all-points) | [Problem Description](./leetcode/Easy/1266-minimum-time-visiting-all-points/README.md) | [External Link](https://leetcode.com/problems/minimum-time-visiting-all-points/) |
 | 1267 | Count Servers that Communicate | 🟡 Medium | [`CPP`](./leetcode/Medium/1267-count-servers-that-communicate) | [Problem Description](./leetcode/Medium/1267-count-servers-that-communicate/README.md) | [External Link](https://leetcode.com/problems/count-servers-that-communicate/) |
 | 1281 | Subtract the Product and Sum of Digits of an Integer | 🟢 Easy | [`CPP`](./leetcode/Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer) | [Problem Description](./leetcode/Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer/README.md) | [External Link](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) |

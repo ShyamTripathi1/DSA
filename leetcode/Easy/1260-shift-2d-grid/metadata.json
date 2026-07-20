@@ -1,0 +1,16 @@
+{
+  "id": "1260",
+  "title": "Shift 2D Grid",
+  "url": "https://leetcode.com/problems/shift-2d-grid/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Matrix",
+    "Simulation"
+  ],
+  "solved_date": "2026-07-20",
+  "languages": [
+    "cpp"
+  ]
+}

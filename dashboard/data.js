@@ -1,9 +1,9 @@
 const dashboardData = {
   "stats": {
-    "total": 812,
+    "total": 813,
     "leetcode": {
-      "total": 809,
-      "Easy": 354,
+      "total": 810,
+      "Easy": 355,
       "Medium": 370,
       "Hard": 85
     },
@@ -26,7 +26,7 @@ const dashboardData = {
       "Hard": 0
     },
     "languages": {
-      "cpp": 793,
+      "cpp": 794,
       "java": 4,
       "python": 1,
       "javascript": 6,
@@ -35,6 +35,60 @@ const dashboardData = {
     }
   },
   "problems": [
+    {
+      "id": "1260",
+      "title": "Shift 2D Grid",
+      "url": "https://leetcode.com/problems/shift-2d-grid/",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ],
+      "solved_date": "2026-07-20",
+      "languages": [
+        "cpp"
+      ],
+      "path": "leetcode/Easy/1260-shift-2d-grid"
+    },
+    {
+      "id": "209",
+      "title": "Minimum Size Subarray Sum",
+      "url": "https://leetcode.com/problems/minimum-size-subarray-sum/",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Binary Search",
+        "Sliding Window",
+        "Prefix Sum"
+      ],
+      "solved_date": "2026-07-20",
+      "languages": [
+        "cpp"
+      ],
+      "path": "leetcode/Medium/209-minimum-size-subarray-sum"
+    },
+    {
+      "id": "532",
+      "title": "K-diff Pairs in an Array",
+      "url": "https://leetcode.com/problems/k-diff-pairs-in-an-array/",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Hash Table",
+        "Two Pointers",
+        "Binary Search",
+        "Sorting"
+      ],
+      "solved_date": "2026-07-20",
+      "languages": [
+        "cpp"
+      ],
+      "path": "leetcode/Medium/532-k-diff-pairs-in-an-array"
+    },
     {
       "id": "1081",
       "title": "Smallest Subsequence of Distinct Characters",
@@ -69,24 +123,6 @@ const dashboardData = {
         "cpp"
       ],
       "path": "leetcode/Medium/904-fruit-into-baskets"
-    },
-    {
-      "id": "209",
-      "title": "Minimum Size Subarray Sum",
-      "url": "https://leetcode.com/problems/minimum-size-subarray-sum/",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "tags": [
-        "Array",
-        "Binary Search",
-        "Sliding Window",
-        "Prefix Sum"
-      ],
-      "solved_date": "2026-07-18",
-      "languages": [
-        "cpp"
-      ],
-      "path": "leetcode/Medium/209-minimum-size-subarray-sum"
     },
     {
       "id": "1979",
@@ -4916,25 +4952,6 @@ const dashboardData = {
         "cpp"
       ],
       "path": "leetcode/Medium/3779-minimum-number-of-operations-to-have-distinct-elements"
-    },
-    {
-      "id": "532",
-      "title": "K-diff Pairs in an Array",
-      "url": "https://leetcode.com/problems/k-diff-pairs-in-an-array/",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "tags": [
-        "Array",
-        "Hash Table",
-        "Two Pointers",
-        "Binary Search",
-        "Sorting"
-      ],
-      "solved_date": "2026-02-05",
-      "languages": [
-        "cpp"
-      ],
-      "path": "leetcode/Medium/532-k-diff-pairs-in-an-array"
     },
     {
       "id": "1338",
@@ -13891,5 +13908,5 @@ const dashboardData = {
       "path": "leetcode/Medium/2-add-two-numbers"
     }
   ],
-  "last_updated": "2026-07-19 19:40:30"
+  "last_updated": "2026-07-20 20:06:47"
 };
