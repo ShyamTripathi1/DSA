@@ -1,0 +1,15 @@
+{
+  "id": "3499",
+  "title": "Maximize Active Section with Trade I",
+  "url": "https://leetcode.com/problems/maximize-active-section-with-trade-i/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "String",
+    "Enumeration"
+  ],
+  "solved_date": "2026-07-21",
+  "languages": [
+    "cpp"
+  ]
+}

@@ -11,15 +11,15 @@ Welcome to my central repository for Data Structures, Algorithms, and coding cha
 <!--START_SECTION:leetcode-stats-->
 | Platform | Progress Bar | Solved | Easy | Medium | Hard |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| **LeetCode** | `████████████████████` | **810** | 355 | 370 | 85 |
+| **LeetCode** | `████████████████████` | **811** | 355 | 371 | 85 |
 | **GeeksforGeeks** | `░░░░░░░░░░░░░░░░░░░░` | **2** | 1 | 1 | 0 |
 | **HackerRank** | `░░░░░░░░░░░░░░░░░░░░` | **1** | 1 | 0 | 0 |
 | **Topic-wise / Custom** | - | **0** | 0 | 0 | 0 |
-| **Total Progress** | `████████████████████` | **813** | **357** | **371** | **85** |
+| **Total Progress** | `████████████████████` | **814** | **357** | **372** | **85** |
 
-**Languages Used:** `CPP (794)`, `MYSQL (9)`, `JAVASCRIPT (6)`, `JAVA (4)`, `C (2)`, `PYTHON (1)`
+**Languages Used:** `CPP (795)`, `MYSQL (9)`, `JAVASCRIPT (6)`, `JAVA (4)`, `C (2)`, `PYTHON (1)`
 
-**LeetCode Ranking:** #61,678 · **Contest Rating:** 1449.4 · **Contests Attended:** 9 · **Top:** 62.71%
+**LeetCode Ranking:** #61,731 · **Contest Rating:** 1449.4 · **Contests Attended:** 9 · **Top:** 62.71%
 <!--END_SECTION:leetcode-stats-->
 
 > [!TIP]
@@ -46,6 +46,7 @@ Below are the solved problems categorized by platform.
 
 | Date | Platform | Problem | Difficulty | Languages | Link | 
 | :---: | :--- | :--- | :---: | :---: | :---: |
+| 2026-07-21 | LeetCode | 3499. Maximize Active Section with Trade I | 🟡 Medium | CPP | [Solution](./leetcode/Medium/3499-maximize-active-section-with-trade-i) / [Problem Link](https://leetcode.com/problems/maximize-active-section-with-trade-i/) |
 | 2026-07-20 | LeetCode | 1260. Shift 2D Grid | 🟢 Easy | CPP | [Solution](./leetcode/Easy/1260-shift-2d-grid) / [Problem Link](https://leetcode.com/problems/shift-2d-grid/) |
 | 2026-07-20 | LeetCode | 209. Minimum Size Subarray Sum | 🟡 Medium | CPP | [Solution](./leetcode/Medium/209-minimum-size-subarray-sum) / [Problem Link](https://leetcode.com/problems/minimum-size-subarray-sum/) |
 | 2026-07-20 | LeetCode | 532. K-diff Pairs in an Array | 🟡 Medium | CPP | [Solution](./leetcode/Medium/532-k-diff-pairs-in-an-array) / [Problem Link](https://leetcode.com/problems/k-diff-pairs-in-an-array/) |
@@ -55,12 +56,11 @@ Below are the solved problems categorized by platform.
 | 2026-07-17 | LeetCode | 3312. Sorted GCD Pair Queries | 🔴 Hard | CPP | [Solution](./leetcode/Hard/3312-sorted-gcd-pair-queries) / [Problem Link](https://leetcode.com/problems/sorted-gcd-pair-queries/) |
 | 2026-07-16 | LeetCode | 3867. Sum of GCD of Formed Pairs | 🟡 Medium | CPP | [Solution](./leetcode/Medium/3867-sum-of-gcd-of-formed-pairs) / [Problem Link](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) |
 | 2026-07-16 | LeetCode | 47. Permutations II | 🟡 Medium | CPP | [Solution](./leetcode/Medium/47-permutations-ii) / [Problem Link](https://leetcode.com/problems/permutations-ii/) |
-| 2026-07-16 | LeetCode | 3658. GCD of Odd and Even Sums | 🟢 Easy | CPP | [Solution](./leetcode/Easy/3658-gcd-of-odd-and-even-sums) / [Problem Link](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) |
 
 ---
 
 <details>
-<summary><b>📂 LeetCode Solutions (810)</b></summary>
+<summary><b>📂 LeetCode Solutions (811)</b></summary>
 
 | ID | Problem Title | Difficulty | Languages | Solutions |
 | :---: | :--- | :---: | :---: | :--- |
@@ -782,6 +782,7 @@ Below are the solved problems categorized by platform.
 | 3464 | Maximize the Distance Between Points on a Square | 🔴 Hard | [`CPP`](./leetcode/Hard/3464-maximize-the-distance-between-points-on-a-square) | [Problem Description](./leetcode/Hard/3464-maximize-the-distance-between-points-on-a-square/README.md) | [External Link](https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/) |
 | 3474 | Lexicographically Smallest Generated String | 🔴 Hard | [`CPP`](./leetcode/Hard/3474-lexicographically-smallest-generated-string) | [Problem Description](./leetcode/Hard/3474-lexicographically-smallest-generated-string/README.md) | [External Link](https://leetcode.com/problems/lexicographically-smallest-generated-string/) |
 | 3488 | Closest Equal Element Queries | 🟡 Medium | [`CPP`](./leetcode/Medium/3488-closest-equal-element-queries) | [Problem Description](./leetcode/Medium/3488-closest-equal-element-queries/README.md) | [External Link](https://leetcode.com/problems/closest-equal-element-queries/) |
+| 3499 | Maximize Active Section with Trade I | 🟡 Medium | [`CPP`](./leetcode/Medium/3499-maximize-active-section-with-trade-i) | [Problem Description](./leetcode/Medium/3499-maximize-active-section-with-trade-i/README.md) | [External Link](https://leetcode.com/problems/maximize-active-section-with-trade-i/) |
 | 3516 | Find Closest Person | 🟢 Easy | [`CPP`](./leetcode/Easy/3516-find-closest-person) | [Problem Description](./leetcode/Easy/3516-find-closest-person/README.md) | [External Link](https://leetcode.com/problems/find-closest-person/) |
 | 3527 | Find the Most Common Response | 🟡 Medium | [`CPP`](./leetcode/Medium/3527-find-the-most-common-response) | [Problem Description](./leetcode/Medium/3527-find-the-most-common-response/README.md) | [External Link](https://leetcode.com/problems/find-the-most-common-response/) |
 | 3532 | Path Existence Queries in a Graph I | 🟡 Medium | [`CPP`](./leetcode/Medium/3532-path-existence-queries-in-a-graph-i) | [Problem Description](./leetcode/Medium/3532-path-existence-queries-in-a-graph-i/README.md) | [External Link](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/) |

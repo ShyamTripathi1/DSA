@@ -1,10 +1,10 @@
 const dashboardData = {
   "stats": {
-    "total": 813,
+    "total": 814,
     "leetcode": {
-      "total": 810,
+      "total": 811,
       "Easy": 355,
-      "Medium": 370,
+      "Medium": 371,
       "Hard": 85
     },
     "geeksforgeeks": {
@@ -26,7 +26,7 @@ const dashboardData = {
       "Hard": 0
     },
     "languages": {
-      "cpp": 794,
+      "cpp": 795,
       "java": 4,
       "python": 1,
       "javascript": 6,
@@ -35,6 +35,22 @@ const dashboardData = {
     }
   },
   "problems": [
+    {
+      "id": "3499",
+      "title": "Maximize Active Section with Trade I",
+      "url": "https://leetcode.com/problems/maximize-active-section-with-trade-i/",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "tags": [
+        "String",
+        "Enumeration"
+      ],
+      "solved_date": "2026-07-21",
+      "languages": [
+        "cpp"
+      ],
+      "path": "leetcode/Medium/3499-maximize-active-section-with-trade-i"
+    },
     {
       "id": "1260",
       "title": "Shift 2D Grid",
@@ -13908,5 +13924,5 @@ const dashboardData = {
       "path": "leetcode/Medium/2-add-two-numbers"
     }
   ],
-  "last_updated": "2026-07-20 20:06:47"
+  "last_updated": "2026-07-21 20:00:31"
 };

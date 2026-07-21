@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-07-20T20:06:46.966028+00:00",
+  "last_sync": "2026-07-21T20:00:31.272320+00:00",
   "problems": {
     "sum-of-gcd-of-formed-pairs": {
       "last_submission_id": "2069644085",
@@ -5673,15 +5673,22 @@
       "languages": [
         "cpp"
       ]
+    },
+    "maximize-active-section-with-trade-i": {
+      "last_submission_id": "2076289994",
+      "last_timestamp": 1784659919,
+      "languages": [
+        "cpp"
+      ]
     }
   },
   "profile": {
     "username": "ShyamTripathi12",
-    "ranking": 61678,
+    "ranking": 61731,
     "solved_stats": {
-      "All": 810,
+      "All": 811,
       "Easy": 355,
-      "Medium": 370,
+      "Medium": 371,
       "Hard": 85
     },
     "contest": {
