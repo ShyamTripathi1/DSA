@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-07-21T20:00:31.272320+00:00",
+  "last_sync": "2026-07-22T19:53:04.048279+00:00",
   "problems": {
     "sum-of-gcd-of-formed-pairs": {
       "last_submission_id": "2069644085",
@@ -401,8 +401,8 @@
       ]
     },
     "move-zeroes": {
-      "last_submission_id": "2028771682",
-      "last_timestamp": 1781104749,
+      "last_submission_id": "2076993586",
+      "last_timestamp": 1784716756,
       "languages": [
         "cpp"
       ]
@@ -5680,16 +5680,30 @@
       "languages": [
         "cpp"
       ]
+    },
+    "maximize-active-section-with-trade-ii": {
+      "last_submission_id": "2077542222",
+      "last_timestamp": 1784744440,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold": {
+      "last_submission_id": "2077507985",
+      "last_timestamp": 1784742981,
+      "languages": [
+        "cpp"
+      ]
     }
   },
   "profile": {
     "username": "ShyamTripathi12",
-    "ranking": 61731,
+    "ranking": 61551,
     "solved_stats": {
-      "All": 811,
-      "Easy": 355,
-      "Medium": 371,
-      "Hard": 85
+      "All": 813,
+      "Easy": 354,
+      "Medium": 373,
+      "Hard": 86
     },
     "contest": {
       "rating": 1449.4,

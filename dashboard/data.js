@@ -1,11 +1,11 @@
 const dashboardData = {
   "stats": {
-    "total": 814,
+    "total": 816,
     "leetcode": {
-      "total": 811,
+      "total": 813,
       "Easy": 355,
-      "Medium": 371,
-      "Hard": 85
+      "Medium": 372,
+      "Hard": 86
     },
     "geeksforgeeks": {
       "total": 2,
@@ -26,7 +26,7 @@ const dashboardData = {
       "Hard": 0
     },
     "languages": {
-      "cpp": 795,
+      "cpp": 797,
       "java": 4,
       "python": 1,
       "javascript": 6,
@@ -35,6 +35,56 @@ const dashboardData = {
     }
   },
   "problems": [
+    {
+      "id": "1343",
+      "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+      "url": "https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Sliding Window"
+      ],
+      "solved_date": "2026-07-22",
+      "languages": [
+        "cpp"
+      ],
+      "path": "leetcode/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold"
+    },
+    {
+      "id": "283",
+      "title": "Move Zeroes",
+      "url": "https://leetcode.com/problems/move-zeroes/",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Two Pointers"
+      ],
+      "solved_date": "2026-07-22",
+      "languages": [
+        "cpp"
+      ],
+      "path": "leetcode/Easy/283-move-zeroes"
+    },
+    {
+      "id": "3501",
+      "title": "Maximize Active Section with Trade II",
+      "url": "https://leetcode.com/problems/maximize-active-section-with-trade-ii/",
+      "platform": "LeetCode",
+      "difficulty": "Hard",
+      "tags": [
+        "Array",
+        "String",
+        "Binary Search",
+        "Segment Tree"
+      ],
+      "solved_date": "2026-07-22",
+      "languages": [
+        "cpp"
+      ],
+      "path": "leetcode/Hard/3501-maximize-active-section-with-trade-ii"
+    },
     {
       "id": "3499",
       "title": "Maximize Active Section with Trade I",
@@ -1197,22 +1247,6 @@ const dashboardData = {
         "cpp"
       ],
       "path": "leetcode/Medium/48-rotate-image"
-    },
-    {
-      "id": "283",
-      "title": "Move Zeroes",
-      "url": "https://leetcode.com/problems/move-zeroes/",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "tags": [
-        "Array",
-        "Two Pointers"
-      ],
-      "solved_date": "2026-06-10",
-      "languages": [
-        "cpp"
-      ],
-      "path": "leetcode/Easy/283-move-zeroes"
     },
     {
       "id": "64",
@@ -13924,5 +13958,5 @@ const dashboardData = {
       "path": "leetcode/Medium/2-add-two-numbers"
     }
   ],
-  "last_updated": "2026-07-21 20:00:31"
+  "last_updated": "2026-07-22 19:53:04"
 };

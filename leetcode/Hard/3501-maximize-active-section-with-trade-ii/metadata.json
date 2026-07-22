@@ -1,0 +1,17 @@
+{
+  "id": "3501",
+  "title": "Maximize Active Section with Trade II",
+  "url": "https://leetcode.com/problems/maximize-active-section-with-trade-ii/",
+  "platform": "LeetCode",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "String",
+    "Binary Search",
+    "Segment Tree"
+  ],
+  "solved_date": "2026-07-22",
+  "languages": [
+    "cpp"
+  ]
+}
