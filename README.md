@@ -11,11 +11,11 @@ Welcome to my central repository for Data Structures, Algorithms, and coding cha
 <!--START_SECTION:leetcode-stats-->
 | Platform | Progress Bar | Solved | Easy | Medium | Hard |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| **LeetCode** | `████████████████████` | **811** | 355 | 371 | 85 |
-| **GeeksforGeeks** | `░░░░░░░░░░░░░░░░░░░░` | **2** | 1 | 1 | 0 |
-| **HackerRank** | `░░░░░░░░░░░░░░░░░░░░` | **1** | 1 | 0 | 0 |
+| **LeetCode** | `████████████████████` | **812** | 354 | 373 | 85 |
+| **GeeksforGeeks** | `░░░░░░░░░░░░░░░░░░░░` | **117** | 53 | 55 | 9 |
+
 | **Topic-wise / Custom** | - | **0** | 0 | 0 | 0 |
-| **Total Progress** | `████████████████████` | **814** | **357** | **372** | **85** |
+| **Total Progress** | `████████████████████` | **929** | **471** | **426** | **94** |
 
 **Languages Used:** `CPP (795)`, `MYSQL (9)`, `JAVASCRIPT (6)`, `JAVA (4)`, `C (2)`, `PYTHON (1)`
 
