@@ -1,0 +1,16 @@
+{
+  "id": "3513",
+  "title": "Number of Unique XOR Triplets I",
+  "url": "https://leetcode.com/problems/number-of-unique-xor-triplets-i/",
+  "platform": "LeetCode",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Math",
+    "Bit Manipulation"
+  ],
+  "solved_date": "2026-07-23",
+  "languages": [
+    "cpp"
+  ]
+}

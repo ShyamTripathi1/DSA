@@ -11,15 +11,15 @@ Welcome to my central repository for Data Structures, Algorithms, and coding cha
 <!--START_SECTION:leetcode-stats-->
 | Platform | Progress Bar | Solved | Easy | Medium | Hard |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| **LeetCode** | `████████████████████` | **813** | 355 | 372 | 86 |
+| **LeetCode** | `████████████████████` | **814** | 355 | 373 | 86 |
 | **GeeksforGeeks** | `░░░░░░░░░░░░░░░░░░░░` | **2** | 1 | 1 | 0 |
 | **HackerRank** | `░░░░░░░░░░░░░░░░░░░░` | **1** | 1 | 0 | 0 |
 | **Topic-wise / Custom** | - | **0** | 0 | 0 | 0 |
-| **Total Progress** | `████████████████████` | **816** | **357** | **373** | **86** |
+| **Total Progress** | `████████████████████` | **817** | **357** | **374** | **86** |
 
-**Languages Used:** `CPP (797)`, `MYSQL (9)`, `JAVASCRIPT (6)`, `JAVA (4)`, `C (2)`, `PYTHON (1)`
+**Languages Used:** `CPP (798)`, `MYSQL (9)`, `JAVASCRIPT (6)`, `JAVA (4)`, `C (2)`, `PYTHON (1)`
 
-**LeetCode Ranking:** #61,551 · **Contest Rating:** 1449.4 · **Contests Attended:** 9 · **Top:** 62.71%
+**LeetCode Ranking:** #61,169 · **Contest Rating:** 1449.4 · **Contests Attended:** 9 · **Top:** 62.71%
 <!--END_SECTION:leetcode-stats-->
 
 > [!TIP]
@@ -46,6 +46,7 @@ Below are the solved problems categorized by platform.
 
 | Date | Platform | Problem | Difficulty | Languages | Link | 
 | :---: | :--- | :--- | :---: | :---: | :---: |
+| 2026-07-23 | LeetCode | 3513. Number of Unique XOR Triplets I | 🟡 Medium | CPP | [Solution](./leetcode/Medium/3513-number-of-unique-xor-triplets-i) / [Problem Link](https://leetcode.com/problems/number-of-unique-xor-triplets-i/) |
 | 2026-07-22 | LeetCode | 1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold | 🟡 Medium | CPP | [Solution](./leetcode/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) / [Problem Link](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) |
 | 2026-07-22 | LeetCode | 283. Move Zeroes | 🟢 Easy | CPP | [Solution](./leetcode/Easy/283-move-zeroes) / [Problem Link](https://leetcode.com/problems/move-zeroes/) |
 | 2026-07-22 | LeetCode | 3501. Maximize Active Section with Trade II | 🔴 Hard | CPP | [Solution](./leetcode/Hard/3501-maximize-active-section-with-trade-ii) / [Problem Link](https://leetcode.com/problems/maximize-active-section-with-trade-ii/) |
@@ -55,12 +56,11 @@ Below are the solved problems categorized by platform.
 | 2026-07-20 | LeetCode | 532. K-diff Pairs in an Array | 🟡 Medium | CPP | [Solution](./leetcode/Medium/532-k-diff-pairs-in-an-array) / [Problem Link](https://leetcode.com/problems/k-diff-pairs-in-an-array/) |
 | 2026-07-19 | LeetCode | 1081. Smallest Subsequence of Distinct Characters | 🟡 Medium | CPP | [Solution](./leetcode/Medium/1081-smallest-subsequence-of-distinct-characters) / [Problem Link](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) |
 | 2026-07-19 | LeetCode | 904. Fruit Into Baskets | 🟡 Medium | CPP | [Solution](./leetcode/Medium/904-fruit-into-baskets) / [Problem Link](https://leetcode.com/problems/fruit-into-baskets/) |
-| 2026-07-18 | LeetCode | 1979. Find Greatest Common Divisor of Array | 🟢 Easy | CPP | [Solution](./leetcode/Easy/1979-find-greatest-common-divisor-of-array) / [Problem Link](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) |
 
 ---
 
 <details>
-<summary><b>📂 LeetCode Solutions (813)</b></summary>
+<summary><b>📂 LeetCode Solutions (814)</b></summary>
 
 | ID | Problem Title | Difficulty | Languages | Solutions |
 | :---: | :--- | :---: | :---: | :--- |
@@ -785,6 +785,7 @@ Below are the solved problems categorized by platform.
 | 3488 | Closest Equal Element Queries | 🟡 Medium | [`CPP`](./leetcode/Medium/3488-closest-equal-element-queries) | [Problem Description](./leetcode/Medium/3488-closest-equal-element-queries/README.md) | [External Link](https://leetcode.com/problems/closest-equal-element-queries/) |
 | 3499 | Maximize Active Section with Trade I | 🟡 Medium | [`CPP`](./leetcode/Medium/3499-maximize-active-section-with-trade-i) | [Problem Description](./leetcode/Medium/3499-maximize-active-section-with-trade-i/README.md) | [External Link](https://leetcode.com/problems/maximize-active-section-with-trade-i/) |
 | 3501 | Maximize Active Section with Trade II | 🔴 Hard | [`CPP`](./leetcode/Hard/3501-maximize-active-section-with-trade-ii) | [Problem Description](./leetcode/Hard/3501-maximize-active-section-with-trade-ii/README.md) | [External Link](https://leetcode.com/problems/maximize-active-section-with-trade-ii/) |
+| 3513 | Number of Unique XOR Triplets I | 🟡 Medium | [`CPP`](./leetcode/Medium/3513-number-of-unique-xor-triplets-i) | [Problem Description](./leetcode/Medium/3513-number-of-unique-xor-triplets-i/README.md) | [External Link](https://leetcode.com/problems/number-of-unique-xor-triplets-i/) |
 | 3516 | Find Closest Person | 🟢 Easy | [`CPP`](./leetcode/Easy/3516-find-closest-person) | [Problem Description](./leetcode/Easy/3516-find-closest-person/README.md) | [External Link](https://leetcode.com/problems/find-closest-person/) |
 | 3527 | Find the Most Common Response | 🟡 Medium | [`CPP`](./leetcode/Medium/3527-find-the-most-common-response) | [Problem Description](./leetcode/Medium/3527-find-the-most-common-response/README.md) | [External Link](https://leetcode.com/problems/find-the-most-common-response/) |
 | 3532 | Path Existence Queries in a Graph I | 🟡 Medium | [`CPP`](./leetcode/Medium/3532-path-existence-queries-in-a-graph-i) | [Problem Description](./leetcode/Medium/3532-path-existence-queries-in-a-graph-i/README.md) | [External Link](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/) |

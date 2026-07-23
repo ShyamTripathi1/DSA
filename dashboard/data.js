@@ -1,10 +1,10 @@
 const dashboardData = {
   "stats": {
-    "total": 816,
+    "total": 817,
     "leetcode": {
-      "total": 813,
+      "total": 814,
       "Easy": 355,
-      "Medium": 372,
+      "Medium": 373,
       "Hard": 86
     },
     "geeksforgeeks": {
@@ -26,7 +26,7 @@ const dashboardData = {
       "Hard": 0
     },
     "languages": {
-      "cpp": 797,
+      "cpp": 798,
       "java": 4,
       "python": 1,
       "javascript": 6,
@@ -35,6 +35,23 @@ const dashboardData = {
     }
   },
   "problems": [
+    {
+      "id": "3513",
+      "title": "Number of Unique XOR Triplets I",
+      "url": "https://leetcode.com/problems/number-of-unique-xor-triplets-i/",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Math",
+        "Bit Manipulation"
+      ],
+      "solved_date": "2026-07-23",
+      "languages": [
+        "cpp"
+      ],
+      "path": "leetcode/Medium/3513-number-of-unique-xor-triplets-i"
+    },
     {
       "id": "1343",
       "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
@@ -13958,5 +13975,5 @@ const dashboardData = {
       "path": "leetcode/Medium/2-add-two-numbers"
     }
   ],
-  "last_updated": "2026-07-22 19:53:04"
+  "last_updated": "2026-07-23 19:55:25"
 };
