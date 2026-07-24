@@ -1,22 +1,25 @@
-
 class Solution {
 public:
+int fnc(int n ){
+    int sum = 0;
+    while(n>0){
+        int d = n% 10;
+        n /= 10;
+        sum += d*d;
+    }
+    return sum;
+}
     bool isHappy(int n) {
-       if(n==1 || n==7) return true;
-       else if(n<10) return false;
-       else{
-
-            int sum = 0;
-            while (n > 0) {
-                int digit = n % 10;
-                sum += digit * digit;
-                n /= 10;
-                
+        int slow = n, fast = n;
+        while( fast != 1){
+            slow = fnc(slow);
+            fast = fnc(fast);
+            fast = fnc(fast);
+            if(slow == fast && slow != 1){
+                return false;
             }
-            n=sum;
-           
-        return isHappy(sum);
-       }
+        }
+        return true;
+        
     }
 };
-

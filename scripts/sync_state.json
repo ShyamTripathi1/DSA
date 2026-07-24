@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-07-23T19:55:24.941656+00:00",
+  "last_sync": "2026-07-24T19:55:02.705251+00:00",
   "problems": {
     "sum-of-gcd-of-formed-pairs": {
       "last_submission_id": "2069644085",
@@ -4589,8 +4589,8 @@
       ]
     },
     "find-the-duplicate-number": {
-      "last_submission_id": "1742879181",
-      "last_timestamp": 1755757750,
+      "last_submission_id": "2079907055",
+      "last_timestamp": 1784914783,
       "languages": [
         "cpp"
       ]
@@ -5310,8 +5310,8 @@
       ]
     },
     "happy-number": {
-      "last_submission_id": "1648751965",
-      "last_timestamp": 1748597005,
+      "last_submission_id": "2079944149",
+      "last_timestamp": 1784916454,
       "languages": [
         "cpp"
       ]
@@ -5701,21 +5701,28 @@
       "languages": [
         "cpp"
       ]
+    },
+    "number-of-unique-xor-triplets-ii": {
+      "last_submission_id": "2079917098",
+      "last_timestamp": 1784915229,
+      "languages": [
+        "cpp"
+      ]
     }
   },
   "profile": {
     "username": "ShyamTripathi12",
-    "ranking": 61169,
+    "ranking": 61007,
     "solved_stats": {
-      "All": 814,
+      "All": 815,
       "Easy": 354,
-      "Medium": 374,
+      "Medium": 375,
       "Hard": 86
     },
     "contest": {
       "rating": 1449.4,
-      "global_ranking": 545581,
-      "top_percentage": 62.71,
+      "global_ranking": 546009,
+      "top_percentage": 62.7,
       "attended": 9
     }
   }

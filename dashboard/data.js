@@ -1,10 +1,10 @@
 const dashboardData = {
   "stats": {
-    "total": 817,
+    "total": 818,
     "leetcode": {
-      "total": 814,
+      "total": 815,
       "Easy": 355,
-      "Medium": 373,
+      "Medium": 374,
       "Hard": 86
     },
     "geeksforgeeks": {
@@ -26,7 +26,7 @@ const dashboardData = {
       "Hard": 0
     },
     "languages": {
-      "cpp": 798,
+      "cpp": 799,
       "java": 4,
       "python": 1,
       "javascript": 6,
@@ -35,6 +35,59 @@ const dashboardData = {
     }
   },
   "problems": [
+    {
+      "id": "3514",
+      "title": "Number of Unique XOR Triplets II",
+      "url": "https://leetcode.com/problems/number-of-unique-xor-triplets-ii/",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Math",
+        "Bit Manipulation",
+        "Enumeration"
+      ],
+      "solved_date": "2026-07-24",
+      "languages": [
+        "cpp"
+      ],
+      "path": "leetcode/Medium/3514-number-of-unique-xor-triplets-ii"
+    },
+    {
+      "id": "202",
+      "title": "Happy Number",
+      "url": "https://leetcode.com/problems/happy-number/",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "tags": [
+        "Hash Table",
+        "Math",
+        "Two Pointers"
+      ],
+      "solved_date": "2026-07-24",
+      "languages": [
+        "cpp"
+      ],
+      "path": "leetcode/Easy/202-happy-number"
+    },
+    {
+      "id": "287",
+      "title": "Find the Duplicate Number",
+      "url": "https://leetcode.com/problems/find-the-duplicate-number/",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Bit Manipulation"
+      ],
+      "solved_date": "2026-07-24",
+      "languages": [
+        "cpp"
+      ],
+      "path": "leetcode/Medium/287-find-the-duplicate-number"
+    },
     {
       "id": "3513",
       "title": "Number of Unique XOR Triplets I",
@@ -11413,24 +11466,6 @@ const dashboardData = {
       "path": "leetcode/Easy/3396-minimum-number-of-operations-to-make-elements-in-array-distinct"
     },
     {
-      "id": "287",
-      "title": "Find the Duplicate Number",
-      "url": "https://leetcode.com/problems/find-the-duplicate-number/",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "tags": [
-        "Array",
-        "Two Pointers",
-        "Binary Search",
-        "Bit Manipulation"
-      ],
-      "solved_date": "2025-08-21",
-      "languages": [
-        "cpp"
-      ],
-      "path": "leetcode/Medium/287-find-the-duplicate-number"
-    },
-    {
       "id": "946",
       "title": "Validate Stack Sequences",
       "url": "https://leetcode.com/problems/validate-stack-sequences/",
@@ -13168,23 +13203,6 @@ const dashboardData = {
       "path": "leetcode/Easy/1528-shuffle-string"
     },
     {
-      "id": "202",
-      "title": "Happy Number",
-      "url": "https://leetcode.com/problems/happy-number/",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "tags": [
-        "Hash Table",
-        "Math",
-        "Two Pointers"
-      ],
-      "solved_date": "2025-05-30",
-      "languages": [
-        "cpp"
-      ],
-      "path": "leetcode/Easy/202-happy-number"
-    },
-    {
       "id": "921",
       "title": "Minimum Add to Make Parentheses Valid",
       "url": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/",
@@ -13975,5 +13993,5 @@ const dashboardData = {
       "path": "leetcode/Medium/2-add-two-numbers"
     }
   ],
-  "last_updated": "2026-07-23 19:55:25"
+  "last_updated": "2026-07-24 19:55:02"
 };
