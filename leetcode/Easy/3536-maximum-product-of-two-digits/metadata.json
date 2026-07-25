@@ -1,0 +1,15 @@
+{
+  "id": "3536",
+  "title": "Maximum Product of Two Digits",
+  "url": "https://leetcode.com/problems/maximum-product-of-two-digits/",
+  "platform": "LeetCode",
+  "difficulty": "Easy",
+  "tags": [
+    "Math",
+    "Sorting"
+  ],
+  "solved_date": "2026-07-25",
+  "languages": [
+    "cpp"
+  ]
+}

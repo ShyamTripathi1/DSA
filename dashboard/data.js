@@ -1,9 +1,9 @@
 const dashboardData = {
   "stats": {
-    "total": 818,
+    "total": 819,
     "leetcode": {
-      "total": 815,
-      "Easy": 355,
+      "total": 816,
+      "Easy": 356,
       "Medium": 374,
       "Hard": 86
     },
@@ -26,7 +26,7 @@ const dashboardData = {
       "Hard": 0
     },
     "languages": {
-      "cpp": 799,
+      "cpp": 800,
       "java": 4,
       "python": 1,
       "javascript": 6,
@@ -35,6 +35,39 @@ const dashboardData = {
     }
   },
   "problems": [
+    {
+      "id": "3536",
+      "title": "Maximum Product of Two Digits",
+      "url": "https://leetcode.com/problems/maximum-product-of-two-digits/",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "tags": [
+        "Math",
+        "Sorting"
+      ],
+      "solved_date": "2026-07-25",
+      "languages": [
+        "cpp"
+      ],
+      "path": "leetcode/Easy/3536-maximum-product-of-two-digits"
+    },
+    {
+      "id": "258",
+      "title": "Add Digits",
+      "url": "https://leetcode.com/problems/add-digits/",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "tags": [
+        "Math",
+        "Simulation",
+        "Number Theory"
+      ],
+      "solved_date": "2026-07-25",
+      "languages": [
+        "cpp"
+      ],
+      "path": "leetcode/Easy/258-add-digits"
+    },
     {
       "id": "3514",
       "title": "Number of Unique XOR Triplets II",
@@ -13560,23 +13593,6 @@ const dashboardData = {
       "path": "leetcode/Easy/9-palindrome-number"
     },
     {
-      "id": "258",
-      "title": "Add Digits",
-      "url": "https://leetcode.com/problems/add-digits/",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "tags": [
-        "Math",
-        "Simulation",
-        "Number Theory"
-      ],
-      "solved_date": "2025-05-01",
-      "languages": [
-        "cpp"
-      ],
-      "path": "leetcode/Easy/258-add-digits"
-    },
-    {
       "id": "58",
       "title": "Length of Last Word",
       "url": "https://leetcode.com/problems/length-of-last-word/",
@@ -13993,5 +14009,5 @@ const dashboardData = {
       "path": "leetcode/Medium/2-add-two-numbers"
     }
   ],
-  "last_updated": "2026-07-24 19:55:02"
+  "last_updated": "2026-07-25 19:42:36"
 };

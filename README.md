@@ -11,15 +11,15 @@ Welcome to my central repository for Data Structures, Algorithms, and coding cha
 <!--START_SECTION:leetcode-stats-->
 | Platform | Progress Bar | Solved | Easy | Medium | Hard |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| **LeetCode** | `████████████████████` | **815** | 355 | 374 | 86 |
+| **LeetCode** | `████████████████████` | **816** | 356 | 374 | 86 |
 | **GeeksforGeeks** | `░░░░░░░░░░░░░░░░░░░░` | **2** | 1 | 1 | 0 |
 | **HackerRank** | `░░░░░░░░░░░░░░░░░░░░` | **1** | 1 | 0 | 0 |
 | **Topic-wise / Custom** | - | **0** | 0 | 0 | 0 |
-| **Total Progress** | `████████████████████` | **818** | **357** | **375** | **86** |
+| **Total Progress** | `████████████████████` | **819** | **358** | **375** | **86** |
 
-**Languages Used:** `CPP (799)`, `MYSQL (9)`, `JAVASCRIPT (6)`, `JAVA (4)`, `C (2)`, `PYTHON (1)`
+**Languages Used:** `CPP (800)`, `MYSQL (9)`, `JAVASCRIPT (6)`, `JAVA (4)`, `C (2)`, `PYTHON (1)`
 
-**LeetCode Ranking:** #61,007 · **Contest Rating:** 1449.4 · **Contests Attended:** 9 · **Top:** 62.7%
+**LeetCode Ranking:** #60,595 · **Contest Rating:** 1449.4 · **Contests Attended:** 9 · **Top:** 62.7%
 <!--END_SECTION:leetcode-stats-->
 
 > [!TIP]
@@ -46,6 +46,8 @@ Below are the solved problems categorized by platform.
 
 | Date | Platform | Problem | Difficulty | Languages | Link | 
 | :---: | :--- | :--- | :---: | :---: | :---: |
+| 2026-07-25 | LeetCode | 3536. Maximum Product of Two Digits | 🟢 Easy | CPP | [Solution](./leetcode/Easy/3536-maximum-product-of-two-digits) / [Problem Link](https://leetcode.com/problems/maximum-product-of-two-digits/) |
+| 2026-07-25 | LeetCode | 258. Add Digits | 🟢 Easy | CPP | [Solution](./leetcode/Easy/258-add-digits) / [Problem Link](https://leetcode.com/problems/add-digits/) |
 | 2026-07-24 | LeetCode | 3514. Number of Unique XOR Triplets II | 🟡 Medium | CPP | [Solution](./leetcode/Medium/3514-number-of-unique-xor-triplets-ii) / [Problem Link](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/) |
 | 2026-07-24 | LeetCode | 202. Happy Number | 🟢 Easy | CPP | [Solution](./leetcode/Easy/202-happy-number) / [Problem Link](https://leetcode.com/problems/happy-number/) |
 | 2026-07-24 | LeetCode | 287. Find the Duplicate Number | 🟡 Medium | CPP | [Solution](./leetcode/Medium/287-find-the-duplicate-number) / [Problem Link](https://leetcode.com/problems/find-the-duplicate-number/) |
@@ -54,13 +56,11 @@ Below are the solved problems categorized by platform.
 | 2026-07-22 | LeetCode | 283. Move Zeroes | 🟢 Easy | CPP | [Solution](./leetcode/Easy/283-move-zeroes) / [Problem Link](https://leetcode.com/problems/move-zeroes/) |
 | 2026-07-22 | LeetCode | 3501. Maximize Active Section with Trade II | 🔴 Hard | CPP | [Solution](./leetcode/Hard/3501-maximize-active-section-with-trade-ii) / [Problem Link](https://leetcode.com/problems/maximize-active-section-with-trade-ii/) |
 | 2026-07-21 | LeetCode | 3499. Maximize Active Section with Trade I | 🟡 Medium | CPP | [Solution](./leetcode/Medium/3499-maximize-active-section-with-trade-i) / [Problem Link](https://leetcode.com/problems/maximize-active-section-with-trade-i/) |
-| 2026-07-20 | LeetCode | 1260. Shift 2D Grid | 🟢 Easy | CPP | [Solution](./leetcode/Easy/1260-shift-2d-grid) / [Problem Link](https://leetcode.com/problems/shift-2d-grid/) |
-| 2026-07-20 | LeetCode | 209. Minimum Size Subarray Sum | 🟡 Medium | CPP | [Solution](./leetcode/Medium/209-minimum-size-subarray-sum) / [Problem Link](https://leetcode.com/problems/minimum-size-subarray-sum/) |
 
 ---
 
 <details>
-<summary><b>📂 LeetCode Solutions (815)</b></summary>
+<summary><b>📂 LeetCode Solutions (816)</b></summary>
 
 | ID | Problem Title | Difficulty | Languages | Solutions |
 | :---: | :--- | :---: | :---: | :--- |
@@ -791,6 +791,7 @@ Below are the solved problems categorized by platform.
 | 3527 | Find the Most Common Response | 🟡 Medium | [`CPP`](./leetcode/Medium/3527-find-the-most-common-response) | [Problem Description](./leetcode/Medium/3527-find-the-most-common-response/README.md) | [External Link](https://leetcode.com/problems/find-the-most-common-response/) |
 | 3532 | Path Existence Queries in a Graph I | 🟡 Medium | [`CPP`](./leetcode/Medium/3532-path-existence-queries-in-a-graph-i) | [Problem Description](./leetcode/Medium/3532-path-existence-queries-in-a-graph-i/README.md) | [External Link](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/) |
 | 3534 | Path Existence Queries in a Graph II | 🔴 Hard | [`CPP`](./leetcode/Hard/3534-path-existence-queries-in-a-graph-ii) | [Problem Description](./leetcode/Hard/3534-path-existence-queries-in-a-graph-ii/README.md) | [External Link](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/) |
+| 3536 | Maximum Product of Two Digits | 🟢 Easy | [`CPP`](./leetcode/Easy/3536-maximum-product-of-two-digits) | [Problem Description](./leetcode/Easy/3536-maximum-product-of-two-digits/README.md) | [External Link](https://leetcode.com/problems/maximum-product-of-two-digits/) |
 | 3541 | Find Most Frequent Vowel and Consonant | 🟢 Easy | [`CPP`](./leetcode/Easy/3541-find-most-frequent-vowel-and-consonant) | [Problem Description](./leetcode/Easy/3541-find-most-frequent-vowel-and-consonant/README.md) | [External Link](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/) |
 | 3542 | Minimum Operations to Convert All Elements to Zero | 🟡 Medium | [`CPP`](./leetcode/Medium/3542-minimum-operations-to-convert-all-elements-to-zero) | [Problem Description](./leetcode/Medium/3542-minimum-operations-to-convert-all-elements-to-zero/README.md) | [External Link](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/) |
 | 3545 | Minimum Deletions for At Most K Distinct Characters | 🟢 Easy | [`CPP`](./leetcode/Easy/3545-minimum-deletions-for-at-most-k-distinct-characters) | [Problem Description](./leetcode/Easy/3545-minimum-deletions-for-at-most-k-distinct-characters/README.md) | [External Link](https://leetcode.com/problems/minimum-deletions-for-at-most-k-distinct-characters/) |
