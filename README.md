@@ -11,15 +11,15 @@ Welcome to my central repository for Data Structures, Algorithms, and coding cha
 <!--START_SECTION:leetcode-stats-->
 | Platform | Progress Bar | Solved | Easy | Medium | Hard |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| **LeetCode** | `████████████████████` | **816** | 356 | 374 | 86 |
+| **LeetCode** | `████████████████████` | **817** | 356 | 375 | 86 |
 | **GeeksforGeeks** | `░░░░░░░░░░░░░░░░░░░░` | **2** | 1 | 1 | 0 |
 | **HackerRank** | `░░░░░░░░░░░░░░░░░░░░` | **1** | 1 | 0 | 0 |
 | **Topic-wise / Custom** | - | **0** | 0 | 0 | 0 |
-| **Total Progress** | `████████████████████` | **819** | **358** | **375** | **86** |
+| **Total Progress** | `████████████████████` | **820** | **358** | **376** | **86** |
 
-**Languages Used:** `CPP (800)`, `MYSQL (9)`, `JAVASCRIPT (6)`, `JAVA (4)`, `C (2)`, `PYTHON (1)`
+**Languages Used:** `CPP (801)`, `MYSQL (9)`, `JAVASCRIPT (6)`, `JAVA (4)`, `C (2)`, `PYTHON (1)`
 
-**LeetCode Ranking:** #60,595 · **Contest Rating:** 1449.4 · **Contests Attended:** 9 · **Top:** 62.7%
+**LeetCode Ranking:** #60,674 · **Contest Rating:** 1449.4 · **Contests Attended:** 9 · **Top:** 62.7%
 <!--END_SECTION:leetcode-stats-->
 
 > [!TIP]
@@ -46,6 +46,8 @@ Below are the solved problems categorized by platform.
 
 | Date | Platform | Problem | Difficulty | Languages | Link | 
 | :---: | :--- | :--- | :---: | :---: | :---: |
+| 2026-07-26 | LeetCode | 462. Minimum Moves to Equal Array Elements II | 🟡 Medium | CPP | [Solution](./leetcode/Medium/462-minimum-moves-to-equal-array-elements-ii) / [Problem Link](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) |
+| 2026-07-26 | LeetCode | 628. Maximum Product of Three Numbers | 🟢 Easy | CPP | [Solution](./leetcode/Easy/628-maximum-product-of-three-numbers) / [Problem Link](https://leetcode.com/problems/maximum-product-of-three-numbers/) |
 | 2026-07-25 | LeetCode | 3536. Maximum Product of Two Digits | 🟢 Easy | CPP | [Solution](./leetcode/Easy/3536-maximum-product-of-two-digits) / [Problem Link](https://leetcode.com/problems/maximum-product-of-two-digits/) |
 | 2026-07-25 | LeetCode | 258. Add Digits | 🟢 Easy | CPP | [Solution](./leetcode/Easy/258-add-digits) / [Problem Link](https://leetcode.com/problems/add-digits/) |
 | 2026-07-24 | LeetCode | 3514. Number of Unique XOR Triplets II | 🟡 Medium | CPP | [Solution](./leetcode/Medium/3514-number-of-unique-xor-triplets-ii) / [Problem Link](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/) |
@@ -54,13 +56,11 @@ Below are the solved problems categorized by platform.
 | 2026-07-23 | LeetCode | 3513. Number of Unique XOR Triplets I | 🟡 Medium | CPP | [Solution](./leetcode/Medium/3513-number-of-unique-xor-triplets-i) / [Problem Link](https://leetcode.com/problems/number-of-unique-xor-triplets-i/) |
 | 2026-07-22 | LeetCode | 1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold | 🟡 Medium | CPP | [Solution](./leetcode/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) / [Problem Link](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) |
 | 2026-07-22 | LeetCode | 283. Move Zeroes | 🟢 Easy | CPP | [Solution](./leetcode/Easy/283-move-zeroes) / [Problem Link](https://leetcode.com/problems/move-zeroes/) |
-| 2026-07-22 | LeetCode | 3501. Maximize Active Section with Trade II | 🔴 Hard | CPP | [Solution](./leetcode/Hard/3501-maximize-active-section-with-trade-ii) / [Problem Link](https://leetcode.com/problems/maximize-active-section-with-trade-ii/) |
-| 2026-07-21 | LeetCode | 3499. Maximize Active Section with Trade I | 🟡 Medium | CPP | [Solution](./leetcode/Medium/3499-maximize-active-section-with-trade-i) / [Problem Link](https://leetcode.com/problems/maximize-active-section-with-trade-i/) |
 
 ---
 
 <details>
-<summary><b>📂 LeetCode Solutions (816)</b></summary>
+<summary><b>📂 LeetCode Solutions (817)</b></summary>
 
 | ID | Problem Title | Difficulty | Languages | Solutions |
 | :---: | :--- | :---: | :---: | :--- |
@@ -284,6 +284,7 @@ Below are the solved problems categorized by platform.
 | 452 | Minimum Number of Arrows to Burst Balloons | 🟡 Medium | [`CPP`](./leetcode/Medium/452-minimum-number-of-arrows-to-burst-balloons) | [Problem Description](./leetcode/Medium/452-minimum-number-of-arrows-to-burst-balloons/README.md) | [External Link](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) |
 | 453 | Minimum Moves to Equal Array Elements | 🟡 Medium | [`CPP`](./leetcode/Medium/453-minimum-moves-to-equal-array-elements) | [Problem Description](./leetcode/Medium/453-minimum-moves-to-equal-array-elements/README.md) | [External Link](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) |
 | 455 | Assign Cookies | 🟢 Easy | [`CPP`](./leetcode/Easy/455-assign-cookies) | [Problem Description](./leetcode/Easy/455-assign-cookies/README.md) | [External Link](https://leetcode.com/problems/assign-cookies/) |
+| 462 | Minimum Moves to Equal Array Elements II | 🟡 Medium | [`CPP`](./leetcode/Medium/462-minimum-moves-to-equal-array-elements-ii) | [Problem Description](./leetcode/Medium/462-minimum-moves-to-equal-array-elements-ii/README.md) | [External Link](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) |
 | 463 | Island Perimeter | 🟢 Easy | [`CPP`](./leetcode/Easy/463-island-perimeter) | [Problem Description](./leetcode/Easy/463-island-perimeter/README.md) | [External Link](https://leetcode.com/problems/island-perimeter/) |
 | 476 | Number Complement | 🟢 Easy | [`CPP`](./leetcode/Easy/476-number-complement) | [Problem Description](./leetcode/Easy/476-number-complement/README.md) | [External Link](https://leetcode.com/problems/number-complement/) |
 | 485 | Max Consecutive Ones | 🟢 Easy | [`CPP`](./leetcode/Easy/485-max-consecutive-ones) | [Problem Description](./leetcode/Easy/485-max-consecutive-ones/README.md) | [External Link](https://leetcode.com/problems/max-consecutive-ones/) |

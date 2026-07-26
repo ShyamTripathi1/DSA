@@ -1,10 +1,10 @@
 const dashboardData = {
   "stats": {
-    "total": 819,
+    "total": 820,
     "leetcode": {
-      "total": 816,
+      "total": 817,
       "Easy": 356,
-      "Medium": 374,
+      "Medium": 375,
       "Hard": 86
     },
     "geeksforgeeks": {
@@ -26,7 +26,7 @@ const dashboardData = {
       "Hard": 0
     },
     "languages": {
-      "cpp": 800,
+      "cpp": 801,
       "java": 4,
       "python": 1,
       "javascript": 6,
@@ -35,6 +35,40 @@ const dashboardData = {
     }
   },
   "problems": [
+    {
+      "id": "462",
+      "title": "Minimum Moves to Equal Array Elements II",
+      "url": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Math",
+        "Sorting"
+      ],
+      "solved_date": "2026-07-26",
+      "languages": [
+        "cpp"
+      ],
+      "path": "leetcode/Medium/462-minimum-moves-to-equal-array-elements-ii"
+    },
+    {
+      "id": "628",
+      "title": "Maximum Product of Three Numbers",
+      "url": "https://leetcode.com/problems/maximum-product-of-three-numbers/",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Math",
+        "Sorting"
+      ],
+      "solved_date": "2026-07-26",
+      "languages": [
+        "cpp"
+      ],
+      "path": "leetcode/Easy/628-maximum-product-of-three-numbers"
+    },
     {
       "id": "3536",
       "title": "Maximum Product of Two Digits",
@@ -12783,23 +12817,6 @@ const dashboardData = {
       "path": "leetcode/Easy/905-sort-array-by-parity"
     },
     {
-      "id": "628",
-      "title": "Maximum Product of Three Numbers",
-      "url": "https://leetcode.com/problems/maximum-product-of-three-numbers/",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "tags": [
-        "Array",
-        "Math",
-        "Sorting"
-      ],
-      "solved_date": "2025-07-05",
-      "languages": [
-        "cpp"
-      ],
-      "path": "leetcode/Easy/628-maximum-product-of-three-numbers"
-    },
-    {
       "id": "349",
       "title": "Intersection of Two Arrays",
       "url": "https://leetcode.com/problems/intersection-of-two-arrays/",
@@ -14009,5 +14026,5 @@ const dashboardData = {
       "path": "leetcode/Medium/2-add-two-numbers"
     }
   ],
-  "last_updated": "2026-07-25 19:42:36"
+  "last_updated": "2026-07-26 19:43:50"
 };
