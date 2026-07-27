@@ -11,15 +11,15 @@ Welcome to my central repository for Data Structures, Algorithms, and coding cha
 <!--START_SECTION:leetcode-stats-->
 | Platform | Progress Bar | Solved | Easy | Medium | Hard |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| **LeetCode** | `████████████████████` | **817** | 356 | 375 | 86 |
+| **LeetCode** | `████████████████████` | **820** | 356 | 378 | 86 |
 | **GeeksforGeeks** | `░░░░░░░░░░░░░░░░░░░░` | **2** | 1 | 1 | 0 |
 | **HackerRank** | `░░░░░░░░░░░░░░░░░░░░` | **1** | 1 | 0 | 0 |
 | **Topic-wise / Custom** | - | **0** | 0 | 0 | 0 |
-| **Total Progress** | `████████████████████` | **820** | **358** | **376** | **86** |
+| **Total Progress** | `████████████████████` | **823** | **358** | **379** | **86** |
 
-**Languages Used:** `CPP (801)`, `MYSQL (9)`, `JAVASCRIPT (6)`, `JAVA (4)`, `C (2)`, `PYTHON (1)`
+**Languages Used:** `CPP (804)`, `MYSQL (9)`, `JAVASCRIPT (6)`, `JAVA (4)`, `C (2)`, `PYTHON (1)`
 
-**LeetCode Ranking:** #60,674 · **Contest Rating:** 1449.4 · **Contests Attended:** 9 · **Top:** 62.7%
+**LeetCode Ranking:** #60,536 · **Contest Rating:** 1449.4 · **Contests Attended:** 9 · **Top:** 62.7%
 <!--END_SECTION:leetcode-stats-->
 
 > [!TIP]
@@ -46,21 +46,21 @@ Below are the solved problems categorized by platform.
 
 | Date | Platform | Problem | Difficulty | Languages | Link | 
 | :---: | :--- | :--- | :---: | :---: | :---: |
+| 2026-07-27 | LeetCode | 1186. Maximum Subarray Sum with One Deletion | 🟡 Medium | CPP | [Solution](./leetcode/Medium/1186-maximum-subarray-sum-with-one-deletion) / [Problem Link](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) |
+| 2026-07-27 | LeetCode | 53. Maximum Subarray | 🟡 Medium | CPP | [Solution](./leetcode/Medium/53-maximum-subarray) / [Problem Link](https://leetcode.com/problems/maximum-subarray/) |
+| 2026-07-27 | LeetCode | 1464. Maximum Product of Two Elements in an Array | 🟢 Easy | CPP | [Solution](./leetcode/Easy/1464-maximum-product-of-two-elements-in-an-array) / [Problem Link](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) |
+| 2026-07-27 | LeetCode | 152. Maximum Product Subarray | 🟡 Medium | CPP | [Solution](./leetcode/Medium/152-maximum-product-subarray) / [Problem Link](https://leetcode.com/problems/maximum-product-subarray/) |
+| 2026-07-27 | LeetCode | 1749. Maximum Absolute Sum of Any Subarray | 🟡 Medium | CPP | [Solution](./leetcode/Medium/1749-maximum-absolute-sum-of-any-subarray) / [Problem Link](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) |
 | 2026-07-26 | LeetCode | 462. Minimum Moves to Equal Array Elements II | 🟡 Medium | CPP | [Solution](./leetcode/Medium/462-minimum-moves-to-equal-array-elements-ii) / [Problem Link](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) |
 | 2026-07-26 | LeetCode | 628. Maximum Product of Three Numbers | 🟢 Easy | CPP | [Solution](./leetcode/Easy/628-maximum-product-of-three-numbers) / [Problem Link](https://leetcode.com/problems/maximum-product-of-three-numbers/) |
 | 2026-07-25 | LeetCode | 3536. Maximum Product of Two Digits | 🟢 Easy | CPP | [Solution](./leetcode/Easy/3536-maximum-product-of-two-digits) / [Problem Link](https://leetcode.com/problems/maximum-product-of-two-digits/) |
 | 2026-07-25 | LeetCode | 258. Add Digits | 🟢 Easy | CPP | [Solution](./leetcode/Easy/258-add-digits) / [Problem Link](https://leetcode.com/problems/add-digits/) |
 | 2026-07-24 | LeetCode | 3514. Number of Unique XOR Triplets II | 🟡 Medium | CPP | [Solution](./leetcode/Medium/3514-number-of-unique-xor-triplets-ii) / [Problem Link](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/) |
-| 2026-07-24 | LeetCode | 202. Happy Number | 🟢 Easy | CPP | [Solution](./leetcode/Easy/202-happy-number) / [Problem Link](https://leetcode.com/problems/happy-number/) |
-| 2026-07-24 | LeetCode | 287. Find the Duplicate Number | 🟡 Medium | CPP | [Solution](./leetcode/Medium/287-find-the-duplicate-number) / [Problem Link](https://leetcode.com/problems/find-the-duplicate-number/) |
-| 2026-07-23 | LeetCode | 3513. Number of Unique XOR Triplets I | 🟡 Medium | CPP | [Solution](./leetcode/Medium/3513-number-of-unique-xor-triplets-i) / [Problem Link](https://leetcode.com/problems/number-of-unique-xor-triplets-i/) |
-| 2026-07-22 | LeetCode | 1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold | 🟡 Medium | CPP | [Solution](./leetcode/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) / [Problem Link](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) |
-| 2026-07-22 | LeetCode | 283. Move Zeroes | 🟢 Easy | CPP | [Solution](./leetcode/Easy/283-move-zeroes) / [Problem Link](https://leetcode.com/problems/move-zeroes/) |
 
 ---
 
 <details>
-<summary><b>📂 LeetCode Solutions (817)</b></summary>
+<summary><b>📂 LeetCode Solutions (820)</b></summary>
 
 | ID | Problem Title | Difficulty | Languages | Solutions |
 | :---: | :--- | :---: | :---: | :--- |
@@ -176,6 +176,7 @@ Below are the solved problems categorized by platform.
 | 147 | Insertion Sort List | 🟡 Medium | [`CPP`](./leetcode/Medium/147-insertion-sort-list) | [Problem Description](./leetcode/Medium/147-insertion-sort-list/README.md) | [External Link](https://leetcode.com/problems/insertion-sort-list/) |
 | 148 | Sort List | 🟡 Medium | [`CPP`](./leetcode/Medium/148-sort-list) | [Problem Description](./leetcode/Medium/148-sort-list/README.md) | [External Link](https://leetcode.com/problems/sort-list/) |
 | 151 | Reverse Words in a String | 🟡 Medium | [`CPP`](./leetcode/Medium/151-reverse-words-in-a-string) | [Problem Description](./leetcode/Medium/151-reverse-words-in-a-string/README.md) | [External Link](https://leetcode.com/problems/reverse-words-in-a-string/) |
+| 152 | Maximum Product Subarray | 🟡 Medium | [`CPP`](./leetcode/Medium/152-maximum-product-subarray) | [Problem Description](./leetcode/Medium/152-maximum-product-subarray/README.md) | [External Link](https://leetcode.com/problems/maximum-product-subarray/) |
 | 153 | Find Minimum in Rotated Sorted Array | 🟡 Medium | [`CPP`](./leetcode/Medium/153-find-minimum-in-rotated-sorted-array) | [Problem Description](./leetcode/Medium/153-find-minimum-in-rotated-sorted-array/README.md) | [External Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |
 | 154 | Find Minimum in Rotated Sorted Array II | 🔴 Hard | [`CPP`](./leetcode/Hard/154-find-minimum-in-rotated-sorted-array-ii) | [Problem Description](./leetcode/Hard/154-find-minimum-in-rotated-sorted-array-ii/README.md) | [External Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) |
 | 155 | Min Stack | 🟡 Medium | [`CPP`](./leetcode/Medium/155-min-stack) | [Problem Description](./leetcode/Medium/155-min-stack/README.md) | [External Link](https://leetcode.com/problems/min-stack/) |
@@ -473,6 +474,7 @@ Below are the solved problems categorized by platform.
 | 1148 | Article Views I | 🟢 Easy | [`MYSQL`](./leetcode/Easy/1148-article-views-i) | [Problem Description](./leetcode/Easy/1148-article-views-i/README.md) | [External Link](https://leetcode.com/problems/article-views-i/) |
 | 1160 | Find Words That Can Be Formed by Characters | 🟢 Easy | [`CPP`](./leetcode/Easy/1160-find-words-that-can-be-formed-by-characters) | [Problem Description](./leetcode/Easy/1160-find-words-that-can-be-formed-by-characters/README.md) | [External Link](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) |
 | 1161 | Maximum Level Sum of a Binary Tree | 🟡 Medium | [`CPP`](./leetcode/Medium/1161-maximum-level-sum-of-a-binary-tree) | [Problem Description](./leetcode/Medium/1161-maximum-level-sum-of-a-binary-tree/README.md) | [External Link](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) |
+| 1186 | Maximum Subarray Sum with One Deletion | 🟡 Medium | [`CPP`](./leetcode/Medium/1186-maximum-subarray-sum-with-one-deletion) | [Problem Description](./leetcode/Medium/1186-maximum-subarray-sum-with-one-deletion/README.md) | [External Link](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) |
 | 1189 | Maximum Number of Balloons | 🟢 Easy | [`CPP`](./leetcode/Easy/1189-maximum-number-of-balloons) | [Problem Description](./leetcode/Easy/1189-maximum-number-of-balloons/README.md) | [External Link](https://leetcode.com/problems/maximum-number-of-balloons/) |
 | 1200 | Minimum Absolute Difference | 🟢 Easy | [`CPP`](./leetcode/Easy/1200-minimum-absolute-difference) | [Problem Description](./leetcode/Easy/1200-minimum-absolute-difference/README.md) | [External Link](https://leetcode.com/problems/minimum-absolute-difference/) |
 | 1207 | Unique Number of Occurrences | 🟢 Easy | [`CPP`](./leetcode/Easy/1207-unique-number-of-occurrences) | [Problem Description](./leetcode/Easy/1207-unique-number-of-occurrences/README.md) | [External Link](https://leetcode.com/problems/unique-number-of-occurrences/) |
@@ -580,6 +582,7 @@ Below are the solved problems categorized by platform.
 | 1727 | Largest Submatrix With Rearrangements | 🟡 Medium | [`CPP`](./leetcode/Medium/1727-largest-submatrix-with-rearrangements) | [Problem Description](./leetcode/Medium/1727-largest-submatrix-with-rearrangements/README.md) | [External Link](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) |
 | 1732 | Find the Highest Altitude | 🟢 Easy | [`CPP`](./leetcode/Easy/1732-find-the-highest-altitude) | [Problem Description](./leetcode/Easy/1732-find-the-highest-altitude/README.md) | [External Link](https://leetcode.com/problems/find-the-highest-altitude/) |
 | 1748 | Sum of Unique Elements | 🟢 Easy | [`CPP`](./leetcode/Easy/1748-sum-of-unique-elements) | [Problem Description](./leetcode/Easy/1748-sum-of-unique-elements/README.md) | [External Link](https://leetcode.com/problems/sum-of-unique-elements/) |
+| 1749 | Maximum Absolute Sum of Any Subarray | 🟡 Medium | [`CPP`](./leetcode/Medium/1749-maximum-absolute-sum-of-any-subarray) | [Problem Description](./leetcode/Medium/1749-maximum-absolute-sum-of-any-subarray/README.md) | [External Link](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) |
 | 1752 | Check if Array Is Sorted and Rotated | 🟢 Easy | [`CPP`](./leetcode/Easy/1752-check-if-array-is-sorted-and-rotated) | [Problem Description](./leetcode/Easy/1752-check-if-array-is-sorted-and-rotated/README.md) | [External Link](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) |
 | 1757 | Recyclable and Low Fat Products | 🟢 Easy | [`MYSQL`](./leetcode/Easy/1757-recyclable-and-low-fat-products) | [Problem Description](./leetcode/Easy/1757-recyclable-and-low-fat-products/README.md) | [External Link](https://leetcode.com/problems/recyclable-and-low-fat-products/) |
 | 1758 | Minimum Changes To Make Alternating Binary String | 🟢 Easy | [`CPP`](./leetcode/Easy/1758-minimum-changes-to-make-alternating-binary-string) | [Problem Description](./leetcode/Easy/1758-minimum-changes-to-make-alternating-binary-string/README.md) | [External Link](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) |

@@ -1,12 +1,11 @@
 {
-  "id": "53",
-  "title": "Maximum Subarray",
-  "url": "https://leetcode.com/problems/maximum-subarray/",
+  "id": "152",
+  "title": "Maximum Product Subarray",
+  "url": "https://leetcode.com/problems/maximum-product-subarray/",
   "platform": "LeetCode",
   "difficulty": "Medium",
   "tags": [
     "Array",
-    "Divide and Conquer",
     "Dynamic Programming"
   ],
   "solved_date": "2026-07-27",

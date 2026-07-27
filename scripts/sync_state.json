@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-07-26T19:43:49.957425+00:00",
+  "last_sync": "2026-07-27T20:04:11.365615+00:00",
   "problems": {
     "sum-of-gcd-of-formed-pairs": {
       "last_submission_id": "2069644085",
@@ -4435,8 +4435,8 @@
       ]
     },
     "maximum-product-of-two-elements-in-an-array": {
-      "last_submission_id": "1749814266",
-      "last_timestamp": 1756274637,
+      "last_submission_id": "2083070974",
+      "last_timestamp": 1785141073,
       "languages": [
         "cpp"
       ]
@@ -5604,8 +5604,8 @@
       ]
     },
     "maximum-subarray": {
-      "last_submission_id": "1594162131",
-      "last_timestamp": 1743582708,
+      "last_submission_id": "2083149137",
+      "last_timestamp": 1785144841,
       "languages": [
         "cpp"
       ]
@@ -5722,15 +5722,36 @@
       "languages": [
         "cpp"
       ]
+    },
+    "maximum-subarray-sum-with-one-deletion": {
+      "last_submission_id": "2083787300",
+      "last_timestamp": 1785175239,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-absolute-sum-of-any-subarray": {
+      "last_submission_id": "2083778872",
+      "last_timestamp": 1785174902,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-product-subarray": {
+      "last_submission_id": "2083666241",
+      "last_timestamp": 1785170657,
+      "languages": [
+        "cpp"
+      ]
     }
   },
   "profile": {
     "username": "ShyamTripathi12",
-    "ranking": 60674,
+    "ranking": 60536,
     "solved_stats": {
-      "All": 817,
+      "All": 820,
       "Easy": 355,
-      "Medium": 376,
+      "Medium": 379,
       "Hard": 86
     },
     "contest": {

@@ -1,10 +1,10 @@
 const dashboardData = {
   "stats": {
-    "total": 820,
+    "total": 823,
     "leetcode": {
-      "total": 817,
+      "total": 820,
       "Easy": 356,
-      "Medium": 375,
+      "Medium": 378,
       "Hard": 86
     },
     "geeksforgeeks": {
@@ -26,7 +26,7 @@ const dashboardData = {
       "Hard": 0
     },
     "languages": {
-      "cpp": 801,
+      "cpp": 804,
       "java": 4,
       "python": 1,
       "javascript": 6,
@@ -35,6 +35,88 @@ const dashboardData = {
     }
   },
   "problems": [
+    {
+      "id": "1186",
+      "title": "Maximum Subarray Sum with One Deletion",
+      "url": "https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "solved_date": "2026-07-27",
+      "languages": [
+        "cpp"
+      ],
+      "path": "leetcode/Medium/1186-maximum-subarray-sum-with-one-deletion"
+    },
+    {
+      "id": "53",
+      "title": "Maximum Subarray",
+      "url": "https://leetcode.com/problems/maximum-subarray/",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Divide and Conquer",
+        "Dynamic Programming"
+      ],
+      "solved_date": "2026-07-27",
+      "languages": [
+        "cpp"
+      ],
+      "path": "leetcode/Medium/53-maximum-subarray"
+    },
+    {
+      "id": "1464",
+      "title": "Maximum Product of Two Elements in an Array",
+      "url": "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ],
+      "solved_date": "2026-07-27",
+      "languages": [
+        "cpp"
+      ],
+      "path": "leetcode/Easy/1464-maximum-product-of-two-elements-in-an-array"
+    },
+    {
+      "id": "152",
+      "title": "Maximum Product Subarray",
+      "url": "https://leetcode.com/problems/maximum-product-subarray/",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "solved_date": "2026-07-27",
+      "languages": [
+        "cpp"
+      ],
+      "path": "leetcode/Medium/152-maximum-product-subarray"
+    },
+    {
+      "id": "1749",
+      "title": "Maximum Absolute Sum of Any Subarray",
+      "url": "https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "solved_date": "2026-07-27",
+      "languages": [
+        "cpp"
+      ],
+      "path": "leetcode/Medium/1749-maximum-absolute-sum-of-any-subarray"
+    },
     {
       "id": "462",
       "title": "Minimum Moves to Equal Array Elements II",
@@ -11146,23 +11228,6 @@ const dashboardData = {
       "path": "leetcode/Easy/1486-xor-operation-in-an-array"
     },
     {
-      "id": "1464",
-      "title": "Maximum Product of Two Elements in an Array",
-      "url": "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/",
-      "platform": "LeetCode",
-      "difficulty": "Easy",
-      "tags": [
-        "Array",
-        "Sorting",
-        "Heap (Priority Queue)"
-      ],
-      "solved_date": "2025-08-27",
-      "languages": [
-        "cpp"
-      ],
-      "path": "leetcode/Easy/1464-maximum-product-of-two-elements-in-an-array"
-    },
-    {
       "id": "645",
       "title": "Set Mismatch",
       "url": "https://leetcode.com/problems/set-mismatch/",
@@ -13910,23 +13975,6 @@ const dashboardData = {
       "path": "leetcode/Medium/50-powx-n"
     },
     {
-      "id": "53",
-      "title": "Maximum Subarray",
-      "url": "https://leetcode.com/problems/maximum-subarray/",
-      "platform": "LeetCode",
-      "difficulty": "Medium",
-      "tags": [
-        "Array",
-        "Divide and Conquer",
-        "Dynamic Programming"
-      ],
-      "solved_date": "2025-04-02",
-      "languages": [
-        "cpp"
-      ],
-      "path": "leetcode/Medium/53-maximum-subarray"
-    },
-    {
       "id": "345",
       "title": "Reverse Vowels of a String",
       "url": "https://leetcode.com/problems/reverse-vowels-of-a-string/",
@@ -14026,5 +14074,5 @@ const dashboardData = {
       "path": "leetcode/Medium/2-add-two-numbers"
     }
   ],
-  "last_updated": "2026-07-26 19:43:50"
+  "last_updated": "2026-07-27 20:04:11"
 };
