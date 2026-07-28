@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-07-27T20:04:11.365615+00:00",
+  "last_sync": "2026-07-28T20:01:00.897912+00:00",
   "problems": {
     "sum-of-gcd-of-formed-pairs": {
       "last_submission_id": "2069644085",
@@ -5743,15 +5743,29 @@
       "languages": [
         "cpp"
       ]
+    },
+    "smallest-palindromic-rearrangement-i": {
+      "last_submission_id": "2084372014",
+      "last_timestamp": 1785222292,
+      "languages": [
+        "cpp"
+      ]
+    },
+    "maximum-sum-circular-subarray": {
+      "last_submission_id": "2084349379",
+      "last_timestamp": 1785221238,
+      "languages": [
+        "cpp"
+      ]
     }
   },
   "profile": {
     "username": "ShyamTripathi12",
-    "ranking": 60536,
+    "ranking": 59494,
     "solved_stats": {
-      "All": 820,
+      "All": 822,
       "Easy": 355,
-      "Medium": 379,
+      "Medium": 381,
       "Hard": 86
     },
     "contest": {

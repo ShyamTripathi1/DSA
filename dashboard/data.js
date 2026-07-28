@@ -1,10 +1,10 @@
 const dashboardData = {
   "stats": {
-    "total": 823,
+    "total": 825,
     "leetcode": {
-      "total": 820,
+      "total": 822,
       "Easy": 356,
-      "Medium": 378,
+      "Medium": 380,
       "Hard": 86
     },
     "geeksforgeeks": {
@@ -26,7 +26,7 @@ const dashboardData = {
       "Hard": 0
     },
     "languages": {
-      "cpp": 804,
+      "cpp": 806,
       "java": 4,
       "python": 1,
       "javascript": 6,
@@ -35,6 +35,42 @@ const dashboardData = {
     }
   },
   "problems": [
+    {
+      "id": "3517",
+      "title": "Smallest Palindromic Rearrangement I",
+      "url": "https://leetcode.com/problems/smallest-palindromic-rearrangement-i/",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "tags": [
+        "String",
+        "Sorting",
+        "Counting Sort"
+      ],
+      "solved_date": "2026-07-28",
+      "languages": [
+        "cpp"
+      ],
+      "path": "leetcode/Medium/3517-smallest-palindromic-rearrangement-i"
+    },
+    {
+      "id": "918",
+      "title": "Maximum Sum Circular Subarray",
+      "url": "https://leetcode.com/problems/maximum-sum-circular-subarray/",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Divide and Conquer",
+        "Dynamic Programming",
+        "Queue",
+        "Monotonic Queue"
+      ],
+      "solved_date": "2026-07-28",
+      "languages": [
+        "cpp"
+      ],
+      "path": "leetcode/Medium/918-maximum-sum-circular-subarray"
+    },
     {
       "id": "1186",
       "title": "Maximum Subarray Sum with One Deletion",
@@ -14074,5 +14110,5 @@ const dashboardData = {
       "path": "leetcode/Medium/2-add-two-numbers"
     }
   ],
-  "last_updated": "2026-07-27 20:04:11"
+  "last_updated": "2026-07-28 20:01:01"
 };

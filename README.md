@@ -11,15 +11,15 @@ Welcome to my central repository for Data Structures, Algorithms, and coding cha
 <!--START_SECTION:leetcode-stats-->
 | Platform | Progress Bar | Solved | Easy | Medium | Hard |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| **LeetCode** | `████████████████████` | **820** | 356 | 378 | 86 |
+| **LeetCode** | `████████████████████` | **822** | 356 | 380 | 86 |
 | **GeeksforGeeks** | `░░░░░░░░░░░░░░░░░░░░` | **2** | 1 | 1 | 0 |
 | **HackerRank** | `░░░░░░░░░░░░░░░░░░░░` | **1** | 1 | 0 | 0 |
 | **Topic-wise / Custom** | - | **0** | 0 | 0 | 0 |
-| **Total Progress** | `████████████████████` | **823** | **358** | **379** | **86** |
+| **Total Progress** | `████████████████████` | **825** | **358** | **381** | **86** |
 
-**Languages Used:** `CPP (804)`, `MYSQL (9)`, `JAVASCRIPT (6)`, `JAVA (4)`, `C (2)`, `PYTHON (1)`
+**Languages Used:** `CPP (806)`, `MYSQL (9)`, `JAVASCRIPT (6)`, `JAVA (4)`, `C (2)`, `PYTHON (1)`
 
-**LeetCode Ranking:** #60,536 · **Contest Rating:** 1449.4 · **Contests Attended:** 9 · **Top:** 62.7%
+**LeetCode Ranking:** #59,494 · **Contest Rating:** 1449.4 · **Contests Attended:** 9 · **Top:** 62.7%
 <!--END_SECTION:leetcode-stats-->
 
 > [!TIP]
@@ -46,6 +46,8 @@ Below are the solved problems categorized by platform.
 
 | Date | Platform | Problem | Difficulty | Languages | Link | 
 | :---: | :--- | :--- | :---: | :---: | :---: |
+| 2026-07-28 | LeetCode | 3517. Smallest Palindromic Rearrangement I | 🟡 Medium | CPP | [Solution](./leetcode/Medium/3517-smallest-palindromic-rearrangement-i) / [Problem Link](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) |
+| 2026-07-28 | LeetCode | 918. Maximum Sum Circular Subarray | 🟡 Medium | CPP | [Solution](./leetcode/Medium/918-maximum-sum-circular-subarray) / [Problem Link](https://leetcode.com/problems/maximum-sum-circular-subarray/) |
 | 2026-07-27 | LeetCode | 1186. Maximum Subarray Sum with One Deletion | 🟡 Medium | CPP | [Solution](./leetcode/Medium/1186-maximum-subarray-sum-with-one-deletion) / [Problem Link](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) |
 | 2026-07-27 | LeetCode | 53. Maximum Subarray | 🟡 Medium | CPP | [Solution](./leetcode/Medium/53-maximum-subarray) / [Problem Link](https://leetcode.com/problems/maximum-subarray/) |
 | 2026-07-27 | LeetCode | 1464. Maximum Product of Two Elements in an Array | 🟢 Easy | CPP | [Solution](./leetcode/Easy/1464-maximum-product-of-two-elements-in-an-array) / [Problem Link](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) |
@@ -54,13 +56,11 @@ Below are the solved problems categorized by platform.
 | 2026-07-26 | LeetCode | 462. Minimum Moves to Equal Array Elements II | 🟡 Medium | CPP | [Solution](./leetcode/Medium/462-minimum-moves-to-equal-array-elements-ii) / [Problem Link](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) |
 | 2026-07-26 | LeetCode | 628. Maximum Product of Three Numbers | 🟢 Easy | CPP | [Solution](./leetcode/Easy/628-maximum-product-of-three-numbers) / [Problem Link](https://leetcode.com/problems/maximum-product-of-three-numbers/) |
 | 2026-07-25 | LeetCode | 3536. Maximum Product of Two Digits | 🟢 Easy | CPP | [Solution](./leetcode/Easy/3536-maximum-product-of-two-digits) / [Problem Link](https://leetcode.com/problems/maximum-product-of-two-digits/) |
-| 2026-07-25 | LeetCode | 258. Add Digits | 🟢 Easy | CPP | [Solution](./leetcode/Easy/258-add-digits) / [Problem Link](https://leetcode.com/problems/add-digits/) |
-| 2026-07-24 | LeetCode | 3514. Number of Unique XOR Triplets II | 🟡 Medium | CPP | [Solution](./leetcode/Medium/3514-number-of-unique-xor-triplets-ii) / [Problem Link](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/) |
 
 ---
 
 <details>
-<summary><b>📂 LeetCode Solutions (820)</b></summary>
+<summary><b>📂 LeetCode Solutions (822)</b></summary>
 
 | ID | Problem Title | Difficulty | Languages | Solutions |
 | :---: | :--- | :---: | :---: | :--- |
@@ -428,6 +428,7 @@ Below are the solved problems categorized by platform.
 | 912 | Sort an Array | 🟡 Medium | [`CPP`](./leetcode/Medium/912-sort-an-array) | [Problem Description](./leetcode/Medium/912-sort-an-array/README.md) | [External Link](https://leetcode.com/problems/sort-an-array/) |
 | 914 | X of a Kind in a Deck of Cards | 🟢 Easy | [`CPP`](./leetcode/Easy/914-x-of-a-kind-in-a-deck-of-cards) | [Problem Description](./leetcode/Easy/914-x-of-a-kind-in-a-deck-of-cards/README.md) | [External Link](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) |
 | 917 | Reverse Only Letters | 🟢 Easy | [`CPP`](./leetcode/Easy/917-reverse-only-letters) | [Problem Description](./leetcode/Easy/917-reverse-only-letters/README.md) | [External Link](https://leetcode.com/problems/reverse-only-letters/) |
+| 918 | Maximum Sum Circular Subarray | 🟡 Medium | [`CPP`](./leetcode/Medium/918-maximum-sum-circular-subarray) | [Problem Description](./leetcode/Medium/918-maximum-sum-circular-subarray/README.md) | [External Link](https://leetcode.com/problems/maximum-sum-circular-subarray/) |
 | 921 | Minimum Add to Make Parentheses Valid | 🟡 Medium | [`CPP`](./leetcode/Medium/921-minimum-add-to-make-parentheses-valid) | [Problem Description](./leetcode/Medium/921-minimum-add-to-make-parentheses-valid/README.md) | [External Link](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) |
 | 922 | Sort Array By Parity II | 🟢 Easy | [`CPP`](./leetcode/Easy/922-sort-array-by-parity-ii) | [Problem Description](./leetcode/Easy/922-sort-array-by-parity-ii/README.md) | [External Link](https://leetcode.com/problems/sort-array-by-parity-ii/) |
 | 925 | Long Pressed Name | 🟢 Easy | [`CPP`](./leetcode/Easy/925-long-pressed-name) | [Problem Description](./leetcode/Easy/925-long-pressed-name/README.md) | [External Link](https://leetcode.com/problems/long-pressed-name/) |
@@ -792,6 +793,7 @@ Below are the solved problems categorized by platform.
 | 3513 | Number of Unique XOR Triplets I | 🟡 Medium | [`CPP`](./leetcode/Medium/3513-number-of-unique-xor-triplets-i) | [Problem Description](./leetcode/Medium/3513-number-of-unique-xor-triplets-i/README.md) | [External Link](https://leetcode.com/problems/number-of-unique-xor-triplets-i/) |
 | 3514 | Number of Unique XOR Triplets II | 🟡 Medium | [`CPP`](./leetcode/Medium/3514-number-of-unique-xor-triplets-ii) | [Problem Description](./leetcode/Medium/3514-number-of-unique-xor-triplets-ii/README.md) | [External Link](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/) |
 | 3516 | Find Closest Person | 🟢 Easy | [`CPP`](./leetcode/Easy/3516-find-closest-person) | [Problem Description](./leetcode/Easy/3516-find-closest-person/README.md) | [External Link](https://leetcode.com/problems/find-closest-person/) |
+| 3517 | Smallest Palindromic Rearrangement I | 🟡 Medium | [`CPP`](./leetcode/Medium/3517-smallest-palindromic-rearrangement-i) | [Problem Description](./leetcode/Medium/3517-smallest-palindromic-rearrangement-i/README.md) | [External Link](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) |
 | 3527 | Find the Most Common Response | 🟡 Medium | [`CPP`](./leetcode/Medium/3527-find-the-most-common-response) | [Problem Description](./leetcode/Medium/3527-find-the-most-common-response/README.md) | [External Link](https://leetcode.com/problems/find-the-most-common-response/) |
 | 3532 | Path Existence Queries in a Graph I | 🟡 Medium | [`CPP`](./leetcode/Medium/3532-path-existence-queries-in-a-graph-i) | [Problem Description](./leetcode/Medium/3532-path-existence-queries-in-a-graph-i/README.md) | [External Link](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/) |
 | 3534 | Path Existence Queries in a Graph II | 🔴 Hard | [`CPP`](./leetcode/Hard/3534-path-existence-queries-in-a-graph-ii) | [Problem Description](./leetcode/Hard/3534-path-existence-queries-in-a-graph-ii/README.md) | [External Link](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/) |
