@@ -1,11 +1,11 @@
 const dashboardData = {
   "stats": {
-    "total": 825,
+    "total": 826,
     "leetcode": {
-      "total": 822,
+      "total": 823,
       "Easy": 356,
       "Medium": 380,
-      "Hard": 86
+      "Hard": 87
     },
     "geeksforgeeks": {
       "total": 2,
@@ -26,7 +26,7 @@ const dashboardData = {
       "Hard": 0
     },
     "languages": {
-      "cpp": 806,
+      "cpp": 807,
       "java": 4,
       "python": 1,
       "javascript": 6,
@@ -35,6 +35,25 @@ const dashboardData = {
     }
   },
   "problems": [
+    {
+      "id": "3518",
+      "title": "Smallest Palindromic Rearrangement II",
+      "url": "https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/",
+      "platform": "LeetCode",
+      "difficulty": "Hard",
+      "tags": [
+        "Hash Table",
+        "Math",
+        "String",
+        "Combinatorics",
+        "Counting"
+      ],
+      "solved_date": "2026-07-29",
+      "languages": [
+        "cpp"
+      ],
+      "path": "leetcode/Hard/3518-smallest-palindromic-rearrangement-ii"
+    },
     {
       "id": "3517",
       "title": "Smallest Palindromic Rearrangement I",
@@ -14110,5 +14129,5 @@ const dashboardData = {
       "path": "leetcode/Medium/2-add-two-numbers"
     }
   ],
-  "last_updated": "2026-07-28 20:01:01"
+  "last_updated": "2026-07-29 19:52:53"
 };
